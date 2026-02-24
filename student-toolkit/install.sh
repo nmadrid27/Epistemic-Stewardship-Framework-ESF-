@@ -43,17 +43,18 @@ echo "Installing..."
 
 # Create directory structure
 mkdir -p .claude/agents
+mkdir -p .claude/skills/esf-onboarding
 mkdir -p .claude/skills/esf-project
 mkdir -p .claude/reference
 
 # Download agents
 echo "  Fetching agents..."
-curl -sSL "$TOOLKIT_BASE/.claude/agents/esf-student.md"     -o .claude/agents/esf-student.md
-curl -sSL "$TOOLKIT_BASE/.claude/agents/esf-onboarding.md"  -o .claude/agents/esf-onboarding.md
+curl -sSL "$TOOLKIT_BASE/.claude/agents/esf-student.md" -o .claude/agents/esf-student.md
 
-# Download skill
-echo "  Fetching esf-project skill..."
-curl -sSL "$TOOLKIT_BASE/.claude/skills/esf-project/SKILL.md" -o .claude/skills/esf-project/SKILL.md
+# Download skills
+echo "  Fetching skills..."
+curl -sSL "$TOOLKIT_BASE/.claude/skills/esf-onboarding/SKILL.md" -o .claude/skills/esf-onboarding/SKILL.md
+curl -sSL "$TOOLKIT_BASE/.claude/skills/esf-project/SKILL.md"    -o .claude/skills/esf-project/SKILL.md
 
 # Download reference files
 echo "  Fetching reference files..."

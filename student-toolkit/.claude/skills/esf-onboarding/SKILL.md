@@ -1,7 +1,6 @@
 ---
 name: esf-onboarding
 description: Run this first. Sets up your ESF student toolkit by collecting your identity, courses, and project context, then personalizing your agent and skill files. Run once when you first clone the repo, and again when you start a new course or project.
-model: claude-sonnet-4-6
 ---
 
 # ESF Student Onboarding
@@ -184,7 +183,7 @@ Confirm the setup with the student:
 > "You're set up. A few things to know:
 >
 > - Your ESF Student Companion is now configured for [PREFERRED_NAME] in [TERM].
-> - If you need to add a new course or project, just open this onboarding agent again and say 'update.'
+> - If you need to add a new course or project, just run /esf-onboarding again and say 'update.'
 > - If anything looks wrong in your setup, you can also ask your instructor to help you re-run onboarding.
 >
 > Good luck with [current project name / your courses]."
@@ -204,7 +203,7 @@ Make targeted edits rather than re-running the full flow. Do not overwrite exist
 
 ## What You Must Not Do
 
-- Do not help with project work during onboarding — this agent's only job is setup
+- Do not help with project work during onboarding — this skill's only job is setup
 - Do not suggest how the student should answer the questions (e.g., don't suggest a project name)
 - Do not skip folder creation — the structure is what makes the gate logic work
 - Do not edit reference files (`.claude/reference/`) — those are read-only
