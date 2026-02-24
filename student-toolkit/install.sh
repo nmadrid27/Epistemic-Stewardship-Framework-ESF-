@@ -56,6 +56,7 @@ mkdir -p .claude/agents
 mkdir -p .claude/skills/esf-onboarding
 mkdir -p .claude/skills/esf-project
 mkdir -p .claude/reference
+mkdir -p prompts
 
 # Download agents
 echo "  Fetching agents..."
@@ -65,6 +66,12 @@ curl -sSL "$TOOLKIT_BASE/.claude/agents/esf-student.md" -o .claude/agents/esf-st
 echo "  Fetching skills..."
 curl -sSL "$TOOLKIT_BASE/.claude/skills/esf-onboarding/SKILL.md" -o .claude/skills/esf-onboarding/SKILL.md
 curl -sSL "$TOOLKIT_BASE/.claude/skills/esf-project/SKILL.md"    -o .claude/skills/esf-project/SKILL.md
+
+# Download prompts (for non-Claude Code users)
+echo "  Fetching prompts..."
+curl -sSL "$TOOLKIT_BASE/prompts/student-companion.md"  -o prompts/student-companion.md
+curl -sSL "$TOOLKIT_BASE/prompts/project-workflow.md"   -o prompts/project-workflow.md
+curl -sSL "$TOOLKIT_BASE/prompts/README.md"             -o prompts/README.md
 
 # Download reference files
 echo "  Fetching reference files..."

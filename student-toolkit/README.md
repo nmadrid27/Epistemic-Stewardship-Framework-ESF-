@@ -1,12 +1,23 @@
 # ESF Student Toolkit
 
-The Epistemic Stewardship Framework (ESF) Student Toolkit configures Claude Code to support your AI-assisted coursework — helping you develop and maintain your own ideas while working alongside AI.
+The Epistemic Stewardship Framework (ESF) Student Toolkit supports your AI-assisted coursework — helping you develop and maintain your own ideas while working alongside AI.
 
-This toolkit installs into **your own portfolio repo**, which you carry across the entire Applied AI program (AI 101 → AI 180 → AI 201 → AI 301). Your projects, position statements, and records of resistance accumulate there. The toolkit is the configuration layer; the work is yours.
+The ESF process works with any AI tool. This toolkit installs into **your own portfolio repo**, which you carry across the entire Applied AI program (AI 101 → AI 180 → AI 201 → AI 301). Your projects, position statements, and records of resistance accumulate there. The toolkit is the configuration layer; the work is yours.
 
 ---
 
-## Prerequisites
+## Which Setup Is Right for You?
+
+| Setup | Best for | What you get |
+|-------|----------|--------------|
+| **Claude Code** (recommended) | Students using the terminal | Automatic context loading, file system checks, `/esf-onboarding` and `/esf-project` skills |
+| **Any other AI tool** | Students using ChatGPT, Gemini, Claude.ai, etc. | Plain-text prompts you paste at the start of each session |
+
+Both paths follow the same ESF process. Claude Code automates more of the workflow. The `prompts/` folder works anywhere.
+
+---
+
+## Prerequisites (Claude Code)
 
 - [Claude Code](https://claude.ai/code) installed
 - A GitHub account
@@ -135,6 +146,20 @@ See `sample/README.md` for what to test and how to interpret the sample files.
 
 ---
 
+## Using Other AI Tools
+
+If you are not using Claude Code, use the plain-text prompts in the `prompts/` folder:
+
+- `prompts/student-companion.md` — fill in your info and paste as your system prompt
+- `prompts/project-workflow.md` — paste at the start of any project session
+- `prompts/README.md` — full instructions for non-Claude Code setup
+
+The same ESF process applies. The difference is that you paste context manually rather than having the toolkit load it automatically.
+
+---
+
 ## Questions
 
 Ask your instructor if something isn't working. The ESF Student Guide is in `.claude/reference/esf-student-guide.md` if you want to understand the methodology behind the process.
+
+For the plain-text prompt version, the same content is in `prompts/project-workflow.md`.
