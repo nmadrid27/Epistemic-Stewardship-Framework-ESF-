@@ -89,10 +89,10 @@ After onboarding for your first course:
 your-portfolio-repo/
 ├── .claude/                        ← Toolkit configuration (don't edit manually)
 │   ├── agents/
-│   │   ├── esf-student.md          ← Your personalized identity
-│   │   └── esf-onboarding.md       ← Setup wizard
+│   │   └── esf-student.md          ← Your personalized identity
 │   ├── skills/
-│   │   └── esf-project/            ← Level 2 workflow skill
+│   │   ├── esf-onboarding/         ← Setup wizard (/esf-onboarding)
+│   │   └── esf-project/            ← Level 2 workflow skill (/esf-project)
 │   └── reference/                  ← ESF guides and protocols
 ├── projects/
 │   └── [your-course]/
@@ -116,6 +116,22 @@ curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Fram
 ```
 
 Your projects and personalized agent file are not affected.
+
+---
+
+## Testing the Toolkit
+
+To try the toolkit before setting up your own profile, install with sample data:
+
+```bash
+curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash -s -- --sample
+```
+
+This installs a pre-filled AI-201 student profile (Alex Rivera, Responsive System project, Explore phase) with a project brief, position statement, and one Record of Resistance already in place.
+
+Open Claude Code and say: "I want to keep working on my responsive system." The toolkit will load immediately without onboarding.
+
+See `sample/README.md` for what to test and how to interpret the sample files.
 
 ---
 
