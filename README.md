@@ -91,4 +91,4 @@ This repository keeps ESF documentation and Claude Code toolkits together. That 
 ---
 
 *Epistemic Stewardship Framework*
-*Nathan Madrid, Savannah College of Art and Design*
+*Nathan Madrid*

@@ -133,4 +133,3 @@ The framework includes templates (Directive Memo, Integrity Report, Course AI Po
 ---
 
 *Epistemic Stewardship Framework | Nathan Madrid | 2026*
-*Developed from operational practice at the Savannah College of Art and Design*

@@ -156,4 +156,3 @@ ESF is grounded in 31 verified sources across 8 research areas, including episte
 ---
 
 *Epistemic Stewardship Framework | Nathan Madrid | 2026*
-*Developed from operational practice at SCAD*
