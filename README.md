@@ -20,16 +20,6 @@ Both levels use the same Five Questions at every human gate: *Can I defend this?
 
 ## Get Started
 
-### For Curriculum Team Members
-
-If you are joining the Applied AI curriculum team, start here:
-
-**[CURRICULUM-TEAM.md →](CURRICULUM-TEAM.md)**
-
-It covers what you're building, how to get set up, and how curriculum development works. Read it before anything else.
-
----
-
 ### For Students
 
 Install the ESF Student Toolkit into your own portfolio repo:
