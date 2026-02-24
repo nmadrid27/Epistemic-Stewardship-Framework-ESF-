@@ -4,6 +4,20 @@ A structured methodology for maintaining intellectual ownership in AI-assisted a
 
 ---
 
+## The Problem
+
+Universities have AI policies that regulate *whether* AI can be used. None have a methodology for *how* to use it without losing intellectual ownership of the work.
+
+Three specific failures in current approaches:
+
+- **Ban-or-permit policies** regulate access but do not structure practice
+- **Student-only focus** ignores that faculty use AI for professional work too
+- **Compliance framing** treats AI as an integrity problem rather than a knowledge-making problem
+
+ESF addresses the third: how do you produce work with AI assistance and remain genuinely accountable for it?
+
+---
+
 ## What Is ESF
 
 ESF operates at two levels:
@@ -65,13 +79,18 @@ The toolkit configures Claude Code with the Level 1 workflow, curriculum develop
 ├── framework/                  Academic documentation
 │   ├── ESF-Framework-Document.md
 │   ├── ESF-Literature-Review.md
-│   └── ESF-Novel-Contributions.md
+│   ├── ESF-Novel-Contributions.md
+│   ├── ESF-Executive-Summary.md
+│   ├── ESF-Research-Summary.md
+│   ├── ESF-Self-Application-Evidence.md
+│   └── ESF-Two-Level-Architecture.md
 ├── implementation-guide/       Practitioner guides and templates
 │   ├── ESF-Faculty-Guide.md
 │   ├── ESF-Student-Guide.md
 │   ├── ESF-Institutional-Guide.md
 │   └── templates/
 ├── appendices/                 Crosswalk, rubrics, comparison matrix
+├── ESF-TLDR.md                 Quick overview for new readers
 ├── student-toolkit/            Claude Code configuration for students
 │   ├── install.sh              ← Run this to install
 │   └── README.md
