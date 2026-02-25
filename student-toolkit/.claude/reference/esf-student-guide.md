@@ -35,6 +35,7 @@ This is your process for working with AI on any assignment that matters. It is b
 **Why this matters:** The Inquire phase forces you to engage with the problem on your own terms before AI offers you its version. If you jump straight to AI, you get the AI's interpretation of the problem, which may be competent but is not yours. Starting with your own questions means the work that follows is grounded in your understanding, not the AI's.
 
 **What this looks like in practice:**
+- Close your AI tools. Phase 1 is yours alone — not just conceptually, but practically. Do not open Claude Code, ChatGPT, or any other AI assistant during this phase. AI questions, even Socratic ones, introduce framing before you've formed your own. The goal is your unmediated engagement with the problem.
 - Read the assignment prompt carefully. Identify what it is really asking: not just the surface instructions, but the intellectual challenge underneath.
 - Write down what you already know about the topic. This can be rough (notes, fragments, questions). The point is to activate your own knowledge before encountering the AI's.
 - Identify what you do not know. What would you need to research, read, or think through before you could take a position?
@@ -74,7 +75,9 @@ Write a **Position Statement** with three elements:
 
 The Position Statement should take 5–10 minutes. Those minutes are where the learning happens. If you find you cannot write it (you do not know what your position is, or you have not read enough to have one), that is the most valuable information the exercise can produce. It tells you to go back to Inquire.
 
-**Human Gate:** *Have I written my position before consulting AI?* The position must exist on paper (or screen) before you open any AI tool. This is not a suggestion. It is the mechanism that protects your intellectual ownership of everything that follows.
+Write the Position Statement offline, without AI assistance. This means not asking an AI tool to help you think through your position, suggest a structure, or prompt you with questions. Even well-intentioned questions from AI will introduce framing that shapes your position before you have formed it on your own. "What should I be thinking about?" is still an AI-shaped position.
+
+**Human Gate:** *Have I written my position before consulting AI?* The position must exist before you open an AI tool on this project — and before you ask AI any process questions about how to write it. This is not a suggestion. It is the mechanism that protects your intellectual ownership of everything that follows.
 
 ---
 
