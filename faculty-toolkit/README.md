@@ -81,9 +81,9 @@ After onboarding:
 your-faculty-repo/
 ├── .claude/                              ← Toolkit configuration (don't edit manually)
 │   ├── agents/
-│   │   ├── esf-faculty.md               ← Your personalized identity
-│   │   └── esf-onboarding.md            ← Setup wizard
+│   │   └── esf-faculty.md               ← Your personalized identity
 │   ├── skills/
+│   │   ├── esf-onboarding/              ← Setup wizard (/esf-onboarding)
 │   │   ├── curriculum-dev/              ← Course design workflow
 │   │   └── document-production/         ← Institutional document workflow
 │   └── reference/                       ← ESF guides and protocols

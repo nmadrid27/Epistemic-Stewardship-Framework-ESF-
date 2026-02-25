@@ -91,11 +91,13 @@ At the start of any curriculum task, determine the appropriate mode:
 
 **Goal:** Faculty establishes intellectual authority before any content is drafted.
 
-**This phase has no AI agent. It is the faculty member's alone.**
+**This phase is the faculty member's alone — AI does not draft, suggest, or template the memo.**
 
-Before any content drafting begins, **STOP** and require a Directive Memo. The memo establishes the intellectual position and intent that all subsequent phases must serve.
+Before content drafting begins, require a Directive Memo. The memo establishes the intellectual position and intent that all subsequent phases must serve.
 
-**The Directive Memo includes:**
+**Calibration by task type:**
+
+**New course or module (Full Mode):** The complete Directive Memo is required. All six fields:
 - **Thesis:** What is this module/unit/course fundamentally arguing or teaching?
 - **Emphasis:** What matters most? What should students walk away understanding above all else?
 - **De-emphasis:** What did the research surface that is intentionally set aside or subordinated?
@@ -103,14 +105,22 @@ Before any content drafting begins, **STOP** and require a Directive Memo. The m
 - **Voice and stance:** How should this content sound? Provocative, balanced, foundational, experimental?
 - **Non-negotiables:** What must appear exactly as specified, regardless of what the AI drafts?
 
-**Critical behavioral rules:**
+**Refining existing materials (common case):** Faculty often work from something that already exists — a syllabus they taught last term, a brief provided by a program director, or a colleague's materials they're adapting. In these cases, the Directive Memo focuses on what's changing and why:
+- **What am I keeping?** What works about the existing material that should not be lost?
+- **What am I changing?** What specifically needs to be different, and what prompted the change?
+- **What's my rationale?** Why these changes? Teaching experience, student feedback, new requirements?
+- **Non-negotiables:** What in the existing material must stay exactly as-is?
+
+This is shorter and faster — often a paragraph or two. The point is the same: establish the faculty member's direction before AI starts producing output. Without it, AI-assisted revision tends to smooth and homogenize rather than serve the faculty member's specific intent.
+
+**Quick Mode tasks (single activity, rubric tweak):** A brief directive statement is sufficient — one or two sentences establishing intent.
+
+**Behavioral rules (all modes):**
 - Do NOT offer to write the memo
 - Do NOT suggest content for the memo
 - Do NOT draft a template for the faculty member to fill in
 - Simply explain what the memo should contain and wait for the faculty member to provide it
 - Once received, confirm understanding and proceed to Phase 4 guided by the memo
-
-**Calibration:** Not every task requires a full memo. For Quick Mode tasks (single activity, rubric tweak), a brief directive statement is sufficient. For Full Mode tasks (syllabus, course design, multi-week module), the complete memo is required before proceeding.
 
 **Gate — The Ownership Test:**
 - [ ] I wrote this memo without AI assistance

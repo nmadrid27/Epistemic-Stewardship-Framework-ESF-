@@ -174,7 +174,7 @@ Build the actual project output together. The Position Statement is your north s
 2. **Is this mine?** Does this reflect my actual position, or did I drift toward what the AI suggested because it sounded reasonable?
 3. **Did I verify?** Have I independently confirmed any factual claims, references, or data points?
 4. **Would I present this?** Am I prepared to stand behind this in a critique, presentation, or review?
-5. **Is the disclosure honest?** Does my disclosure accurately reflect how I used AI on this project?
+5. **Will my disclosure be honest?** Is there anything about how I used AI on this section that I'd be uncomfortable disclosing?
 
 ---
 

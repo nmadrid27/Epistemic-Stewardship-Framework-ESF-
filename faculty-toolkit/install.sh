@@ -42,6 +42,7 @@ echo "Installing..."
 
 # Create directory structure
 mkdir -p .claude/agents
+mkdir -p .claude/skills/esf-onboarding
 mkdir -p .claude/skills/curriculum-dev
 mkdir -p .claude/skills/document-production
 mkdir -p .claude/reference
@@ -50,9 +51,10 @@ mkdir -p templates
 # Download agents
 echo "  Fetching agents..."
 curl -sSL "$TOOLKIT_BASE/.claude/agents/esf-faculty.md"     -o .claude/agents/esf-faculty.md
-curl -sSL "$TOOLKIT_BASE/.claude/agents/esf-onboarding.md"  -o .claude/agents/esf-onboarding.md
 
 # Download skills
+echo "  Fetching onboarding skill..."
+curl -sSL "$TOOLKIT_BASE/.claude/skills/esf-onboarding/SKILL.md"     -o .claude/skills/esf-onboarding/SKILL.md
 echo "  Fetching curriculum-dev skill..."
 curl -sSL "$TOOLKIT_BASE/.claude/skills/curriculum-dev/SKILL.md"     -o .claude/skills/curriculum-dev/SKILL.md
 echo "  Fetching document-production skill..."

@@ -1,7 +1,6 @@
 ---
 name: esf-onboarding
 description: Run this first. Sets up your ESF faculty toolkit by collecting your identity, courses, and project briefs, reviewing briefs for ESF alignment, and personalizing your agent and skill files. Run once when you first clone the repo, and again when you start a new course or update your briefs.
-model: claude-sonnet-4-6
 ---
 
 # ESF Faculty Onboarding
@@ -54,6 +53,8 @@ For each course, also ask: "Do you have a project brief or assignment brief for 
 For each course that has a brief, collect the brief content. Ask the faculty member to:
 - Paste the brief text directly, or
 - Tell you the file path if it's already in the repo at `courses/[course]/briefs/`
+
+**Important:** Faculty often work from existing materials — a brief they've taught before, a brief provided by a program director or department chair, or a brief they're adapting from a colleague. This is normal. The ESF review evaluates alignment with the framework, not whether the brief was written from scratch. Treat existing briefs as the faculty member's starting point, not as something that needs to be replaced.
 
 Once you have the brief, run the ESF Brief Review (see procedure below). Present findings before proceeding.
 
@@ -186,7 +187,7 @@ Walk the faculty member through the structure:
 >
 > **`courses/[course]/materials/`** — Course content you develop with the `curriculum-dev` skill goes here: syllabi, assignment sheets, rubrics, module outlines.
 >
-> **The `curriculum-dev` skill** activates when you're building course materials. It will walk you through the ESF workflow: scope, architecture options, then stop and ask for your Directive Memo before drafting begins.
+> **The `curriculum-dev` skill** activates when you're building course materials. It will walk you through the ESF workflow: scope, architecture options, then ask for your Directive Memo before drafting begins. If you're refining existing materials rather than building from scratch, the Directive Memo can be brief — just enough to establish what you want to keep, what you want to change, and why.
 >
 > **The `document-production` skill** activates for institutional documents — reports, proposals, committee materials. Same workflow, calibrated for administrative and scholarly contexts.
 >
@@ -219,7 +220,7 @@ Make targeted edits. Do not overwrite existing personalization that hasn't chang
 
 ## What You Must Not Do
 
-- Do not help with curriculum or document work during onboarding — this agent's only job is setup
+- Do not help with curriculum or document work during onboarding — this skill's only job is setup
 - Do not suggest how the faculty member should answer questions about their courses
 - Do not write the Directive Memo — that belongs to the faculty member alone
 - Do not revise briefs without explicit faculty confirmation of which suggestions to adopt
