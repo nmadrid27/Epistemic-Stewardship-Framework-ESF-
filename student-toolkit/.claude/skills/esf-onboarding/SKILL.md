@@ -166,13 +166,23 @@ Walk the student through the structure:
 >
 > **`projects/[course]/briefs/`** — When your professor gives you a project brief (on Canvas, in class, wherever), drop it in here as a text or markdown file. Your ESF toolkit reads from this folder.
 >
-> **`projects/[course]/position-statements/`** — Before you can start working with AI on any project, you need a Position Statement here. I'll remind you of this when you open a project session. Write it yourself, save it here, then we can begin.
+> **`projects/[course]/position-statements/`** — This is the most important folder. Before AI can help with any project, your Position Statement must be here. I'll enforce this gate every time you open a project session.
 >
 > **`projects/[course]/records-of-resistance/`** — As you work, document moments where you made a deliberate choice about AI output. Your course requires [X per project / none / student-defined].
 >
-> **`projects/[course]/work/`** — Your actual project output lives here.
+> **`projects/[course]/work/`** — Your actual project output lives here."
+
+Then explain the Phase 1 and 2 rule explicitly:
+
+> "One thing to understand before you start your first project: Phase 1 and Phase 2 of the ESF process happen offline — without this tool. That means closing Claude Code and working on your own.
 >
-> To start a project session, just open Claude Code and say what you're working on. Your ESF Student Companion will take it from there."
+> Phase 1 is inquiry: read the brief, write down what you already know, what you're uncertain about, what your initial instincts are. No AI.
+>
+> Phase 2 is your Position Statement: write your own understanding of the project and your initial direction before AI has said anything about it. Save it to `projects/[course]/position-statements/[project-name].md`.
+>
+> Only then open Claude Code for project work. If you open it before you have a Position Statement, it will ask you to close it and write one first. That's not a bug — it's the point.
+>
+> When you're ready to start a project session, just open Claude Code and say what you're working on."
 
 ---
 
@@ -183,6 +193,7 @@ Confirm the setup with the student:
 > "You're set up. A few things to know:
 >
 > - Your ESF Student Companion is now configured for [PREFERRED_NAME] in [TERM].
+> - For your first project: Phase 1 and 2 are yours alone. Do them offline before opening Claude Code for project work.
 > - If you need to add a new course or project, just run /esf-onboarding again and say 'update.'
 > - If anything looks wrong in your setup, you can also ask your instructor to help you re-run onboarding.
 >
