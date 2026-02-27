@@ -1,5 +1,5 @@
 ---
-title: "ESF Research Summary — Sources, Integration, and Ongoing Needs"
+title: "ESF Research Summary: Sources, Integration, and Ongoing Needs"
 author: Nathan Madrid
 date: 2026-02-19
 version: "1.0-draft"
@@ -57,12 +57,12 @@ Every source carries an epistemic marker:
 
 The theoretical center of ESF. Establishes that intellectual ownership requires active, structural support. It does not happen automatically.
 
-| # | Source | Year | Key Contribution to ESF | Where It Appears | Verified |
-|---|--------|------|------------------------|-----------------|----------|
-| 1 | Clark, A. & Chalmers, D.J. — "The extended mind" (*Analysis*) | 1998 | **Active endorsement condition.** For AI to function as a legitimate cognitive extension, the human must actively endorse its contributions. This is the philosophical anchor of the Directive Memo. | Framework Document (B.1), Novel Contributions (#1), TLDR, Self-Application Evidence | Confirmed |
-| 2 | Hutchins, E. — *Cognition in the Wild* (MIT Press) | 1995 | **Distributed cognition requires coordination.** When work is distributed between human and AI, the coordination function (determining what the work argues, values, emphasizes) must remain with the human. | Framework Document (B.1) | Confirmed |
-| 3 | Wu, J., Puntambekar, S. & Xiao, Y. — "Epistemic agency and AI in education" (*Educational Researcher*) | 2025 | **AI can accelerate knowledge production while undermining epistemic development.** Establishes the fundamental tension ESF is designed to address. Argues for structural mechanisms preserving human epistemic agency. | Framework Document (B.1, B.5), Literature Review (B.1, B.5) | Plan-verified |
-| 4 | Bozkurt, A. — "GenAI et al.: Cocreation, authorship, ownership" (*Open Praxis*) | 2024 | **Cocreation requires new authorship frameworks.** Supports ESF's position that traditional notions of single authorship must be replaced with structured transparency about the division of intellectual labor. | Framework Document (B.1), Literature Review (B.1) | Plan-verified |
+| #   | Source                                                                                                 | Year | Key Contribution to ESF                                                                                                                                                                                                 | Where It Appears                                                                    | Verified      |
+| --- | ------------------------------------------------------------------------------------------------------ | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ------------- |
+| 1   | Clark, A. & Chalmers, D.J., "The extended mind" (*Analysis*)                                          | 1998 | **Active endorsement condition.** For AI to function as a legitimate cognitive extension, the human must actively endorse its contributions. This is the philosophical anchor of the Directive Memo.                    | [[ESF-Framework-Document]] (B.1), [[ESF-Novel-Contributions]] (#1), [[ESF-TLDR]], [[ESF-Self-Application-Evidence]] | Confirmed     |
+| 2   | Hutchins, E., *Cognition in the Wild* (MIT Press)                                                     | 1995 | **Distributed cognition requires coordination.** When work is distributed between human and AI, the coordination function (determining what the work argues, values, emphasizes) must remain with the human.            | [[ESF-Framework-Document]] (B.1)                                                            | Confirmed     |
+| 3   | Wu, J., Puntambekar, S. & Xiao, Y., "Epistemic agency and AI in education" (*Educational Researcher*) | 2025 | **AI can accelerate knowledge production while undermining epistemic development.** Establishes the fundamental tension ESF is designed to address. Argues for structural mechanisms preserving human epistemic agency. | [[ESF-Framework-Document]] (B.1, B.5), [[ESF-Literature-Review]] (B.1, B.5)                         | Plan-verified |
+| 4   | Bozkurt, A., "GenAI et al.: Cocreation, authorship, ownership" (*Open Praxis*)                        | 2024 | **Cocreation requires new authorship frameworks.** Supports ESF's position that traditional notions of single authorship must be replaced with structured transparency about the division of intellectual labor.        | [[ESF-Framework-Document]] (B.1), [[ESF-Literature-Review]] (B.1)                                   | Plan-verified |
 
 **Integration pattern:** These sources provide ESF's philosophical foundation. Clark & Chalmers appear wherever the Directive Memo is justified. Wu et al. appear wherever the epistemic agency tension is described. They validate *why* ESF exists; the constructs address *how*.
 
@@ -74,10 +74,10 @@ Establishes that human oversight of AI is harder than it looks, degrades over ti
 
 | # | Source | Year | Key Contribution to ESF | Where It Appears | Verified |
 |---|--------|------|------------------------|-----------------|----------|
-| 5 | Tankelevitch, L. et al. — "Metacognitive demands of GenAI" (CHI '24) | 2024 | **Metacognitive effort is not self-sustaining.** Humans underestimate the difficulty of detecting when AI output departs from their understanding. Directly motivates the Five Questions' recurring structure. | Framework Document (B.2), Literature Review (B.2), Novel Contributions (#1, #5), TLDR, Self-Application Evidence | Plan-verified |
-| 6 | Atchley, R.A. et al. — "Cognitive automation in AI-assisted work" (*Cognitive Research*) | 2024 | **Repeated AI use reduces vigilance.** Cognitive automation is not a moral failing but a documented adaptation. Motivates the Gate Verification Record (external check on internal metacognitive processes). | Framework Document (B.2), Literature Review (B.2), Novel Contributions (#5), TLDR, Self-Application Evidence | Plan-verified |
-| 7 | Bearman, M. et al. — "Discourses of AI in higher education assessment" (*Assessment & Evaluation in Higher Ed*) | 2024 | **Assessment must make cognitive processes visible.** Submitted work may not reflect the submitter's engagement. Supports ESF's emphasis on process documentation (Directive Memo, gate records, Integrity Reports). | Framework Document (B.2), Literature Review (B.2, B.3), Novel Contributions (#5) | Plan-verified |
-| 8 | EU AI Act, Article 14 | 2024 | **Human oversight must be structural, not aspirational.** Regulatory precedent that oversight must be designed into systems. ESF extends this logic: oversight must be designed into workflows. | Framework Document (B.2), Literature Review (B.2) | Confirmed |
+| 5 | Tankelevitch, L. et al., "Metacognitive demands of GenAI" (CHI '24) | 2024 | **Metacognitive effort is not self-sustaining.** Humans underestimate the difficulty of detecting when AI output departs from their understanding. Directly motivates the Five Questions' recurring structure. | [[ESF-Framework-Document]] (B.2), [[ESF-Literature-Review]] (B.2), [[ESF-Novel-Contributions]] (#1, #5), [[ESF-TLDR]], [[ESF-Self-Application-Evidence]] | Plan-verified |
+| 6 | Atchley, R.A. et al., "Cognitive automation in AI-assisted work" (*Cognitive Research*) | 2024 | **AI as external representation reduces cognitive engagement.** Paper argues AI reduces information processing demands, with costs to cognitive engagement with work's substance. "Cognitive automation" is their concept for this risk. Motivates the Gate Verification Record. Confirmed 2026-02-23: paper posits this as pedagogical concern, not demonstrated experimental finding. | [[ESF-Framework-Document]] (B.2), [[ESF-Literature-Review]] (B.2), [[ESF-Novel-Contributions]] (#5), [[ESF-TLDR]], [[ESF-Self-Application-Evidence]] | Confirmed (2026-02-23) |
+| 7 | Bearman, M. et al., "Discourses of AI in higher education assessment" (*Assessment & Evaluation in Higher Ed*) | 2024 | **Assessment must make cognitive processes visible.** Submitted work may not reflect the submitter's engagement. Supports ESF's emphasis on process documentation (Directive Memo, gate records, Integrity Reports). | [[ESF-Framework-Document]] (B.2), [[ESF-Literature-Review]] (B.2, B.3), [[ESF-Novel-Contributions]] (#5) | Plan-verified |
+| 8 | EU AI Act, Article 14 | 2024 | **Human oversight must be structural, not aspirational.** Regulatory precedent that oversight must be designed into systems. ESF extends this logic: oversight must be designed into workflows. | [[ESF-Framework-Document]] (B.2), [[ESF-Literature-Review]] (B.2) | Confirmed |
 
 **Integration pattern:** These sources justify ESF's structural interventions. Tankelevitch motivates the Five Questions. Atchley motivates the Gate Verification Record. Bearman motivates process documentation. They answer the question: "Why can't people just review their own work?"
 
@@ -89,8 +89,8 @@ Supports the Content Epistemic Weight model: not all content demands the same le
 
 | # | Source | Year | Key Contribution to ESF | Where It Appears | Verified |
 |---|--------|------|------------------------|-----------------|----------|
-| 9 | Perkins, M. et al. — AI Assessment Scale (AIAS) (*JUTLP*) | 2024 | **Graduated AI involvement scale.** Five levels for student assessment. ESF's key differentiation: AIAS frames levels as policy choices; ESF frames weight as inherent property of content type. AIAS is complementary, not competing. | Framework Document (B.3), Literature Review (B.3), Novel Contributions (#2), Comparison Matrix (full dimension) | Plan-verified |
-| 10 | Bloom, B.S. et al. — *Taxonomy of Educational Objectives* | 1956 | **Cognitive taxonomy maps to human involvement demands.** Higher-order tasks (evaluate, synthesize, create) inherently require more human judgment. Provides the cognitive architecture underlying ESF's three-tier weight model. | Framework Document (B.3), Literature Review (B.3) | Confirmed |
+| 9 | Perkins, M. et al., AI Assessment Scale (AIAS) (*JUTLP*) | 2024 | **Graduated AI involvement scale.** Five levels for student assessment. ESF's key differentiation: AIAS frames levels as policy choices; ESF frames weight as inherent property of content type. AIAS is complementary, not competing. | [[ESF-Framework-Document]] (B.3), [[ESF-Literature-Review]] (B.3), [[ESF-Novel-Contributions]] (#2), [[ESF-Comparison-Matrix]] (full dimension) | Plan-verified |
+| 10 | Bloom, B.S. et al., *Taxonomy of Educational Objectives* | 1956 | **Cognitive taxonomy maps to human involvement demands.** Higher-order tasks (evaluate, synthesize, create) inherently require more human judgment. Provides the cognitive architecture underlying ESF's three-tier weight model. | [[ESF-Framework-Document]] (B.3), [[ESF-Literature-Review]] (B.3) | Confirmed |
 
 **Integration pattern:** Perkins appears wherever ESF differentiates itself from AIAS. Bloom provides the cognitive logic for the weight tiers. Together they validate the graduated approach while showing ESF's reframing from policy choice to epistemic property.
 
@@ -102,9 +102,9 @@ Grounds the Disclosure Protocol and its distinction between compliance transpare
 
 | # | Source | Year | Key Contribution to ESF | Where It Appears | Verified |
 |---|--------|------|------------------------|-----------------|----------|
-| 11 | Weaver, K. — AI Disclosure (AID) Framework | 2024 | **Structured disclosure as professional practice.** Normalizes AI use documentation. ESF extends AID by anchoring disclosure to the Directive Memo and adding the Integrity Report as internal accountability artifact. AID templates can serve as ESF's disclosure component. | Framework Document (B.4), Literature Review (B.4), Novel Contributions (#1), Comparison Matrix (full dimension) | Plan-verified |
-| 12 | Miao, F. & Holmes, W. / UNESCO — *Guidance for GenAI in Education* | 2023 | **Policy-level transparency mandate.** Establishes institutional expectations for documenting AI use. ESF translates aspirational policy to operational workflow. | Framework Document (A, B.4), Literature Review (A, B.4), Comparison Matrix (full dimension) | Confirmed |
-| 13 | OECD — *AI Principles* | 2023 | **International transparency standards.** Complements UNESCO with cross-national framing. ESF positions as operational methodology within this policy context. | Framework Document (A, B.4), Literature Review (A, B.4), Comparison Matrix | Confirmed |
+| 11 | Weaver, K., AI Disclosure (AID) Framework | 2024 | **Structured disclosure as professional practice.** Normalizes AI use documentation. ESF extends AID by anchoring disclosure to the Directive Memo and adding the Integrity Report as internal accountability artifact. AID templates can serve as ESF's disclosure component. | [[ESF-Framework-Document]] (B.4), [[ESF-Literature-Review]] (B.4), [[ESF-Novel-Contributions]] (#1), [[ESF-Comparison-Matrix]] (full dimension) | Plan-verified |
+| 12 | Miao, F. & Holmes, W. / UNESCO, *Guidance for GenAI in Education* | 2023 | **Policy-level transparency mandate.** Establishes institutional expectations for documenting AI use. ESF translates aspirational policy to operational workflow. | [[ESF-Framework-Document]] (A, B.4), [[ESF-Literature-Review]] (A, B.4), [[ESF-Comparison-Matrix]] (full dimension) | Confirmed |
+| 13 | OECD, *AI Principles* | 2023 | **International transparency standards.** Complements UNESCO with cross-national framing. ESF positions as operational methodology within this policy context. | [[ESF-Framework-Document]] (A, B.4), [[ESF-Literature-Review]] (A, B.4), [[ESF-Comparison-Matrix]] | Confirmed |
 
 **Integration pattern:** Weaver is ESF's closest disclosure precedent and strongest complementarity partner. UNESCO and OECD provide the policy context ESF operates within. The key ESF contribution here is the distinction between "AI was used" (compliance) and "here is whose thinking this is" (epistemic transparency).
 
@@ -116,7 +116,7 @@ Addresses the educational paradox: reducing cognitive load may reduce learning.
 
 | # | Source | Year | Key Contribution to ESF | Where It Appears | Verified |
 |---|--------|------|------------------------|-----------------|----------|
-| 14 | Sweller, J. — "Cognitive load during problem solving" (*Cognitive Science*) | 1988 | **Cognitive load reduction can undermine learning.** AI eliminates effort that may be pedagogically necessary. ESF's response: redistribute cognitive load rather than simply reduce it. The Directive Memo and Five Questions reintroduce targeted effort at epistemic decision points. | Framework Document (B.5), Literature Review (B.5) | Confirmed |
+| 14 | Sweller, J., "Cognitive load during problem solving" (*Cognitive Science*) | 1988 | **Cognitive load reduction can undermine learning.** AI eliminates effort that may be pedagogically necessary. ESF's response: redistribute cognitive load rather than simply reduce it. The Directive Memo and Five Questions reintroduce targeted effort at epistemic decision points. | [[ESF-Framework-Document]] (B.5), [[ESF-Literature-Review]] (B.5) | Confirmed |
 
 **Integration pattern:** Sweller provides the theoretical basis for ESF's design philosophy. The framework does not restrict AI use but structures it to preserve the cognitive engagement that produces genuine understanding. This is especially relevant to the Level 2 (student) process.
 
@@ -128,10 +128,10 @@ Grounds the phased workflow model and the Framework Evolution Protocol.
 
 | # | Source | Year | Key Contribution to ESF | Where It Appears | Verified |
 |---|--------|------|------------------------|-----------------|----------|
-| 15 | Brown, T. — "Design thinking" (*Harvard Business Review*) | 2008 | **Iterative cycles with human judgment at convergences.** Provides the structural logic ESF adapts. ESF's addition: epistemic accountability at each convergence, not just quality assessment. | Framework Document (B.6), Literature Review (B.6), Novel Contributions (#3) | Confirmed |
-| 16 | Torrance, E.P. — *Facilitating Adult Learning* (ATD Press) | 2019 | **Structured learning cycles with decision gates.** Professional development model with explicit pause-and-evaluate points. Directly reflected in ESF's Human Validation Gates. | Framework Document (B.6), Literature Review (B.6), Novel Contributions (#3) | Plan-verified |
-| 17 | Luksha, P. et al. — "Learning ecosystems for societal transformation" (*HSSC*) | 2024 | **Methodologies must be designed for adaptation.** Supports the Framework Evolution Protocol: frameworks that cannot evolve become obsolete. | Framework Document (B.6), Literature Review (B.6), TLDR (tool-agnostic rationale) | Plan-verified |
-| 18 | Zawacki-Richter, O. et al. — "Systematic review: Where are the educators?" (*IJETHE*) | 2019 | **The faculty-facing gap.** Most AI-in-education research targets students. Faculty as practitioners are largely absent. Remains the strongest evidence for ESF's Novel Contribution #4. Also supports the need for framework evolution, since each AI generation displaces prior tool-specific approaches. | Framework Document (A, B.6), Literature Review (A, B.6), Novel Contributions (#4), TLDR (tool-agnostic rationale) | Confirmed |
+| 15 | Brown, T., "Design thinking" (*Harvard Business Review*) | 2008 | **Iterative cycles with human judgment at convergences.** Provides the structural logic ESF adapts. ESF's addition: epistemic accountability at each convergence, not just quality assessment. | [[ESF-Framework-Document]] (B.6), [[ESF-Literature-Review]] (B.6), [[ESF-Novel-Contributions]] (#3) | Confirmed |
+| 16 | Torrance, E.P., *Facilitating Adult Learning* (ATD Press) | 2019 | **Structured learning cycles with decision gates.** Professional development model with explicit pause-and-evaluate points. Directly reflected in ESF's Human Validation Gates. | [[ESF-Framework-Document]] (B.6), [[ESF-Literature-Review]] (B.6), [[ESF-Novel-Contributions]] (#3) | Plan-verified |
+| 17 | Luksha, P. et al., "Learning ecosystems for societal transformation" (*HSSC*) | 2024 | **Methodologies must be designed for adaptation.** Supports the Framework Evolution Protocol: frameworks that cannot evolve become obsolete. | [[ESF-Framework-Document]] (B.6), [[ESF-Literature-Review]] (B.6), [[ESF-TLDR]] (tool-agnostic rationale) | Plan-verified |
+| 18 | Zawacki-Richter, O. et al., "Systematic review: Where are the educators?" (*IJETHE*) | 2019 | **The faculty-facing gap.** Most AI-in-education research targets students. Faculty as practitioners are largely absent. Remains the strongest evidence for ESF's Novel Contribution #4. Also supports the need for framework evolution, since each AI generation displaces prior tool-specific approaches. | [[ESF-Framework-Document]] (A, B.6), [[ESF-Literature-Review]] (A, B.6), [[ESF-Novel-Contributions]] (#4), [[ESF-TLDR]] (tool-agnostic rationale) | Confirmed |
 
 **Integration pattern:** Brown and Torrance provide the iterative workflow logic. Luksha supports the Evolution Protocol. Zawacki-Richter is the single most important source for ESF's positioning: the faculty-facing gap identified in 2019 remains substantially open in 2026.
 
@@ -143,9 +143,9 @@ Reframes AI literacy from technical competency to epistemic practice.
 
 | # | Source | Year | Key Contribution to ESF | Where It Appears | Verified |
 |---|--------|------|------------------------|-----------------|----------|
-| 19 | Allen, L.K. & Kendeou, P. — "AI literacy for all" (*Policy Insights*) | 2024 | **AI literacy as civic competency.** ED-AI Lit framework defines what students should understand about AI. ESF defines the methodology by which that understanding is practiced. Complementary. | Framework Document (B.7), Literature Review (B.7), Comparison Matrix (full dimension) | Plan-verified |
-| 20 | Kassorla, M. et al. — "AI literacy in higher education" (EDUCAUSE) | 2024 | **Institutional AI literacy integration.** Surfaces the gap: literacy frameworks define what to understand but not how to practice understanding. ESF's engagement levels fill this gap. | Framework Document (B.7), Literature Review (B.7) | Plan-verified |
-| 21 | Luckin, R. et al. — *Intelligence Unleashed* (Pearson/UCL) | 2016 | **Empowerment vs. substitution.** Foundational question: is AI empowering or replacing human effort? Runs through ESF's entire architecture. | Framework Document (B.7), Literature Review (B.7) | Confirmed |
+| 19 | Allen, L.K. & Kendeou, P., "AI literacy for all" (*Policy Insights*) | 2024 | **AI literacy as civic competency.** ED-AI Lit framework defines what students should understand about AI. ESF defines the methodology by which that understanding is practiced. Complementary. | [[ESF-Framework-Document]] (B.7), [[ESF-Literature-Review]] (B.7), [[ESF-Comparison-Matrix]] (full dimension) | Plan-verified |
+| 20 | Kassorla, M. et al., "AI literacy in higher education" (EDUCAUSE) | 2024 | **Institutional AI literacy integration.** Surfaces the gap: literacy frameworks define what to understand but not how to practice understanding. ESF's engagement levels fill this gap. | [[ESF-Framework-Document]] (B.7), [[ESF-Literature-Review]] (B.7) | Plan-verified |
+| 21 | Luckin, R. et al.: *Intelligence Unleashed* (Pearson/UCL) | 2016 | **Empowerment vs. substitution.** Foundational question: is AI empowering or replacing human effort? Runs through ESF's entire architecture. | [[ESF-Framework-Document]] (B.7), [[ESF-Literature-Review]] (B.7) | Confirmed |
 
 **Integration pattern:** Allen & Kendeou and Kassorla establish the literacy landscape ESF complements. Luckin's empowerment/substitution distinction is ESF's orienting question: the framework is designed to ensure AI empowers rather than substitutes.
 
@@ -157,16 +157,16 @@ Added in v2.0 to support the two-level architecture and human-first sequencing. 
 
 | # | Source | Year | Key Contribution to ESF | Where It Appears | Verified |
 |---|--------|------|------------------------|-----------------|----------|
-| 22 | Hutson, J. — "Scaffolded integration: Three-tiered framework" (*FARJES*) | 2025 | **Human-first sequencing.** Students must demonstrate independent proficiency before AI access. Timed tasks and oral defenses verify genuine competence. Directly supports Level 2 Phases 1-2 being human-only. | Literature Review (B.8), Student Guide, Faculty Guide (Section G) | NotebookLM-sourced |
-| 23 | Washington State OSPI — *Student Scaffolding Scale for AI* | 2024 | **H-AI-H (Human-AI-Human) cycle.** Every AI interaction bookended by human inquiry and reflection. ESF's Level 2 implements this: human-only Phases 1-2, AI enters Phase 3, human-only reflection Phase 5. | Literature Review (B.8), Comparison Matrix (Student Agency) | NotebookLM-sourced |
-| 24 | Pasmala, T. et al. — "Research-based learning with AI" (*Higher Education Studies*) | 2026 | **90% of cognitive load for problem identification occurs before AI assists.** AI as accelerator of already-directed inquiry. Reinforces human-first principle. | Literature Review (B.8) | NotebookLM-sourced [PREPRINT] |
-| 25 | Naeem, M. — "Teaching skills and intellectual virtues with GenAI" (*Episteme*) | 2025 | **Q-Tutor model: questioning as intellectual virtue.** AI should teach questioning, not just answer. Supports ESF's human gates as Socratic questions rather than compliance checkboxes. | Literature Review (B.8) | NotebookLM-sourced |
-| 26 | Favero, L. et al. — "Socratic chatbot for critical thinking" (AI in Education Workshop) | 2024 | **Maike chatbot: Socratic interaction produces deeper engagement than direct instruction.** Methodological support for ESF's gate design: gates prompt articulation, not permission. | Literature Review (B.8) | NotebookLM-sourced |
-| 27 | Degen, J. & Asanov, I. — "Socratic AI, epistemic agency, and education" (*arXiv*) | 2025 | **Experimental evidence.** Socratic AI tutor vs. uninstructed chatbot at University of Kassel. Socratic group showed better epistemic agency, stronger reasoning distinction, greater willingness to challenge AI. Strongest experimental support for ESF's gate design. | Literature Review (B.8), Comparison Matrix (Student Agency) | NotebookLM-sourced [PREPRINT] |
-| 28 | Plate, R. & Hutson, J. — "Composition pedagogy as AI-native coding" (*WJAEL*) | 2025 | **Process artifacts as rhetorical practice.** Interaction logs and "records of resistance" (what was rejected from AI) are themselves assessable evidence of epistemic engagement. Supports ESF's process documentation approach. | Literature Review (B.8) | NotebookLM-sourced |
-| 29 | Stoyanov, V. — "Delegated reasoning and epistemic accountability" (*Preprints.org*) | 2026 | **Epistemic audit and traceability.** Delegated reasoning requires structural accountability. Philosophical parallel to ESF's Integrity Reports, though Stoyanov operates at concept level while ESF provides operational templates. | Literature Review (B.8) | NotebookLM-sourced [PREPRINT] |
-| 30 | Lei, C. et al. — "GenAI-enabled CDIO teaching model" (*Computer Applications in Engineering Education*) | 2025 | **Students as systems architects.** Students managing multi-step AI workflows show gains in computational thinking. Supports ESF's progressive engagement levels where advanced students design their own epistemic processes. | Literature Review (B.8) | NotebookLM-sourced |
-| 31 | Gobbo, B. — "Teaching creative AI at the Royal College of Art" (*IJADE*) | 2024 | **3C Protocol (Compare, Challenge, Curate).** Practitioner approach to creative AI pedagogy. Complements ESF's student engagement model with creative-discipline-specific framing. | Literature Review (B.8) | NotebookLM-sourced |
+| 22 | Hutson, J., "Scaffolded integration: Three-tiered framework" (*FARJES*) | 2025 | **Human-first sequencing.** Students must demonstrate independent proficiency before AI access. Timed tasks and oral defenses verify genuine competence. Directly supports Level 2 Phases 1-2 being human-only. | [[ESF-Literature-Review]] (B.8), [[ESF-Student-Guide]], [[ESF-Faculty-Guide]] (Section G) | NotebookLM-sourced |
+| 23 | Washington State OSPI, *Student Scaffolding Scale for AI* | 2024 | **H-AI-H (Human-AI-Human) cycle.** Every AI interaction bookended by human inquiry and reflection. ESF's Level 2 implements this: human-only Phases 1-2, AI enters Phase 3, human-only reflection Phase 5. | [[ESF-Literature-Review]] (B.8), [[ESF-Comparison-Matrix]] (Student Agency) | NotebookLM-sourced |
+| 24 | Pasmala, R. et al.: "Research-Based Learning Integration with AI Research Assistants" (*Higher Education Studies*) | 2026 | **Human-first sequencing through structural model design.** Phases 1-2 (problem identification, research planning) are human-led before AI-enhanced analysis enters at Phase 4. Explicit design principle: "ethical judgment and scholarly responsibility remain learner- and instructor-centered." AI positioned as cognitive scaffold, not substitute for human reasoning. Peer-reviewed. DOI: 10.5539/hes.v16n1p395 | [[ESF-Literature-Review]] (B.8) | Confirmed peer-reviewed |
+| 25 | Naeem, M., "Teaching skills and intellectual virtues with GenAI" (*Episteme*) | 2025 | **Q-Tutor model: questioning as intellectual virtue.** AI should teach questioning, not just answer. Supports ESF's human gates as Socratic questions rather than compliance checkboxes. | [[ESF-Literature-Review]] (B.8) | NotebookLM-sourced |
+| 26 | Favero, L. et al., "Socratic chatbot for critical thinking" (AI in Education Workshop) | 2024 | **Maike chatbot: Socratic interaction produces deeper engagement than direct instruction.** Methodological support for ESF's gate design: gates prompt articulation, not permission. | [[ESF-Literature-Review]] (B.8) | NotebookLM-sourced |
+| 27 | Degen, J. & Asanov, I., "Socratic AI, epistemic agency, and education" (*arXiv*) | 2025 | **Experimental evidence.** Socratic AI tutor vs. uninstructed chatbot at University of Kassel. Socratic group showed better epistemic agency, stronger reasoning distinction, greater willingness to challenge AI. Strongest experimental support for ESF's gate design. | [[ESF-Literature-Review]] (B.8), [[ESF-Comparison-Matrix]] (Student Agency) | NotebookLM-sourced [PREPRINT] |
+| 28 | Plate, R. & Hutson, J., "Composition pedagogy as AI-native coding" (*WJAEL*) | 2025 | **Process artifacts as rhetorical practice.** Interaction logs and "records of resistance" (what was rejected from AI) are themselves assessable evidence of epistemic engagement. Supports ESF's process documentation approach. | [[ESF-Literature-Review]] (B.8) | NotebookLM-sourced |
+| 29 | Stoyanov, V., "Delegated reasoning and epistemic accountability" (*Preprints.org*) | 2026 | **Epistemic audit and traceability.** Delegated reasoning requires structural accountability. Philosophical parallel to ESF's Integrity Reports, though Stoyanov operates at concept level while ESF provides operational templates. | [[ESF-Literature-Review]] (B.8) | NotebookLM-sourced [PREPRINT] |
+| 30 | Lei, C. et al., "GenAI-enabled CDIO teaching model" (*Computer Applications in Engineering Education*) | 2025 | **Students as systems architects.** Students managing multi-step AI workflows show gains in computational thinking. Supports ESF's progressive engagement levels where advanced students design their own epistemic processes. | [[ESF-Literature-Review]] (B.8) | NotebookLM-sourced |
+| 31 | Gobbo, B., *Sinfonia Artificiale* [practitioner book, ISBN 9798293364923] | 2025 | **3C Protocol (Compare, Challenge, Curate).** Practitioner approach to creative AI pedagogy. Complements ESF's student engagement model with creative-discipline-specific framing. Note: practitioner resource, not peer-reviewed. | [[ESF-Literature-Review]] (B.8) | Confirmed |
 
 **Integration pattern:** This cluster converges on three principles that define Level 2: (1) human-first sequencing (Hutson, Washington OSPI, Pasmala), (2) Socratic gates that develop reasoning rather than enforce compliance (Naeem, Favero, Degen & Asanov), and (3) process artifacts that make engagement visible and assessable (Plate & Hutson, Stoyanov, Lei). These three principles were already built into Nathan's practice; the cluster provides the scholarly validation.
 
@@ -186,7 +186,7 @@ How sources connect across clusters to support ESF's core arguments:
 | **Faculty need methodology for their own work** | Zawacki-Richter et al. (2019) | Tankelevitch et al. (2024), Atchley et al. (2024) |
 | **Human-first sequencing develops student agency** | Hutson (2025), Washington OSPI (2024), Degen & Asanov (2025) | Pasmala et al. (2026), Naeem (2025), Favero et al. (2024) |
 | **Process artifacts make engagement assessable** | Plate & Hutson (2025), Bearman et al. (2024) | Stoyanov (2026), Lei et al. (2025) |
-| **Framework must evolve with the field** | Luksha et al. (2024), Zawacki-Richter et al. (2019) | — |
+| **Framework must evolve with the field** | Luksha et al. (2024), Zawacki-Richter et al. (2019) | N/A |
 
 ---
 
@@ -195,17 +195,17 @@ How sources connect across clusters to support ESF's core arguments:
 ### Fully Confirmed (9 sources)
 Bloom (1956), Brown (2008), Clark & Chalmers (1998), EU AI Act (2024), Hutchins (1995), Luckin et al. (2016), UNESCO (2023), OECD (2023), Sweller (1988), Zawacki-Richter et al. (2019)
 
-### Plan-Verified — Need Pre-Publication Confirmation (9 sources)
+### Plan-Verified: Need Pre-Publication Confirmation (9 sources)
 Allen & Kendeou (2024), Atchley et al. (2024), Bearman et al. (2024), Bozkurt (2024), Kassorla et al. (2024), Luksha et al. (2024), Perkins et al. (2024), Tankelevitch et al. (2024), Torrance (2019), Weaver (2024), Wu et al. (2025)
 
 **Action needed:** Verify exact titles, journal volumes/issues, page numbers, and DOIs against publisher databases before submission.
 
-### NotebookLM-Sourced — Need Independent Verification (10 sources)
-Degen & Asanov (2025), Favero et al. (2024), Gobbo (2024), Hutson (2025), Lei et al. (2025), Naeem (2025), Pasmala et al. (2026), Plate & Hutson (2025), Stoyanov (2026), Washington State OSPI (2024)
+### NotebookLM-Sourced: Need Independent Verification (10 sources)
+Degen & Asanov (2025), Favero et al. (2024), Gobbo (2025), Hutson (2025), Lei et al. (2025), Naeem (2025), Pasmala et al. (2026), Plate & Hutson (2025), Stoyanov (2026), Washington State OSPI (2024)
 
 **Action needed:** Independently verify existence, access full text where possible, confirm claims are accurately represented in ESF documents. NotebookLM's source-grounded responses reduce hallucination risk but do not eliminate it.
 
-### Preprints — Monitor for Publication (3 sources)
+### Preprints: Monitor for Publication (3 sources)
 Degen & Asanov (2025), Pasmala et al. (2026), Stoyanov (2026)
 
 **Action needed:** Monitor for peer-reviewed publication. If published, update citations. If retracted or substantially revised, reassess integration. Preprint status is marked explicitly wherever these sources are cited.
@@ -215,12 +215,12 @@ Degen & Asanov (2025), Pasmala et al. (2026), Stoyanov (2026)
 | Item | Risk | Action |
 |------|------|--------|
 | Accreditation Crosswalk standard numbers (SACSCOC, HLC, NASAD, ABET) | Standard numbers may be outdated or renumbered | Verify against current accreditor publications before institutional distribution |
-| Gobbo (2024) citation details | Cited in MEMORY.md as 2025 practitioner book (*Sinfonia Artificiale*) but in Literature Review as 2024 IJADE article | Reconcile: determine which publication is being cited and correct all references |
+| Gobbo citation | Resolved 2026-02-23: confirmed as Gobbo (2025), *Sinfonia Artificiale* (practitioner book, ISBN 9798293364923). IJADE article was incorrect. All references updated. | Complete |
 | Pasmala et al. (2026) | Future-dated publication; possibly early online or preprint mislabeled | Verify publication status and correct date if needed |
 
 ---
 
-## Research Gaps — Sources Still Needed
+## Research Gaps: Sources Still Needed
 
 As ESF continues to develop, these areas would benefit from additional scholarly grounding:
 
@@ -239,6 +239,6 @@ As ESF continues to develop, these areas would benefit from additional scholarly
 ---
 
 *Version 1.0-draft | 2026-02-19*
-*Epistemic Stewardship Framework — Research Summary*
+*Epistemic Stewardship Framework: Research Summary*
 *Nathan Madrid*
-*Living document — update as sources are added, verified, or revised*
+*Living document: update as sources are added, verified, or revised*

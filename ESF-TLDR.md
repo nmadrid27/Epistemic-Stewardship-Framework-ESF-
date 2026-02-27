@@ -1,5 +1,5 @@
 ---
-title: "ESF — TLDR for Reviewers"
+title: "ESF; TLDR for Reviewers"
 author: Nathan Madrid
 date: 2026-02-19
 type: overview
@@ -156,3 +156,4 @@ ESF is grounded in 31 verified sources across 8 research areas, including episte
 ---
 
 *Epistemic Stewardship Framework | Nathan Madrid | 2026*
+*Developed from operational practice in higher education*

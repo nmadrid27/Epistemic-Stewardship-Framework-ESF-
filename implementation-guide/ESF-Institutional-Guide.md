@@ -306,5 +306,5 @@ ESF adoption does not require institutional mandate from the outset. Most succes
 ---
 
 *Version 1.0-draft | 2026-02-18*
-*Epistemic Stewardship Framework — Institutional Implementation Guide*
+*Epistemic Stewardship Framework; Institutional Implementation Guide*
 *Nathan Madrid*

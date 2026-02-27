@@ -209,5 +209,5 @@ ESF is designed to work alongside existing frameworks, not replace them.
 ---
 
 *Version 2.0-draft | 2026-02-19*
-*Epistemic Stewardship Framework — Comparison Matrix*
+*Epistemic Stewardship Framework; Comparison Matrix*
 *Nathan Madrid*

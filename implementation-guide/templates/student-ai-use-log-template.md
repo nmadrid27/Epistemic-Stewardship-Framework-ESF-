@@ -17,7 +17,7 @@ status: draft
 
 ---
 
-## Pre-Assignment Directive Memo
+## Pre-Assignment Position Statement
 
 *Write before any AI use. What is your position? What matters most? What is non-negotiable?*
 

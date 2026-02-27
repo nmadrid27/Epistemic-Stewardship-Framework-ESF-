@@ -86,9 +86,11 @@ If epistemic agency defines what must be preserved, metacognition describes the 
 
 Tankelevitch et al. (2024) provide the most directly relevant empirical foundation for ESF's approach. Their research on metacognitive demands in AI-assisted decision-making demonstrates that human oversight of AI output is not the simple "review and approve" process that most frameworks assume. Effective oversight requires sustained metacognitive effort: monitoring one's own comprehension, detecting when AI-generated content departs from one's own understanding, and resisting the cognitive pull of fluent, well-structured output that *feels* correct. Their findings show that this metacognitive work is effortful, fatiguing, and prone to systematic failures, particularly when users are under time pressure or when the AI output is close to (but subtly different from) what the human would have produced independently.
 
-Atchley et al. (2024) extend this analysis to cognitive automation. They demonstrate that repeated exposure to AI-assisted workflows can reduce the cognitive resources humans allocate to oversight tasks. This is not laziness but a well-documented cognitive adaptation: when a system reliably produces adequate output, humans naturally reduce monitoring effort. The implication for academic work is significant. Faculty and students who use AI regularly may become *less* rather than more vigilant over time, precisely because the AI's output is generally competent.
+Atchley et al. (2024) extend this analysis with the concept of cognitive automation: AI, functioning as an external representation tool, can reduce information processing demands in ways that carry a corresponding cost: reduced cognitive engagement with the work's substance. Pedagogical recommendations, they argue, must account for these cognitive effects. The implication for academic work is that the efficiency gains of AI assistance may diminish rather than maintain critical engagement with what the AI produces.
 
-Bearman et al. (2024) bring these metacognitive concerns into higher education assessment specifically. They argue that AI challenges the assumption that submitted work reflects the submitter's cognitive engagement. Their analysis suggests that traditional assessment models, which evaluate products, are insufficient for an AI-enabled environment. These models must be supplemented by mechanisms that make cognitive processes visible.
+Fischer et al. (2024) bring evaluative judgment scholarship to bear on this concern. Drawing on a practice theory approach, they find that summative assessment focused on final products misses the informal evaluative practices: incidental conversations, peer judgments, self-assessments: that constitute the actual development of evaluative judgment. Their argument that assessment must attend to what learners *actually do* (making cognitive process visible alongside product) directly supports ESF's gate records and Integrity Reports as process documentation rather than product evaluation alone.
+
+Bearman et al. (2023), in a discourse analysis of how AI is framed in the higher education literature, find that institutional responses cluster around two Discourses; AI as inevitable change and AI as redistributor of authority: both of which attend to AI's structural role while leaving accountability for how AI mediates cognitive engagement unaddressed. The accountability gap they identify at the discourse level motivates ESF's structural approach: building accountability mechanisms into the workflow rather than leaving them to policy.
 
 The EU AI Act, Article 14 (2024), codifies the principle of human oversight in regulatory form, requiring that AI systems designed for high-risk applications include mechanisms ensuring effective human oversight. While the Act targets AI system design rather than user behavior, its underlying logic aligns with ESF's insistence on embedded validation gates rather than discretionary review. Human oversight must be structural, not merely aspirational.
 
@@ -172,7 +174,7 @@ The memo can be brief. Its function is not comprehensiveness but *commitment*, f
 4. **Would I teach this?** Am I prepared to stand behind this content in a classroom, boardroom, or review committee and respond to challenges?
 5. **Is the disclosure honest?** Does my disclosure statement accurately represent the division of intellectual labor?
 
-**Scholarly grounding.** The Five Questions operationalize the metacognitive monitoring that Tankelevitch et al. (2024) demonstrate is necessary for effective human oversight of AI output. Each question targets a specific metacognitive failure mode: accepting plausible-sounding content without evaluative engagement (Question 2), failing to verify factual claims (Question 3), and treating disclosure as a formality rather than an accountability mechanism (Question 5). Atchley et al.'s (2024) findings on cognitive automation (the tendency to reduce oversight effort over time) justify the Five Questions' role as a repeated, structured intervention rather than a one-time checklist.
+**Scholarly grounding.** The Five Questions operationalize the metacognitive monitoring that Tankelevitch et al. (2024) demonstrate is necessary for effective human oversight of AI output. Each question targets a specific metacognitive failure mode: accepting plausible-sounding content without evaluative engagement (Question 2), failing to verify factual claims (Question 3), and treating disclosure as a formality rather than an accountability mechanism (Question 5). Atchley et al.'s (2024) cognitive automation concept; AI as an external representation that reduces information processing demands, with a corresponding cost to cognitive engagement: justifies the Five Questions' role as a repeated, structured intervention rather than a one-time checklist.
 
 **Practical operation.** The Five Questions are not a post-hoc audit. They are applied at every phase transition in the ESF workflow: after scoping, after building, before finalizing. The same questions recur, but the answers may change as the work develops. A "yes" to "Is this mine?" after the scoping phase has different meaning than "yes" after a full AI-assisted draft. The repetition is intentional: it counteracts the cognitive automation that Atchley et al. describe.
 
@@ -198,7 +200,7 @@ The memo can be brief. Its function is not comprehensiveness but *commitment*, f
 
 **Scholarly grounding.** The gate mechanism directly addresses the metacognitive failures documented by Tankelevitch et al. (2024) and the cognitive automation described by Atchley et al. (2024). By requiring explicit confirmation at each phase transition, gates prevent the gradual, often invisible migration of intellectual authority from human to AI. They also implement the principle of human oversight articulated in the EU AI Act, Article 14 (2024), translating regulatory intent into operational practice.
 
-Bearman et al.'s (2024) call for assessment mechanisms that make cognitive processes visible is realized through gates. The gate does not evaluate the product but interrogates the process: did the human maintain evaluative engagement, or did they accept the AI's output without genuine scrutiny?
+Fischer et al.'s (2024) argument for assessment that attends to what learners *actually do* is realized through gates. The gate does not evaluate the product but interrogates the process: did the human maintain evaluative engagement, or did they accept the AI's output without genuine scrutiny?
 
 **Practical operation.** Gates occur at defined transitions in the ESF workflow: after scoping, after the Directive Memo, after building, after critical review, and before finalization. Each gate requires the human to pause, apply the Five Questions, and either confirm progression or identify where epistemic drift has occurred. A gate failure (a "no" answer to any of the Five Questions) halts the workflow until the issue is resolved.
 
@@ -217,11 +219,11 @@ The Gate Verification Record is not a bureaucratic form. It can be as brief as a
 
 **Definition.** ESF defines a generalized five-phase workflow for AI-assisted academic work:
 
-1. **Scope** — Define the task, determine Content Epistemic Weight, establish constraints and success criteria.
-2. **Direct** — Write the Directive Memo (for high and medium-weight content). Establish intellectual authority before any AI-assisted production.
-3. **Build** — AI-assisted drafting, structuring, and iteration, guided by the Directive Memo and monitored through the Five Questions.
-4. **Validate** — Critical review against the Directive Memo, verification of claims and citations, epistemic drift detection, Integrity Report for high-weight content.
-5. **Disclose** — Apply appropriate disclosure statement, generate the Integrity Report (if not produced in Phase 4), confirm release-readiness.
+1. **Scope**: Define the task, determine Content Epistemic Weight, establish constraints and success criteria.
+2. **Direct**: Write the Directive Memo (for high and medium-weight content). Establish intellectual authority before any AI-assisted production.
+3. **Build**: AI-assisted drafting, structuring, and iteration, guided by the Directive Memo and monitored through the Five Questions.
+4. **Validate**: Critical review against the Directive Memo, verification of claims and citations, epistemic drift detection, Integrity Report for high-weight content.
+5. **Disclose**: Apply appropriate disclosure statement, generate the Integrity Report (if not produced in Phase 4), confirm release-readiness.
 
 **Scholarly grounding.** The phased model draws on Brown's (2008) design thinking methodology (iterative cycles with human judgment at convergence points), Torrance's (2019) structured professional development cycles (plan, execute, reflect, revise), and the EU AI Act's (2024) structural approach to human oversight. The temporal ordering of the phases is theoretically motivated: the Directive Memo (Phase 2) precedes AI-assisted production (Phase 3) because Clark and Chalmers's (1998) active endorsement condition requires that the human's position be established before the AI's contributions are integrated.
 
@@ -434,7 +436,7 @@ The Level 2 process model reflects a fundamental distinction: students are not p
 | **Make** | Prototype | Build the work product with AI assistance, Five Questions active throughout | *Does this still reflect my position, or did I drift?* |
 | **Reflect** | Test | Evaluate output, document what was kept/revised/rejected and why | *Can I defend every part of this?* |
 
-The critical design move: **AI does not enter until Phase 3.** Phases 1 and 2 are human-only. The Socratic questioning in the Inquire phase and the written position in the Position phase force students to articulate their own understanding *before* they have AI output to react to. This sequencing is supported by multiple independent research traditions. Hutson's (2025) three-tiered scaffolded framework requires demonstrated independent proficiency before AI access. The Human-AI-Human cycle (Washington OSPI, 2024) mandates that human inquiry precede AI production. Pasmala et al.'s (2026) research-based learning model allocates 90% of cognitive load to problem identification before AI assists with execution.
+The critical design move: **AI does not enter until Phase 3.** Phases 1 and 2 are human-only. The Socratic questioning in the Inquire phase and the written position in the Position phase force students to articulate their own understanding *before* they have AI output to react to. This sequencing is supported by multiple independent research traditions. Hutson's (2025) three-tiered scaffolded framework requires demonstrated independent proficiency before AI access. The Human-AI-Human cycle (Washington OSPI, 2024) mandates that human inquiry precede AI production. Pasmala et al.'s (2026) five-stage RBL-AI model structures human-led problem identification and research planning as the foundational phases before AI-enhanced analysis enters, with an explicit design principle that "ethical judgment and scholarly responsibility remain learner- and instructor-centered."
 
 This is not the Level 1 workflow simplified. It is a different process serving a different purpose. Level 1 begins with Scope (task definition) because the practitioner already has epistemic agency and needs a workflow to preserve it. Level 2 begins with Inquire (understanding) because the student is *developing* epistemic agency and needs a process to build it.
 
@@ -449,7 +451,7 @@ This is not the Level 1 workflow simplified. It is a different process serving a
 
 ESF does not frame students as potential cheaters who need monitoring. It frames them as developing epistemic agents who need a process that makes their thinking visible, to themselves and to their instructors, at every phase. The human gates require demonstration of understanding, not permission to proceed.
 
-Process artifacts (records of what was kept, revised, and rejected from AI output, and why) serve as evidence of cognitive engagement (Plate & Hutson, 2025; Gobbo, 2024). These are not compliance documents. They are the visible trace of the editorial judgment that constitutes learning.
+Process artifacts (records of what was kept, revised, and rejected from AI output, and why) serve as evidence of cognitive engagement (Plate & Hutson, 2025; Gobbo, 2025). These are not compliance documents. They are the visible trace of the editorial judgment that constitutes learning.
 
 ### 6.3 The Relationship Between Levels
 
@@ -517,7 +519,17 @@ ESF makes five claims of novel contribution to the literature on AI in higher ed
 
 **Evidence of gap.** Existing frameworks include reflection prompts, ethical guidelines, and review recommendations. None specify a set of answerable (yes/no) questions applied at defined points in a production workflow, with explicit halt conditions when the answer is "no." The gap is between *principles* (reflect on your AI use, be transparent, maintain ownership) and *mechanisms* (here are five specific questions, asked at these five specific points, and a "no" answer stops the process).
 
-**How ESF fills it.** The Five Questions are behavioral mechanisms, not philosophical principles. They target specific metacognitive failure modes documented in the literature (Tankelevitch et al., 2024; Atchley et al., 2024). They recur at every gate, counteracting the cognitive automation that reduces oversight quality over time. And they produce a definitive result: the workflow proceeds or it halts. This operational specificity distinguishes ESF from frameworks that recommend reflection without structuring it.
+**How ESF fills it.** The Five Questions are behavioral mechanisms, not philosophical principles. They target specific metacognitive failure modes documented in the literature (Tankelevitch et al., 2024; Atchley et al., 2024). They recur at every gate, counteracting the cognitive disengagement that Atchley et al.'s cognitive automation concept describes. And they produce a definitive result: the workflow proceeds or it halts. This operational specificity distinguishes ESF from frameworks that recommend reflection without structuring it.
+
+### 7.6 Two-Level Architecture: Distinct Process Models for Producers and Learners
+
+**Claim.** ESF is the only framework that provides structurally distinct but parallel process models for content production (faculty, administrators, institutional leaders) and epistemic development (students), recognizing that these serve fundamentally different purposes within a single integrated architecture.
+
+**Evidence of gap.** The AI-in-education literature separates into two streams that do not converge. Production-oriented work; AIAS (Perkins et al., 2024), AID (Weaver, 2024), and UNESCO guidance (Miao & Holmes, 2023): addresses faculty primarily as *implementers* of policy rather than practitioners with their own epistemic responsibilities. Student-facing scaffolding; Hutson (2025), Washington State OSPI (2024), Pasmala et al. (2026), Degen and Asanov (2025): establishes how student engagement with AI should be structured but does not connect this to how faculty operate in their own work. No existing framework recognizes that faculty preparing course content and students completing assignments are engaged in fundamentally different epistemic activities that require different process models. Existing approaches either apply one framework at different intensities (treating students as simplified faculty) or address the audiences in separate, unconnected publications.
+
+**How ESF fills it.** ESF's two-level architecture provides distinct processes for distinct purposes. Level 1 (Content Production) gives faculty, administrators, and institutional leaders the five-phase workflow (Scope, Direct, Build, Validate, Disclose) for producing high-integrity institutional and scholarly work. Gates ask: *Is this good enough to put into the world?* Level 2 (Epistemic Development) gives students a distinct five-phase process (Inquire, Position, Explore, Make, Reflect) that operates alongside design thinking and studio process languages familiar in creative disciplines: the same epistemic principles (human-first sequencing, position before AI, active endorsement) expressed through studio vocabulary rather than production workflow. AI does not enter until Phase 3; Phases 1 and 2 are human-only. Gates ask: *Do I actually understand what I'm doing?*
+
+The levels are architecturally linked, not parallel tracks. A faculty member using Level 1 to design an assignment is simultaneously designing the epistemic environment a student works within at Level 2. This connection creates structural accountability: faculty who require epistemic discipline from students practice it themselves. A framework that addresses only students, or only faculty, cannot create this accountability relationship.
 
 ---
 
@@ -542,7 +554,7 @@ A comprehensive comparison matrix (evaluating ESF against AIAS, AID, UNESCO, and
 | Term | Definition |
 |------|-----------|
 | **Active Endorsement** | The condition, from Clark and Chalmers's (1998) extended mind thesis, that a human must consciously and critically adopt the contributions of an external cognitive resource (including AI) rather than passively accepting them. The Directive Memo operationalizes this condition. |
-| **Cognitive Automation** | The tendency for humans to reduce oversight effort when a system reliably produces adequate output (Atchley et al., 2024). In AI-assisted work, this means users may become less vigilant over time, not from carelessness but from a well-documented cognitive adaptation. The Five Questions counteract this. |
+| **Cognitive Automation** | Atchley et al.'s (2024) concept for the tendency of AI, as an external representation tool, to reduce information processing demands in ways that can diminish cognitive engagement with the work's substance. The corresponding cost of AI efficiency: reduced scrutiny of what the AI produces. The Five Questions counteract this by prompting deliberate cognitive engagement at each workflow transition. |
 | **Cognitive Partnership** | A mode of human-AI collaboration in which the human remains intellectually engaged: directing, evaluating, synthesizing. The AI accelerates and structures the work. Contrasted with cognitive offloading, in which the human delegates thinking to the AI. |
 | **Cognitive Offloading** | A mode of human-AI interaction in which the human delegates intellectual work to the AI without maintaining evaluative engagement. The output may be competent, but the human's epistemic relationship to it is passive. ESF's constructs are designed to prevent this. |
 | **Compliance Transparency** | Disclosure that documents *whether* AI was used and *what* it contributed. Answers the question "was AI involved?" Necessary but insufficient. Contrasted with epistemic transparency. |
@@ -567,13 +579,50 @@ A comprehensive comparison matrix (evaluating ESF against AIAS, AID, UNESCO, and
 
 ---
 
-## 10. References
+## 10. Limitations and Future Directions
 
-Allen, L. K., & Kendeou, P. (2024). AI literacy for all. *Policy Insights from the Behavioral and Brain Sciences*, 11(2), 223–230.
+Every framework has boundaries. ESF's claims are strongest at its center: faculty intellectual ownership in AI-assisted curriculum development and scholarship, and weaker at its edges, where context changes substantially. Acknowledging these limitations is itself an application of ESF's epistemic standards.
 
-Atchley, R. A., Kalinowski, K. B., & Bain, K. (2024). Cognitive automation in AI-assisted work: Implications for human oversight. *Cognitive Research: Principles and Implications*, 9, Article 42.
+### 10.1 Validation Scope
 
-Bearman, M., Ryan, J., & Ajjawi, R. (2024). Discourses of artificial intelligence in higher education assessment. *Assessment & Evaluation in Higher Education*, 49(2), 171–183.
+**Single-practitioner, single-institution validation.** All current evidence of ESF's practical adoptability comes from one practitioner at one institution. The AI 180 and AI 201 course integrations, the accreditation crosswalk use case, and the self-application evidence in this manuscript all originate from the author's practice at an art and design university. This provides application evidence: the framework is operational, not merely theoretical, but it does not provide the multi-site, multi-practitioner validation that would establish generalizability. Adoption at other institutions with different disciplinary cultures, student populations, instructional contexts, and AI tool availability may surface limitations not visible in the originating context.
+
+**Self-reported human-AI ratios.** The division-of-labor evidence in the Self-Application Evidence document (and the Integrity Report) is the author's own assessment of the collaboration, not an independent audit. This manuscript locates itself within the reflective practitioner tradition (Schön, 1983), in which practitioners simultaneously enact and study their practice, and the practitioner's situated, documented experience constitutes primary evidence. Within that tradition, self-application is not a recursive fallacy but a defining methodological feature: the same rigor the framework requires of users is applied to the framework's own development. The documentation is accurate to the session records and honest in acknowledging the Directive Memo bootstrapping case. Independent external verification: by other practitioners applying ESF in their own contexts: is a direction for future work (see Section 10.4).
+
+**Preprint sources.** Three supporting sources; Weaver (2024), Degen and Asanov (2025), and Stoyanov (2026): are preprints pending peer review at the time of writing. Weaver's AI Disclosure Framework (AID) is the only dedicated AI disclosure framework cited in the novel contributions analysis. Degen and Asanov provide the sole experimental evidence for Socratic AI's epistemic benefits. Stoyanov provides the closest parallel to ESF's epistemic audit constructs. If peer review of these sources surfaces findings that modify their claims, specific positions in ESF's literature review and novel contributions analysis would require revision. The Framework Evolution Protocol provides the mechanism for incorporating such updates.
+
+### 10.2 Scope Limitations
+
+**Faculty and graduate-level emphasis.** ESF was developed in and for faculty professional practice. The Level 2 student process was adapted from that foundation. Both the framework's constructs and its evidence base are stronger for faculty work than for undergraduate student development. Applying ESF in undergraduate contexts: particularly for students with limited metacognitive development or limited prior experience with AI: may require additional scaffolding beyond what this framework specifies.
+
+**Synchronous classroom contexts.** The student-facing Level 2 process (Inquire, Position, Explore, Make, Reflect) was designed for studio-based courses at an art and design university with significant project-based work and instructor-student interaction. Its applicability in large lecture formats, asynchronous online courses, or highly standardized assessment environments is untested and may require adaptation.
+
+**AI tool landscape dependency.** ESF is tool-agnostic by design, and its core constructs (Directive Memo, Five Questions, Content Epistemic Weight) are grounded in human epistemic behavior, not in any specific AI system's behavior. However, the operational guidance in the implementation guides reflects AI capabilities as of early 2026. As AI systems evolve: particularly as capabilities in long-form coherence, autonomous verification, and proactive hallucination detection improve: specific workflow recommendations may require revision. The Framework Evolution Protocol is designed to manage this.
+
+### 10.3 Construct Limitations
+
+**The Five Questions' binary structure.** The Five Questions as formulated produce yes/no answers that halt or continue the workflow. This binary is pedagogically valuable: it forces a commitment, but it may oversimplify the epistemic states practitioners actually occupy. "Partially mine," "verified in some sources but not others," and "would teach with caveats" are common and honest states that the current binary structure does not accommodate. A future iteration of the framework might introduce graduated responses for experienced practitioners while maintaining binary structure for learners and high-stakes contexts.
+
+**Content Epistemic Weight calibration in practice.** The three-tier classification (High, Medium, Low) provides a useful starting framework, but the boundaries between tiers are not always clear. The same content type (a course description, an assignment brief) may warrant different epistemic weight depending on institutional context, audience, and stakes. The classification guide provides examples but cannot enumerate all cases. Practitioner judgment will always be required at the boundaries.
+
+### 10.4 Future Directions
+
+The most productive areas for extending ESF's validation and reach include:
+
+1. **Multi-site adoption studies**: Documenting ESF implementation across 3–5 institutions in different disciplinary contexts, with structured collection of practitioner experience data.
+2. **Student outcome assessment**: Measuring whether Level 2 process adoption correlates with improved metacognitive outcomes, and what indicators distinguish genuine epistemic engagement from compliant performance.
+3. **AI tool integration research**: Studying how AI tool features (proactive disclosure suggestions, citation verification, context memory) interact with ESF workflow adoption, and what features support or undermine the framework's constructs.
+4. **Longitudinal framework evolution**: Documenting how ESF's constructs change through the Framework Evolution Protocol across multiple intake cycles, and whether the protocol functions as designed or creates different pressures.
+
+---
+
+## 11. References
+
+Allen, L. K., & Kendeou, P. (2024). ED-AI Lit: An interdisciplinary framework for AI literacy in education. *Policy Insights from the Behavioral and Brain Sciences*, 11(1), 3–10.
+
+Atchley, P., Pannell, H., Wofford, K., Hopkins, M., & Atchley, R. A. (2024). Human and AI collaboration in the higher education environment: Opportunities and concerns. *Cognitive Research: Principles and Implications*, 9, Article 20. https://doi.org/10.1186/s41235-024-00547-9
+
+Bearman, M., Ryan, J., & Ajjawi, R. (2023). Discourses of artificial intelligence in higher education: A critical literature review. *Higher Education*, 86, 369–385. https://doi.org/10.1007/s10734-022-00937-2
 
 Bloom, B. S., Engelhart, M. D., Furst, E. J., Hill, W. H., & Krathwohl, D. R. (1956). *Taxonomy of educational objectives: The classification of educational goals. Handbook I: Cognitive domain*. David McKay Company.
 
@@ -587,21 +636,23 @@ Degen, P.-B., & Asanov, I. (2025). Beyond automation: Socratic AI, epistemic age
 
 European Union. (2024). Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 laying down harmonised rules on artificial intelligence (Artificial Intelligence Act), Article 14: Human oversight.
 
-Favero, L., Pérez-Ortiz, J. A., Käser, T., & Oliver, N. (2024). Enhancing critical thinking in education by means of a Socratic chatbot. In *International Workshop on AI in Education and Educational Research* (pp. 17–32). Springer.
+Favero, L., Pérez-Ortiz, M., Käser, T., & Oliver, N. (2024). Enhancing critical thinking in education by means of a Socratic chatbot. In *International Workshop on AI in Education and Educational Research* (pp. 17–32). Springer.
 
-Gobbo, B. (2024). Teaching creative AI at the Royal College of Art. *International Journal of Art & Design Education*.
+Fischer, J., Bearman, M., Boud, D., & Tai, J. (2024). How does assessment drive learning? A focus on students' development of evaluative judgement. *Assessment & Evaluation in Higher Education*, 49(2), 233–245. https://doi.org/10.1080/02602938.2023.2206986
+
+Gobbo, G. (2025). *Sinfonia Artificiale*. [Practitioner book, ISBN 9798293364923]. Note: Practitioner resource, not peer-reviewed.
 
 Hutchins, E. (1995). *Cognition in the wild*. MIT Press.
 
 Hutson, J. (2025). Scaffolded integration: Aligning AI literacy with authentic assessment through a revised taxonomy in education. *FAR Journal of Education and Sociology (FARJES)*, 2(1), 29–54.
 
-Kassorla, M., et al. (2024). AI literacy in higher education: Institutional strategies for integration. EDUCAUSE Review.
+Kassorla, M., Georgieva, M., & Papini, A. (2024). AI literacy in teaching and learning: A durable framework for higher education. EDUCAUSE.
 
 Lei, Y., et al. (2025). The effects of a generative AI-enabled CDIO teaching model on undergraduates' computational thinking. *Computer Applications in Engineering Education*, 33(5).
 
 Luckin, R., Holmes, W., Griffiths, M., & Forcier, L. B. (2016). *Intelligence unleashed: An argument for AI as a tool for empowerment*. Pearson/UCL Knowledge Lab.
 
-Luksha, P., Cubista, J., Laszlo, A., Popovich, M., & Capra, F. (2024). Learning ecosystems for societal transformation. *Humanities and Social Sciences Communications*, 11, Article 201.
+Luksha, P., Cubista, J., Laszlo, A., Popovich, M., & Ninenko, I. (2018). *Educational ecosystems for societal transformation*. Global Education Futures. https://www.joshuacubista.com/uploads/7/8/9/8/7898654/gef-report.pdf
 
 Miao, F., & Holmes, W. (2023). *Guidance for generative AI in education and research*. UNESCO.
 
@@ -609,25 +660,27 @@ Naeem, H. (2025). Teaching skills and intellectual virtues with generative AI. *
 
 OECD. (2023). *OECD artificial intelligence principles*. Organisation for Economic Co-operation and Development.
 
-Pasmala, R., Hinon, K., & Wannapiroon, P. (2026). Research-based learning integration with artificial intelligence research assistants to enhance research competencies. *Higher Education Studies*, 16(1), 395–416. [Verify publication date]
+Pasmala, R., Hinon, K., & Wannapiroon, P. (2026). Research-based learning integration with artificial intelligence research assistants to enhance research competencies. *Higher Education Studies*, 16(1), 395. https://doi.org/10.5539/hes.v16n1p395
 
 Perkins, M., Roe, J., Postma, D., McGaughran, J., & Hickerson, D. (2024). The AI Assessment Scale (AIAS): A framework for ethical integration of generative AI in educational assessment. *Journal of University Teaching & Learning Practice*, 21(6).
 
-Plate, D., & Hutson, J. (2025). Composition pedagogy as AI-native coding: From design kit to scholarly framework. *World Journal of Arts, Education and Literature*, 2(11), 1–10.
+Plate, R., & Hutson, J. (2025). Composition pedagogy as AI-native coding: From design kit to scholarly framework. *World Journal of Arts, Education and Literature*, 2(11), 1–10.
+
+Schön, D. A. (1983). *The reflective practitioner: How professionals think in action*. Basic Books.
 
 Sweller, J. (1988). Cognitive load during problem solving: Effects on learning. *Cognitive Science*, 12(2), 257–285.
 
 Tankelevitch, L., Kewenig, V., Simkute, A., Scott, A., Sarkar, A., Sellen, A., & Rintel, S. (2024). The metacognitive demands and opportunities of generative AI. In *Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems* (CHI '24). ACM.
 
-Torrance, E. P. (2019). *Facilitating adult learning: A transactional process*. ATD Press.
+Torrance, M. (2019). *Agile for instructional designers: Iterative project management to achieve results*. ATD Press.
 
-Washington State Office of Superintendent of Public Instruction. (2024). *The Washington Student Scaffolding Scale for AI Integration*.
+Washington State Office of Superintendent of Public Instruction. (2024). *Human-centered AI guidance for K–12 public schools*. OSPI.
 
-Weaver, K. (2024). The AI Disclosure (AID) framework: A structured approach to transparency in AI-assisted academic work.
+Weaver, K. D. (2024). The Artificial Intelligence Disclosure (AID) Framework: An Introduction. arXiv:2408.01904. [PREPRINT]
 
-Wu, J., Puntambekar, S., & Xiao, Y. (2025). Epistemic agency and AI in education: Toward a framework for human-AI collaboration in knowledge construction. *Educational Researcher*, 54(1), 35–48.
+Wu, J., Lee, Y.-H., Chai, C. S., & Tsai, C.-C. (2025). Strengthening human epistemic agency in the symbiotic learning partnership with generative artificial intelligence. *Educational Researcher*, 54, 358–368.
 
-Zawacki-Richter, O., Marin, V. I., Bond, M., & Gouverneur, F. (2019). Systematic review of research on artificial intelligence applications in higher education — Where are the educators? *International Journal of Educational Technology in Higher Education*, 16, Article 39.
+Zawacki-Richter, O., Marin, V. I., Bond, M., & Gouverneur, F. (2019). Systematic review of research on artificial intelligence applications in higher education; Where are the educators? *International Journal of Educational Technology in Higher Education*, 16, Article 39.
 
 ---
 
@@ -635,6 +688,6 @@ Zawacki-Richter, O., Marin, V. I., Bond, M., & Gouverneur, F. (2019). Systematic
 
 ---
 
-*Version 1.0-draft | 2026-02-18*
+*Version 1.1-draft | 2026-02-23*
 *Epistemic Stewardship Framework*
 *Nathan Madrid*

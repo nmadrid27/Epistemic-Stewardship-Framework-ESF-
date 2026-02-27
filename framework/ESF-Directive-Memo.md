@@ -3,7 +3,7 @@ type: directive-memo
 date: 2026-02-18
 document: ESF-Framework-Document.md
 author: Nathan Madrid
-status: draft-for-review
+status: confirmed
 epistemic-weight: high
 note: AI-drafted from existing BMAD source files for Nathan's review and correction. This memo must be confirmed before document drafting begins.
 ---
@@ -64,14 +64,14 @@ The scholarly grounding (18 verified sources, 7 concept clusters) was assembled 
 
 2. **The Directive Memo is human-only.** No AI drafts it, suggests its content, or provides a fill-in template. The framework document must be unambiguous about this.
 
-3. **All 18 citations must be verified sources.** Zero tolerance for hallucinated or fabricated references. Every citation must point to a real, accessible work.
+3. **All 32 citations must be verified sources.** Zero tolerance for hallucinated or fabricated references. Every citation must point to a real, accessible work. (Count reflects 18 sources from Phase 1, plus 13 added in Phase 2 literature expansion, plus 1 added in verification pass: Fischer, Bearman, Boud & Tai (2024) replacing a fabricated Bearman 2024 AEIH citation.)
 
 4. **The Framework Evolution Protocol is a core construct, not an afterthought.** It has the same structural weight as the Directive Memo or Five Questions.
 
-5. **Novel contributions must be positioned against literature, not merely asserted.** Each of the 5 claimed gaps requires evidence of the gap, not just a claim that ESF fills it.
+5. **Novel contributions must be positioned against literature, not merely asserted.** Each of the 6 novel contributions requires evidence of the gap, not just a claim that ESF fills it. (6th contribution; Two-Level Architecture: identified and added post-Phase 5, documented in ESF-Novel-Contributions.md Section 7.6.)
 
 6. **The framework document itself must follow ESF protocol:** this Directive Memo, an Integrity Report after drafting, and a disclosure statement on the final document.
 
 ---
 
-> **Note:** This Directive Memo was AI-drafted from existing BMAD source files (bmad-curriculum-dev.md, disclosure-protocol.md, curriculum-dev SKILL.md, and the 2026-02-16 collaboration log) to bootstrap the ESF's self-validation protocol. Nathan must review, correct, and confirm this memo before the Framework Document drafting begins. Any aspect of this memo that does not reflect Nathan's genuine position should be revised.
+> **Note:** This Directive Memo was AI-drafted from existing source files (curriculum-dev.md, disclosure-protocol.md, curriculum-dev SKILL.md, and the 2026-02-16 collaboration log) to bootstrap the ESF's self-validation protocol. Nathan reviewed the draft on 2026-02-18, accepted it without revision, and confirmed it accurately captured his intellectual position. The Framework Document was drafted on that basis. The bootstrapping case; AI assembly of the memo from prior human-authored operational files: is documented in ESF-Self-Application-Evidence.md (The Self-Application Protocol, item 1) and in the Integrity Report (Flagged Item 1).

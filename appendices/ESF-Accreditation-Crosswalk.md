@@ -26,7 +26,7 @@ This crosswalk maps ESF constructs and practices to the standards of four major 
 
 1. Identify your institution's primary accreditor(s)
 2. Locate the relevant column(s) in the mapping tables below
-3. For each ESF practice you adopt, note the accreditation standard it supports
+3. For each ESF practice you adopt, note the accreditation theme it supports
 4. Include this mapping in your accreditation self-study or compliance report
 5. Use the "Evidence" column to identify what documentation to collect
 
@@ -36,57 +36,57 @@ This crosswalk maps ESF constructs and practices to the standards of four major 
 
 ### Directive Memo
 
-| Accreditor | Relevant Standard | How ESF Supports It | Evidence |
+| Accreditor | Relevant Accreditation Theme | How ESF Supports It | Evidence |
 |-----------|-------------------|---------------------|----------|
-| **SACSCOC** | 6.2.c: Faculty establish and evaluate student learning outcomes | Directive Memos document the faculty member's intellectual direction for course materials, ensuring outcomes reflect professional judgment | Archived Directive Memos for syllabi and assessments |
-| **HLC** | 3.B.1: Faculty responsible for design, maintenance, and evaluation of curriculum | Directive Memos establish that faculty direct curriculum design, with AI as tool, not substitute | Directive Memo repository with date stamps |
-| **NASAD** | II.B.1: Faculty must demonstrate competence and currency in their disciplines | Directive Memos for creative work document the faculty member's artistic and pedagogical vision | Memos referencing disciplinary standards and studio practice |
-| **ABET** | Criterion 5: Curriculum must be consistent with program objectives | Directive Memos for engineering courses document alignment between assessment design and program objectives | Memos cross-referenced with program outcome matrices |
+| **SACSCOC** | Faculty establish and evaluate student learning outcomes | Directive Memos document the faculty member's intellectual direction for course materials, ensuring outcomes reflect professional judgment | Archived Directive Memos for syllabi and assessments |
+| **HLC** | Faculty responsible for design, maintenance, and evaluation of curriculum | Directive Memos establish that faculty direct curriculum design, with AI as tool, not substitute | Directive Memo repository with date stamps |
+| **NASAD** | Faculty must demonstrate competence and currency in their disciplines | Directive Memos for creative work document the faculty member's artistic and pedagogical vision | Memos referencing disciplinary standards and studio practice |
+| **ABET** | Curriculum must be consistent with program objectives | Directive Memos for engineering courses document alignment between assessment design and program objectives | Memos cross-referenced with program outcome matrices |
 
 ### Content Epistemic Weight
 
-| Accreditor | Relevant Standard | How ESF Supports It | Evidence |
+| Accreditor | Relevant Accreditation Theme | How ESF Supports It | Evidence |
 |-----------|-------------------|---------------------|----------|
-| **SACSCOC** | 8.2.a: Student learning outcomes appropriate for degree level | Weight classification ensures that high-stakes academic content (assessments, learning outcomes) receives appropriate intellectual oversight | Weight classifications for program-level assessments |
-| **HLC** | 4.B.1: Assessment uses relevant evidence | Weight calibration ensures assessment instruments reflect faculty judgment proportional to their stakes | Assessment inventory with weight classifications |
-| **NASAD** | III.A: Competencies appropriate for degree type | Weight system ensures creative portfolio assessments receive the high-level faculty oversight their stakes demand | Weight classifications for studio critiques and portfolio reviews |
-| **ABET** | Criterion 4: Continuous improvement using assessment results | Weight classification ensures continuous improvement processes prioritize high-stakes assessment data | Weight-tagged assessment data in continuous improvement reports |
+| **SACSCOC** | Student learning outcomes appropriate for degree level | Weight classification ensures that high-stakes academic content (assessments, learning outcomes) receives appropriate intellectual oversight | Weight classifications for program-level assessments |
+| **HLC** | Assessment uses relevant evidence | Weight calibration ensures assessment instruments reflect faculty judgment proportional to their stakes | Assessment inventory with weight classifications |
+| **NASAD** | Competencies appropriate for degree type | Weight system ensures creative portfolio assessments receive the high-level faculty oversight their stakes demand | Weight classifications for studio critiques and portfolio reviews |
+| **ABET** | Continuous improvement using assessment results | Weight classification ensures continuous improvement processes prioritize high-stakes assessment data | Weight-tagged assessment data in continuous improvement reports |
 
 ### Human Validation Gates and Five Questions
 
-| Accreditor | Relevant Standard | How ESF Supports It | Evidence |
+| Accreditor | Relevant Accreditation Theme | How ESF Supports It | Evidence |
 |-----------|-------------------|---------------------|----------|
-| **SACSCOC** | 6.1: Full-time faculty adequate to support mission | Gates document faculty engagement with their own work product, demonstrating substantive involvement | Gate Verification Records |
-| **HLC** | 2.E.1: Integrity in all activities | Five Questions provide a structured mechanism for ensuring intellectual honesty in AI-assisted work | Integrity Reports with Five Questions documentation |
-| **NASAD** | II.B.2: Faculty demonstrate continuing professional development | Gates applied to faculty's own creative and scholarly work demonstrate active professional practice | Gate Verification Records for faculty creative work |
-| **ABET** | Criterion 6: Faculty qualifications and authority | Gates ensure faculty maintain authority over curriculum and assessment design | Gate Verification Records for course materials |
+| **SACSCOC** | Full-time faculty adequate to support mission | Gates document faculty engagement with their own work product, demonstrating substantive involvement | Gate Verification Records |
+| **HLC** | Integrity in all activities | Five Questions provide a structured mechanism for ensuring intellectual honesty in AI-assisted work | Integrity Reports with Five Questions documentation |
+| **NASAD** | Faculty demonstrate continuing professional development | Gates applied to faculty's own creative and scholarly work demonstrate active professional practice | Gate Verification Records for faculty creative work |
+| **ABET** | Faculty qualifications and authority | Gates ensure faculty maintain authority over curriculum and assessment design | Gate Verification Records for course materials |
 
 ### Disclosure Protocol and Integrity Reports
 
-| Accreditor | Relevant Standard | How ESF Supports It | Evidence |
+| Accreditor | Relevant Accreditation Theme | How ESF Supports It | Evidence |
 |-----------|-------------------|---------------------|----------|
-| **SACSCOC** | 14.1: Integrity and transparency in all activities | Disclosure Protocol provides structured transparency about AI's role in institutional documents | Disclosure statements on accreditation materials; Integrity Reports |
-| **HLC** | 2.A: Integrity in operations | Systematic disclosure demonstrates institutional commitment to transparency about AI use | Institutional disclosure policy; sample Integrity Reports |
-| **NASAD** | II.G: Published policies on academic integrity | ESF's Disclosure Protocol extends academic integrity to include AI use transparency | Course AI Policies with disclosure requirements |
-| **ABET** | Criterion 1: Students, student performance, professional development | Disclosure requirements prepare students for professional practice standards around AI transparency | Student disclosures and Reflection templates |
+| **SACSCOC** | Integrity and transparency in all activities | Disclosure Protocol provides structured transparency about AI's role in institutional documents | Disclosure statements on accreditation materials; Integrity Reports |
+| **HLC** | Integrity in operations | Systematic disclosure demonstrates institutional commitment to transparency about AI use | Institutional disclosure policy; sample Integrity Reports |
+| **NASAD** | Published policies on academic integrity | ESF's Disclosure Protocol extends academic integrity to include AI use transparency | Course AI Policies with disclosure requirements |
+| **ABET** | Students, student performance, professional development | Disclosure requirements prepare students for professional practice standards around AI transparency | Student disclosures and Reflection templates |
 
 ### Student Engagement Levels
 
-| Accreditor | Relevant Standard | How ESF Supports It | Evidence |
+| Accreditor | Relevant Accreditation Theme | How ESF Supports It | Evidence |
 |-----------|-------------------|---------------------|----------|
-| **SACSCOC** | 8.2.b: Student achievement relative to learning outcomes | Engagement levels provide a measurable progression framework for student AI collaboration capacity | Engagement level distribution data by course and program |
-| **HLC** | 3.D.2: Student voice in learning | Progressive engagement develops student agency, not just compliance | Student Reflection templates showing agency development |
-| **NASAD** | III.C: General competencies including critical thinking | Engagement levels progressively develop critical evaluation of AI output, a contemporary creative competency | Portfolio evidence of progression from Discovery to Critical Partnership |
-| **ABET** | Criterion 3: Student outcomes | Engagement levels map to professional competencies. Level 4 (Critical Partnership) aligns with engineering judgment requirements. | Student engagement assessments mapped to ABET outcomes |
+| **SACSCOC** | Student achievement relative to learning outcomes | Engagement levels provide a measurable progression framework for student AI collaboration capacity | Engagement level distribution data by course and program |
+| **HLC** | Student voice in learning | Progressive engagement develops student agency, not just compliance | Student Reflection templates showing agency development |
+| **NASAD** | General competencies including critical thinking | Engagement levels progressively develop critical evaluation of AI output, a contemporary creative competency | Portfolio evidence of progression from Discovery to Critical Partnership |
+| **ABET** | Student outcomes | Engagement levels map to professional competencies. Level 4 (Critical Partnership) aligns with engineering judgment requirements. | Student engagement assessments mapped to ABET outcomes |
 
 ### Framework Evolution Protocol
 
-| Accreditor | Relevant Standard | How ESF Supports It | Evidence |
+| Accreditor | Relevant Accreditation Theme | How ESF Supports It | Evidence |
 |-----------|-------------------|---------------------|----------|
-| **SACSCOC** | 7.1: Institutional planning and effectiveness | Evolution Protocol ensures AI integration methodology is systematically reviewed and improved | Annual review reports with version changelog |
-| **HLC** | 5.D: Institutional improvement through planning | Built-in evolution mechanism demonstrates commitment to continuous improvement of AI practices | Challenge documentation; revision proposals |
-| **NASAD** | II.A.1: Planning processes for institutional purposes | Evolution Protocol provides the planning structure for maintaining currency in a rapidly changing AI landscape | Research intake records; sunset assessments |
-| **ABET** | Criterion 4: Continuous improvement | Evolution Protocol provides the review cycle and evidence base for continuous improvement of AI integration | Version history; data-driven revision documentation |
+| **SACSCOC** | Institutional planning and effectiveness | Evolution Protocol ensures AI integration methodology is systematically reviewed and improved | Annual review reports with version changelog |
+| **HLC** | Institutional improvement through planning | Built-in evolution mechanism demonstrates commitment to continuous improvement of AI practices | Challenge documentation; revision proposals |
+| **NASAD** | Planning processes for institutional purposes | Evolution Protocol provides the planning structure for maintaining currency in a rapidly changing AI landscape | Research intake records; sunset assessments |
+| **ABET** | Continuous improvement | Evolution Protocol provides the review cycle and evidence base for continuous improvement of AI integration | Version history; data-driven revision documentation |
 
 ---
 
@@ -108,7 +108,7 @@ For accreditors not listed above, ESF maps to standard accreditation themes:
 
 ## Limitations
 
-1. **Standards evolve.** Accreditation standards are updated periodically. This crosswalk reflects standards as of early 2026. Verify current standard language before incorporating into accreditation reports.
+1. **Accreditation themes evolve.** Accreditation standards are updated periodically. The thematic categories in this crosswalk reflect standards as of early 2026. Consult your accreditation liaison to confirm current standard alignment before using this crosswalk in official reports.
 
 2. **Interpretation varies.** Accreditation reviewers may interpret standards differently. This crosswalk provides a defensible mapping, not a guaranteed interpretation. Consult your accreditation liaison.
 
@@ -118,10 +118,10 @@ For accreditors not listed above, ESF maps to standard accreditation themes:
 
 ---
 
-> **AI Collaboration Disclosure:** This crosswalk was developed through human-AI collaboration. The accreditation standard descriptions are based on publicly available standards documents from SACSCOC, HLC, NASAD, and ABET as of early 2026. AI assisted with tabular organization, consistent formatting, and cross-referencing ESF constructs to accreditation themes. All claims about how ESF supports specific standards reflect the author's professional judgment. Standard citations should be verified against current accreditor publications before use in accreditation reports.
+> **AI Collaboration Disclosure:** This crosswalk was developed through human-AI collaboration. The accreditation themes referenced are based on publicly available standards documents from SACSCOC, HLC, NASAD, and ABET as of early 2026. AI assisted with tabular organization, consistent formatting, and cross-referencing ESF constructs to accreditation themes. All claims about how ESF supports specific accreditation themes reflect the author's professional judgment. Consult current accreditor publications to confirm thematic alignment before use in official accreditation reports.
 
 ---
 
 *Version 1.0-draft | 2026-02-18*
-*Epistemic Stewardship Framework — Accreditation Crosswalk*
+*Epistemic Stewardship Framework; Accreditation Crosswalk*
 *Nathan Madrid*

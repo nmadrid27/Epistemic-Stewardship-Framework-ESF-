@@ -66,7 +66,7 @@ Students are expected to develop AI collaboration capacity through progressive e
 |-------|-------------|---------------|-------------|
 | 1, Discovery | Exploring AI capabilities and limits | Introductory courses | Experiment openly; compare AI output to own thinking |
 | 2, Guided Use | Using AI within structured parameters | Early-mid coursework | Follow assignment-specific guidelines; disclose AI use |
-| 3, Independent Use | Self-directing AI collaboration | Mid-late coursework | Write Directive Memos; apply Five Questions; produce AI Use Logs |
+| 3, Independent Use | Self-directing AI collaboration | Mid-late coursework | Write Position Statements; apply Five Questions; produce AI Use Logs |
 | 4, Critical Partnership | Full epistemic stewardship | Capstone / advanced | Defend all work; mentor peers; evaluate methodology critically |
 
 ### All Students

@@ -20,13 +20,15 @@ tags: [esf, novel-contributions, gap-analysis]
 
 The Epistemic Stewardship Framework makes six claims of novel contribution to the literature on AI in higher education. This document presents each claim in a form structured for peer review defensibility: the claim itself, evidence that the gap exists, how ESF addresses it, anticipated counterarguments, and responses. The goal is intellectual honesty. Not to overstate ESF's originality, but to position its contributions precisely against what already exists.
 
+These contributions are scoped to the AI-in-education and AI-assisted academic work literature as it stands in early 2026. Analogues may exist in adjacent fields: composition pedagogy, design research methodology, and reflective practice, and cross-domain comparison with those traditions is both warranted and an explicit direction for future work. The AI-in-education literature is maturing rapidly; precedent claims that hold now may require revision as cross-disciplinary scholarship develops.
+
 ---
 
 ## 1. The Directive Memo: Pre-Drafting Intellectual Authority
 
 ### Claim
 
-No existing framework in the AI-in-education literature requires a human-only pre-drafting phase in which the author establishes intellectual authority (including thesis, emphasis, de-emphasis, rationale, voice, and non-negotiables) before any AI-assisted production begins.
+No existing framework in the AI-in-education literature requires a human-only pre-drafting phase in which the author establishes intellectual authority (including thesis, emphasis, de-emphasis, rationale, voice, and non-negotiables) before any AI-assisted production begins. Adjacent fields: particularly composition pedagogy and writing instruction: have related traditions of pre-writing stance and writer's memo practices. Cross-domain comparison with those traditions is warranted and is an explicit direction for future work. The claim of novelty is scoped to AI-assisted work frameworks as that literature currently stands.
 
 ### Evidence of Gap
 
@@ -149,7 +151,7 @@ This is not merely an expansion of the target audience. It changes the framework
 
 ### Claim
 
-ESF introduces structured, recurring epistemic decision gates: five specific, answerable questions applied at defined workflow transitions with explicit halt conditions. This mechanism has no precedent in the AI-in-education literature.
+ESF introduces structured, recurring epistemic decision gates: five specific, answerable questions applied at defined workflow transitions with explicit halt conditions. This mechanism has no precedent in the AI-in-education literature. Adjacent fields: facilitation methodology, coaching practice, and Socratic questioning traditions: employ structured question sets for reflection and decision-making. Cross-domain comparison with those traditions is warranted; the claim of novelty is scoped to AI-assisted academic work frameworks as that literature currently stands.
 
 ### Evidence of Gap
 
@@ -177,7 +179,7 @@ The questions recur at every Human Validation Gate, counteracting the cognitive 
 
 ### Anticipated Counterarguments
 
-**"Five questions are arbitrary; why not three, or seven?"** Each question targets a documented failure mode. The set could be expanded if new failure modes are identified (and the Framework Evolution Protocol provides the mechanism for that). The current five were derived from operational practice and supported by the literature: passive acceptance (Tankelevitch et al., 2024), epistemic drift (Wu et al., 2025), verification neglect (Bearman et al., 2024), shallow endorsement (Atchley et al., 2024), and performative disclosure (Weaver, 2024, the gap AID addresses). The number reflects the failure modes, not an arbitrary count.
+**"Five questions are arbitrary; why not three, or seven?"** Each question targets a documented failure mode. The set could be expanded if new failure modes are identified (and the Framework Evolution Protocol provides the mechanism for that). The current five were derived from operational practice and supported by the literature: passive acceptance (Tankelevitch et al., 2024), epistemic drift (Wu et al., 2025), verification neglect (Stoyanov, 2026: epistemic audit and traceability in delegated reasoning), shallow endorsement (Tankelevitch et al., 2024), and performative disclosure (Weaver, 2024, the gap AID addresses). The number reflects the failure modes, not an arbitrary count.
 
 **"Repeated questions become performative; users will say 'yes' automatically."** This is the cognitive automation concern (Atchley et al., 2024) applied to the framework itself, and it is a legitimate risk. ESF mitigates it through the Gate Verification Record: at each gate, the user documents not just their answers but what they reviewed, changed, and challenged. A pattern of unqualified "yes" answers with empty verification records is itself a signal of performative engagement. The Five Questions are not a perfect mechanism (no metacognitive intervention is), but they are a structural intervention where the literature currently offers only aspirational guidance.
 
@@ -197,7 +199,7 @@ The literature separates into two streams that do not converge.
 
 **Production-oriented work** is addressed by frameworks designed for practitioners who create content. AIAS calibrates AI involvement for assessment design, AID structures disclosure for completed work, and UNESCO provides policy guidance for institutional governance. None of these provides a structured production workflow. All address faculty as implementers or regulators rather than as practitioners with their own epistemic responsibilities.
 
-**Student-facing scaffolding** is addressed by a growing body of research on how students should engage with AI. Hutson (2025) requires demonstrated proficiency before AI access. The Washington State OSPI (2024) H-AI-H cycle bookends AI interaction with human inquiry and reflection. Pasmala et al. (2026) [PREPRINT] position AI as an accelerator of already-directed inquiry. Degen and Asanov (2025) [PREPRINT] demonstrate experimentally that Socratic AI interaction produces better epistemic outcomes than direct AI assistance. These contributions establish how student engagement should be structured. They do not connect this to the faculty's own production process.
+**Student-facing scaffolding** is addressed by a growing body of research on how students should engage with AI. Hutson (2025) requires demonstrated proficiency before AI access. The Washington State OSPI (2024) H-AI-H cycle bookends AI interaction with human inquiry and reflection. Pasmala et al. (2026) structure human-led problem identification and research planning before AI-enhanced analysis enters, with an explicit design principle that "ethical judgment and scholarly responsibility remain learner- and instructor-centered." Degen and Asanov (2025) [PREPRINT] demonstrate experimentally that Socratic AI interaction produces better epistemic outcomes than direct AI assistance. These contributions establish how student engagement should be structured. They do not connect this to the faculty's own production process.
 
 **The gap between streams.** No existing framework recognizes that the faculty member designing a syllabus (content production) and the student completing an assignment from that syllabus (epistemic development) are engaged in fundamentally different epistemic activities that require different process models. Existing approaches either give both audiences the same framework at different intensities (treating students as simplified faculty) or address them in separate, unconnected publications.
 
@@ -225,7 +227,7 @@ ESF's two-level architecture provides:
 
 | Contribution | Precedent Status | Strongest Evidence of Gap | Strongest Counterargument |
 |-------------|-----------------|--------------------------|--------------------------|
-| Directive Memo | No precedent | No framework requires pre-drafting intellectual authority mechanism | "Good practitioners do this informally," but informal does not equal systematic |
+| Directive Memo | No precedent within AI-in-education literature | No framework requires pre-drafting intellectual authority mechanism; adjacent fields (composition pedagogy) have related practices; cross-domain comparison is future work | "Good practitioners do this informally," but informal does not equal systematic |
 | Epistemic Weight as Property | Partial (AIAS) | AIAS frames as policy; ESF frames as inherent property | "The distinction is semantic," but framing determines who holds authority |
 | Iterative + Epistemic | No precedent | Design lit and epistemic lit are disconnected | "Integration is obvious," but the literature doesn't show it |
 | Faculty-Facing | Documented gap | Zawacki-Richter (2019) + no subsequent closure | "Faculty are experts," but expertise does not equal metacognitive immunity |
@@ -239,5 +241,5 @@ ESF's two-level architecture provides:
 ---
 
 *Version 2.0-draft | 2026-02-19*
-*Epistemic Stewardship Framework — Novel Contributions*
+*Epistemic Stewardship Framework; Novel Contributions*
 *Nathan Madrid*

@@ -1,5 +1,5 @@
 ---
-title: "Epistemic Stewardship Framework — Executive Summary"
+title: "Epistemic Stewardship Framework: Executive Summary"
 author: Nathan Madrid
 date: 2026-02-19
 type: overview
@@ -133,3 +133,4 @@ The framework includes templates (Directive Memo, Integrity Report, Course AI Po
 ---
 
 *Epistemic Stewardship Framework | Nathan Madrid | 2026*
+*Developed from operational practice

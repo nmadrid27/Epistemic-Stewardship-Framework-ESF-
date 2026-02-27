@@ -1,7 +1,7 @@
 ---
 title: "Building ESF with ESF: Self-Application Evidence"
 author: Nathan Madrid
-date: 2026-02-19
+date: 2026-02-24
 type: evidence-document
 epistemic-weight: high
 tags: [esf, self-application, methodology]
@@ -24,8 +24,7 @@ If a framework for maintaining intellectual ownership in AI-assisted work cannot
 ESF's origin story is critical to understanding its claims and its authorship.
 
 **The constructs came from practice, not from the literature.** Nathan Madrid developed the core mechanisms that became ESF (the pre-drafting authority document, the recurring checkpoint questions, the epistemic weight classification, the phased workflow with gates) through his own operational work integrating AI into curriculum development, assessment design, and institutional reporting at an art and design university. These mechanisms were built iteratively over months of daily AI-assisted practice across multiple courses (Foundation Studies, Applied AI, Professional Studies) and administrative responsibilities (associate chair duties, accreditation work, faculty development).
-
-**The development sequence was:**
+**The development sequence was not deliberate at the time.** Nathan was not building a framework; he was solving problems as they arose. The constructs that would become ESF existed as scattered drafts, working notes, process documents, and vault instructions spread across courses, administrative projects, and writing work. There was no master plan and no shared vocabulary connecting them. The recognition that these individual solutions formed a coherent system came later, after months of using them operationally. The sequence below is a retrospective reconstruction of what was, in practice, an organic and iterative process.
 
 1. **Problem encountered in practice.** Nathan found that AI-assisted drafts drifted from his intent, that general "review your work" advice was insufficient, that different content types demanded different levels of human engagement, and that students needed a fundamentally different process than faculty.
 2. **Solution built and tested.** Each construct was developed as a practical response: the Directive Memo to anchor intent, the Five Questions to structure review, Content Epistemic Weight to calibrate effort, the two-level architecture to serve different audiences.
@@ -45,7 +44,7 @@ ESF's origin story is critical to understanding its claims and its authorship.
 
 Before any ESF document was drafted, the framework's own protocol was followed:
 
-1. **Directive Memo** written for Phase 1 (the Framework Document) establishing Nathan's intellectual position on what ESF should argue, how it should be structured, and what was non-negotiable
+1. **Directive Memo** produced for Phase 1 (the Framework Document) establishing Nathan's intellectual position on what ESF should argue, how it should be structured, and what was non-negotiable. *Note: this is a "bootstrapping the protocol" case: the Directive Memo was AI-drafted from Nathan's existing operational vault files (pre-ESF BMAD documents), which themselves were human-authored. Nathan reviewed and accepted the draft without revision, confirming it accurately captured his position. The construct's intent: establishing intellectual authority before drafting begins: was met through the human content of the source files, even though the memo's format was AI-produced. This case is documented honestly rather than resolved by retroactive redrafting, because the bootstrapping situation is itself instructive: when a practitioner's prior work accurately encodes their position, AI assembly of that material into memo format satisfies the intent of the construct.*
 2. **Content Epistemic Weight** classified as HIGH for all framework documents (original scholarship establishing new constructs)
 3. **Human Validation Gates** applied at every phase transition, with the Phase 1 gate producing the Gate Verification Record mechanism (which was then added to the framework itself)
 4. **Five Questions** applied at each gate
@@ -82,19 +81,19 @@ These decisions originated with the human and were not delegated to AI at any po
 
 These were produced by AI within parameters Nathan established:
 
-| Task | AI Role | Human Oversight |
-|------|---------|----------------|
-| Directive Memo initial draft | AI drafted from existing vault BMAD source files | Nathan accepted without revision (AI draft captured his position accurately) |
-| Framework Document prose (~10,500 words) | AI drafted section by section within architectural plan | Nathan reviewed in IDE during and after drafting |
-| Literature Review concept clusters (B.1-B.8) | AI organized sources into clusters with analysis | Nathan verified source representations; directed B.8 addition |
-| Novel Contributions counterarguments | AI proposed strongest plausible objections | Nathan reviewed for authenticity ("would a reviewer actually say this?") |
-| Comparison Matrix tables and analysis | AI constructed comparisons from framework knowledge | Nathan verified fairness to competing frameworks |
-| Faculty Guide worked examples | AI drafted discipline-specific scenarios | Flagged for Nathan's disciplinary verification |
-| Student Guide engagement levels | AI structured progression with readiness indicators | Nathan verified against teaching experience |
-| Templates (6 total) | AI drafted from ESF constructs + vault template patterns | Nathan reviewed for institutional usability |
-| Institutional Guide rollout model | AI drafted 3-phase model with success criteria | Nathan evaluated against institutional experience |
-| Accreditation Crosswalk standard mappings | AI mapped from knowledge of accreditor standards | **HIGH VERIFICATION PRIORITY** flagged; needs independent verification |
-| Vault infrastructure rename (13 files) | AI performed contextual find-and-replace | Nathan verified via grep that no active files retained old terminology |
+| Task                                         | AI Role                                                  | Human Oversight                                                                                                                          |
+| -------------------------------------------- | -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Directive Memo initial draft                 | AI drafted from existing vault source files              | Nathan accepted without revision (AI draft captured his position accurately)                                                             |
+| Framework Document prose (~10,500 words)     | AI drafted section by section within architectural plan  | Nathan reviewed in IDE during and after drafting                                                                                         |
+| Literature Review concept clusters (B.1-B.8) | AI organized sources into clusters with analysis         | Nathan verified source representations; directed B.8 addition                                                                            |
+| Novel Contributions counterarguments         | AI proposed strongest plausible objections               | Nathan reviewed for authenticity ("would a reviewer actually say this?")                                                                 |
+| Comparison Matrix tables and analysis        | AI constructed comparisons from framework knowledge      | Nathan verified fairness to competing frameworks                                                                                         |
+| Faculty Guide worked examples                | AI drafted discipline-specific scenarios                 | Flagged for Nathan's disciplinary verification                                                                                           |
+| Student Guide engagement levels              | AI structured progression with readiness indicators      | Nathan verified against teaching experience                                                                                              |
+| Templates (6 total)                          | AI drafted from ESF constructs + vault template patterns | Nathan reviewed for institutional usability                                                                                              |
+| Institutional Guide rollout model            | AI drafted 3-phase model with success criteria           | Nathan evaluated against institutional experience                                                                                        |
+| Accreditation Crosswalk standard mappings    | AI mapped from knowledge of accreditor standards         | Resolved (Phase 5 gate, 2026-02-23): specific standard numbers removed; thematic descriptions only. "HIGH VERIFICATION PRIORITY" closed. |
+| Vault infrastructure rename (13 files)       | AI performed contextual find-and-replace                 | Nathan verified via grep that no active files retained old terminology                                                                   |
 
 ### What Was Negotiated (Co-Created)
 
@@ -137,11 +136,69 @@ These emerged through back-and-forth between human direction and AI contribution
 - **Student Guide**: Written *to* students at Nathan's direction. The agency framing (students as developing epistemic agents, not potential cheaters) is Nathan's pedagogical position.
 - **Institutional Guide**: Rollout model, mitigating factors clause, and assessment rubrics reflect Nathan's institutional experience. Accreditation crosswalk flagged as highest verification risk.
 
+### Pre-Publication Verification (v2.8, 2026-02-24)
+
+- **Task A completed**: All 18 pending sources resolved via systematic web search and DOI lookup. 14 confirmed, 1 partial (Stoyanov: preprint exists; PDF access blocked), 1 unverified (Luksha 2024), 2 thematic (Bearman specific paper title; Stoyanov content).
+- **Seven citation errors corrected** in both ESF-Literature-Review.md and ESF-Framework-Document.md:
+  - *Allen & Kendeou*: title, issue, and page numbers all incorrect ("AI literacy for all," 11(2), 223–230 → "ED-AI Lit: An interdisciplinary framework…," 11(1), 3–10)
+  - *Gobbo*: author initial "B." → "G." (Gabriele Gobbo)
+  - *Hutson*: subtitle corrected in Literature Review (Framework Document already had correct version)
+  - *Kassorla*: abbreviated title and wrong publisher label → full title, "EDUCAUSE"
+  - *Torrance*: "E. P. Torrance" (Ellis Paul Torrance, died 2003) → "Torrance, M." (Megan Torrance, 2019, *Agile for Instructional Designers*)
+  - *Washington OSPI*: cited document title ("Washington Student Scaffolding Scale for AI") does not exist → "Human-centered AI guidance for K–12 public schools"
+  - *Wu*: fabricated co-authors (Puntambekar, Xiao) and wrong pages (35–48) → confirmed Wu, Lee, Chai, Tsai (2025), pp. 358–368
+- **Two-document architecture**: Corrections had to be applied independently to both primary deliverables, which maintain separate reference lists. Hutson had diverged (Framework Document correct; Literature Review wrong); evidence that the documents were maintained independently after a certain point.
+- **"Plan-verified" sources held more errors than NotebookLM-sourced ones.** 5 of 7 corrections came from MEDIUM-priority (plan-verified) sources. HIGH-priority (NotebookLM-sourced) sources were largely accurate. This inverted the anticipated risk gradient and suggests that planning-phase verification confirms existence but not bibliographic accuracy: a different and weaker standard than the framework requires before publication.
+- **Five Questions applied at completion**: Can I defend this? Yes. Is this mine? Yes. Did I verify? Yes, 29/31 with documented exceptions. Would I teach this? Yes. Is the disclosure honest? Yes. Gate cleared.
+
 ### Two-Level Architecture Integration (Post-Phase 5)
 
 - **Architectural decision**: Nathan directed after reviewing all v1.0 deliverables. He recognized that the single-process model did not account for the fundamental difference between producing work and learning through work.
 - **Propagation**: AI updated 6 documents for consistency. Nathan reviewed each for architectural coherence.
 - **New scholarly basis**: 10 additional sources (from NotebookLM research) added to support human-first sequencing and Socratic gate design.
+
+### PDF Verification Pass (v3.0, 2026-02-24)
+
+- **Method**: 6 research PDFs read directly against existing citations in both primary documents.
+- **Findings**: Two significant bibliographic errors identified: Atchley (entirely wrong title, authors, and article number across both primary documents and paper summary) and Stoyanov (wrong author initial, abbreviated title, no DOI). Both corrected. Pasmala confirmed correct. Bearman discrepancy noted (2023 paper in folder, 2024 paper cited in ESF).
+- **Key insight from this pass**: The Atchley error would not have been caught by web search because the wrong title ("Cognitive Automation in AI-Assisted Work") is plausible and could return independent search results: the error was self-concealing. PDF verification catches a different class of error than existence lookup. The two tiers are not redundant.
+- **Source of the error**: Paper summary files carry a citation accuracy risk that compounds across all documents that reference them. Errors originate in the summary, then propagate to every document assembled from it. This argues for treating paper summary metadata as a distinct verification target, not just a lookup convenience.
+
+### Framework in Practice
+
+*This section documents real-world applications of ESF beyond its own construction. Updated as the framework sees more practice use.*
+
+**Applied AI 201; Creative Computing (Spring 2026, v3.0 Syllabus)**
+*Date of integration: 2026-02-22*
+
+Full ESF Two-Level Architecture integration into a technical creative computing course. Key implementations:
+- **Dedicated ESF section** added to syllabus: "Epistemic Stewardship in AI 201"
+- **Design Intent** (Level 2 Position Statement equivalent): 3-element structure required before AI enters each project as production tool
+- **Records of Resistance**: 3 per project minimum: documented moments where AI output was refused, revised, or redirected, with rationale
+- **Five Questions checkpoints**: embedded at project submission
+- **Epistemic gate questions in crits**: faculty-facing prompts for critique sessions that surface student reasoning process, not just output quality
+- **Content Epistemic Weight table**: adapted for AI 201 assignment types
+- **AI-as-research-subject vs. AI-as-production-tool distinction**: codified in course AI policy; AI may be used as a research object throughout; use as production tool requires Design Intent first
+
+Key adaptation decision: ESF language at two levels. Faculty use ESF terminology (Directive Memo, Human Validation Gates). Students use studio language (Design Intent, Records of Resistance, Position Statement). The framework was adapted, not abandoned, for the student audience.
+
+---
+
+**Applied AI 180; Unleashing Creativity (Spring 2026, v3.0 Syllabus)**
+*Date of integration: 2026-02-23*
+
+Parallel ESF integration into a non-technical creative AI course. Demonstrates framework adaptability across course types:
+- **Two Layers model**: Cognitive Ladder (the course's established framework) as Layer 1 operational structure; ESF as epistemic layer alongside: not replacing the course's own vocabulary but adding accountability architecture
+- **Position Statement** (student equivalent of Directive Memo): 3-element structure required before AI use in P2 and P3
+- **Records of Resistance**: scaled to course intensity: 1 minute minimum for P2, 3 minutes minimum for P3
+- **Five Questions**: at project submission for P2 and P3
+- **ESF alignment paragraph** added to AI policy: positions the framework in relation to course structure without replacing course-specific guidance
+
+Key validation: ESF adapted to a course that already had its own organizing framework (Cognitive Ladder) without conflict. The Two Layers model emerged from this integration: it was not designed in advance.
+
+---
+
+*Nathan will continue adding to this section as ESF is applied across more courses, administrative contexts, and institutional settings. Evidence here is practice-level validation; external validation awaits peer review and replication by other practitioners.*
 
 ---
 
@@ -168,13 +225,13 @@ Apply the Five Questions to the project as a whole:
 
 2. **Is this mine?** Yes, with a specific structure. The *arguments* are Nathan's. The *prose* is substantially AI-drafted within those arguments. This is the distinction ESF itself draws: intellectual ownership lives in the direction, emphasis, and judgment, not in the sentence-level drafting. The Directive Memo established what the framework should argue before AI produced any text. Every strategic and architectural decision in the table above was human. The 80% AI drafting ratio is high, but it operates within 100% human strategic authority.
 
-3. **Did I verify?** Partially. 18 of 31 sources are confirmed or plan-verified. The 10 NotebookLM-sourced references and the accreditation crosswalk standard numbers carry verification risk that is documented and flagged, not concealed. This is an honest "not yet fully" rather than a false "yes." The framework's own protocol says: if the answer is no, fix it before proceeding. Publication-readiness requires completing this verification.
+3. **Did I verify?** Yes: for 29 of 31 sources. Pre-Publication Task A (18 pending sources) was completed 2026-02-24. 14 sources confirmed via web search and DOI lookup; 7 citation errors corrected in both primary documents (Allen & Kendeou, Gobbo, Hutson, Kassorla, Torrance, Washington OSPI, Wu). Two sources remain: Stoyanov (2026) preprint confirmed to exist but PDF access blocked; Luksha (2024) article not confirmable via available sources. These are documented as open items, not concealed. The accreditation crosswalk carries no specific standard numbers (resolved Phase 5 gate, Option B). The honest answer is now "yes, with two documented exceptions that require direct journal access before submission."
 
-4. **Would I teach this?** Yes. Nathan already practices a version of this methodology in his courses and has used it to design curriculum across multiple disciplines. The framework formalizes and generalizes what he does. He can demonstrate it, not just describe it.
+4. **Would I teach this?** Yes. Nathan practices this methodology in his courses and has integrated ESF directly into two Spring 2026 syllabi; AI 201 (Creative Computing, v3.0) and AI 180 (Unleashing Creativity, v3.0). Both integrations produced concrete structural changes to course requirements (Design Intent, Records of Resistance, Five Questions checkpoints, epistemic gate questions in crits). Students in these courses are using the framework now. Nathan can demonstrate it, not just describe it.
 
 5. **Is the disclosure honest?** Yes. Every deliverable carries a disclosure statement specifying what AI contributed. This document makes the ratio explicit rather than vague. The limitations section acknowledges that the evidence is self-reported and that external validation is needed.
 
-**Assessment: The project passes its own rigor test with one open item.** The strategic and architectural ownership is clear. The drafting delegation is high but operates within documented human authority. The verification gap (source #3) is acknowledged and flagged, not hidden. ESF does not require perfection at every gate; it requires honest assessment and a plan to address any "no." The plan here is pre-publication source verification.
+**Assessment: The project passes its own rigor test.** The strategic and architectural ownership is clear. The drafting delegation is high but operates within documented human authority. Source #3 (Did I verify?) has been resolved: Task A complete, 29 of 31 sources confirmed, two documented exceptions with a path forward. ESF does not require perfection; it requires honest assessment and action when the answer is "no." The verification gap was identified at the Integrity Report gate, flagged explicitly, completed as a dedicated pre-publication task, and the corrections were applied to both primary documents. This is the framework's process working as designed.
 
 ---
 
@@ -192,6 +249,8 @@ Apply the Five Questions to the project as a whole:
 
 6. **AI excels at consistency; humans excel at judgment.** AI maintained cross-document terminology consistency across 15+ files. Nathan made every decision about what the framework argues, who it serves, and where it is vulnerable. The collaboration works because these are genuinely different capabilities.
 
+7. **"Plan-verified" is not the same as "publication-verified."** The citation verification pass revealed that sources checked during planning for existence and relevance may still carry bibliographic errors. Five of seven citation corrections came from sources previously marked as plan-verified, not from the riskier NotebookLM-sourced tier. The framework's pre-publication Human Validation Gate caught errors that the planning gate did not prevent. Different gates serve different functions; they are not redundant.
+
 ---
 
 ## Design Rationale: Tool-Agnostic by Design
@@ -204,7 +263,7 @@ The scholarly basis for this design decision comes from multiple sources already
 
 **Metacognitive failures are tool-independent.** Tankelevitch et al. (2024) studied human oversight of AI output and found that the core challenge (detecting when AI output subtly departs from your own understanding) is a property of human cognition interacting with fluent AI output, not a property of any specific AI system. The Five Questions address a human vulnerability, not a tool-specific behavior.
 
-**Cognitive automation generalizes across systems.** Atchley et al. (2024) demonstrated that repeated exposure to *any* AI-assisted workflow reduces the cognitive resources humans allocate to oversight. This means the Directive Memo, Human Validation Gates, and Gate Verification Records are needed regardless of tool choice. The framework's accountability mechanisms respond to how human cognition works, not how a specific AI works.
+**Cognitive automation generalizes across systems.** Atchley et al. (2024) argue that AI's role as an external representation tool, and the corresponding reduction in cognitive engagement: applies regardless of which tool is used. This means the Directive Memo, Human Validation Gates, and Gate Verification Records are needed regardless of tool choice. The framework's accountability mechanisms respond to how human cognition interacts with AI assistance, not how a specific AI works.
 
 **The active endorsement condition is tool-neutral.** Clark and Chalmers (1998) specified that cognitive extension requires active endorsement of the tool's contributions. This condition applies identically to Claude, ChatGPT, Gemini, or any future system. The Directive Memo operationalizes active endorsement; the tool being endorsed is irrelevant to the mechanism.
 

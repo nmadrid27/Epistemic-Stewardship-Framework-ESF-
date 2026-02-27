@@ -124,7 +124,9 @@ Disclosure is not an admission. It is a professional practice — the same trans
 
 ## C. Content Epistemic Weight in Practice
 
-### High Weight — Full Workflow Required
+Content Epistemic Weight determines which workflow components are required. The classification is yours to make, and making it is itself an act of professional judgment.
+
+### High Weight; Full Workflow Required
 
 - Exam questions and assessment criteria
 - Tenure and promotion materials
@@ -134,7 +136,7 @@ Disclosure is not an admission. It is a professional practice — the same trans
 - External review letters
 - Grant proposals with research design
 
-### Medium Weight — Standard Workflow Required
+### Medium Weight; Standard Workflow Required
 
 - Syllabi and course descriptions
 - Assignment descriptions and project briefs
@@ -144,7 +146,7 @@ Disclosure is not an admission. It is a professional practice — the same trans
 - Committee reports and strategy documents
 - Workshop materials
 
-### Low Weight — Abbreviated Workflow Sufficient
+### Low Weight; Abbreviated Workflow Sufficient
 
 - Meeting agendas and minutes
 - Schedules, calendars, and course logistics
@@ -165,19 +167,70 @@ The weight belongs to the content, not the format.
 
 ## D. Worked Examples
 
-### Biology — Developing a Lab Assessment
+The following walkthroughs demonstrate the ESF workflow applied to faculty tasks within the Applied AI program. ESF was developed from operational practice in this context; these examples reflect tested application. ESF's constructs are designed to apply across disciplines and institutional contexts, but cross-disciplinary application has not yet been validated. Faculty in other programs should treat the framework as a starting point requiring adaptation, not a tested implementation guide for their context.
 
-**Context:** A biology professor creating a new lab practical for an upper-division molecular biology course.
+Each example shows all five phases of the Level 1 workflow.
 
-**Phase 1 (Scope):** High weight — the assessment criteria define what counts as competence in experimental design.
+### Example 1: AI 180; Designing a Project Brief (Medium Weight)
 
-**Phase 2 (Direct):** Directive Memo: *"This assessment tests whether students can design a controlled experiment, not whether they can follow instructions. Emphasis: experimental logic — hypothesis formation, variable identification, control design. De-emphasize technique execution. Non-negotiable: the scenario must be novel; no recycled examples from coursework."*
+**Context:** A faculty member is developing the project brief for P2 in AI 180 (Unleashing Creativity), a course focused on using AI as a creative partner. P2 asks students to explore how AI changes their creative process: the brief must frame the inquiry without prescribing the outcome.
 
-**Phase 3 (Build):** AI drafts three candidate scenarios. Faculty reviews each: *Does this test experimental logic, not recall? Is the scenario genuinely novel?* One scenario was redirected because the AI defaulted to a textbook-adjacent example.
+**Phase 1: Scope.** The faculty member classifies this as **medium weight**: it is a project prompt within an existing course, not a new course proposal. The brief shapes student inquiry but does not define the course's intellectual architecture. Standard workflow with abbreviated Directive Memo.
 
-**Phase 4 (Validate):** Integrity Report: "AI generated initial scenario drafts; I revised for novelty and aligned grading criteria to experimental reasoning emphasis per Directive Memo."
+**Phase 2: Direct.** The Directive Memo:
+> **Thesis:** Students should be interrogating their own creative process, not producing AI-generated work and calling it exploration. **Emphasis:** The relationship between the student and their tools: what they chose, what they resisted, what surprised them. **De-emphasis:** Technical output quality; a low-resolution experiment is as valid as a polished piece if the student can articulate what they learned. **Voice:** Open and inviting; this is a discovery project, not a production deliverable. **Non-negotiable:** The brief must leave the medium open. Students choose their tools. The prompt cannot be satisfied by AI-only production.
 
-**Phase 5 (Disclose):** "Assessment developed with AI-assisted scenario drafting. All learning objectives, grading criteria, and evaluative standards reflect the instructor's professional judgment."
+**Phase 3: Build.** The faculty member uses AI to draft three candidate brief framings and a set of guiding questions. Review against the memo: *Does this leave the medium open? Does it center the student's relationship to the process, not the output?* The AI's first framing implied a comparison task (AI vs. non-AI). Redirected: the question is not "how does AI compare" but "what do you notice about yourself when you use it?" The revision shifts from comparison to self-inquiry.
+
+**Phase 4: Validate.** The brief is reviewed against the Directive Memo. The non-negotiable (open medium) is intact. The emphasis on process relationship over output quality is clear. One deliverable note added after validation: the brief should explicitly name a Records of Resistance requirement, since the ESF integration in this course includes structured resistance documentation. That instruction was absent from the AI draft and added by the faculty member.
+
+**Phase 5: Disclose.** Standard course materials disclosure: "Project brief developed with AI-assisted drafting. All learning objectives, framing decisions, and assessment criteria reflect the instructor's pedagogical judgment."
+
+---
+
+### Example 2: AI 201; Designing the Design Intent Assessment (High Weight)
+
+**Context:** A faculty member is developing the Design Intent assignment for AI 201 (Creative Computing with AI). This is the course's primary structured epistemic gate: students write a Design Intent (Position Statement + emphasis/de-emphasis + non-negotiables) before using AI as a production tool. The assignment instructions define what epistemic ownership means in a technical creative context.
+
+**Phase 1: Scope.** The faculty member classifies this as **high weight**: this assignment directly operationalizes the course's core learning outcome (intentional AI use). How the assignment is framed determines what students understand intellectual ownership to mean. Full workflow.
+
+**Phase 2: Direct.** The Directive Memo:
+> **Thesis:** A Design Intent is not a plan. It is the student's articulation of what they are trying to make and why it has to be *theirs*. The assignment must make that distinction legible. **Emphasis:** The non-negotiables field: that is where intellectual ownership lives. Students must name what AI cannot decide. **De-emphasis:** Formal completeness; a partial Design Intent that names a genuine non-negotiable is more valuable than a polished one that says nothing. **Rationale:** Without this assignment, students use AI from the beginning of a project and arrive at outcomes they cannot fully defend. The Design Intent creates the human-first moment the course requires. **Non-negotiable:** The assignment rubric must assess whether the non-negotiables are actually non-negotiable, not whether they are well-written.
+
+**Phase 3: Build.** The faculty member uses AI to draft the assignment prompt, rubric criteria, and three annotated student examples (weak, developing, strong). Review: *Does the rubric assess genuine non-negotiability, or just formatting? Do the annotated examples show the distinction between a plan and an ownership statement?* The AI's "strong" example included a beautifully written Design Intent that contained no real non-negotiables. Flagged and revised: the strong example must demonstrate non-negotiables that would actually constrain AI use.
+
+**Phase 4: Validate.** Final assignment reviewed against the Directive Memo. The rubric now includes an explicit criterion: "Non-negotiables name what the student has reserved from AI decision-making." The annotated examples distinguish plan from ownership statement. The emphasis on partial but genuine over polished but empty is present in the rubric guidance. Integrity Report: "AI drafted initial prompt and rubric structure. All rubric criteria, annotated examples, and framing of what constitutes genuine epistemic ownership reflect the instructor's pedagogical position."
+
+**Phase 5: Disclose.** "Assignment developed with AI-assisted drafting. Rubric design, example selection, and the framing of what constitutes intellectual ownership in AI-assisted creative computing reflect the instructor's professional judgment."
+
+---
+
+### Example 3: Faculty Scholarship; Practitioner Paper on AI Pedagogy (High Weight)
+
+**Context:** A faculty member in the Applied AI program is developing a practitioner paper documenting their methodology for maintaining epistemic integrity while using AI extensively in curriculum development. The paper will be submitted for conference review and attributed to the author.
+
+**Phase 1: Scope.** The faculty member classifies this as **high weight**: the paper is attributed scholarship that advances a theoretical and methodological position. Full workflow.
+
+**Phase 2: Direct.** The Directive Memo:
+> **Thesis:** The challenge of AI in higher education is not cheating: it is epistemic agency: the capacity to remain the originator of one's intellectual work while using AI as a cognitive partner. **Emphasis:** The Directive Memo as the core innovation; faculty-facing application; self-application as methodological evidence. **De-emphasis:** Tool-specific guidance; student policing; exhaustive literature review. **Voice:** Direct and substantive: scholarly but accessible to faculty without AI research backgrounds. **Non-negotiables:** All cited sources must be verified. The disclosure statement must be accurate to the actual collaboration. No claims about what the framework does that the author has not personally observed.
+
+**Phase 3: Build.** The faculty member uses AI to draft individual sections from source material (existing operational documents, course artifacts, collaboration logs). Review per section: *Does this reflect my intellectual position or a plausible-sounding synthesis? Are the claims ones I can defend in a Q&A?* Several passages in the literature review accurately summarized sources but made attribution claims that were not supported by those sources. Corrected: every attribution claim verified against the primary source before proceeding.
+
+**Phase 4: Validate.** Full draft reviewed against Directive Memo. The Five Questions applied at this gate. "Did I verify?" flagged three citations requiring direct access before submission: documented in the Integrity Report. "Is this mine?" applied to the framework's novel contributions: each claim traced back to the author's operational practice, not derived from the literature. Integrity Report produced before submission.
+
+**Phase 5: Disclose.** Scholarship-level disclosure: "This paper was developed using AI tools for drafting, synthesis, and structural organization from the author's operational source materials. The framework described, all methodological positions, and all novel contribution claims reflect the author's intellectual work. The author applied the Epistemic Stewardship Framework to the paper's own development; an Integrity Report is available on request."
+
+---
+
+### Reference: Applied AI Program; Full Curriculum Development
+
+ESF was developed from operational practice in curriculum development at an art and design university. In this context, the workflow was applied to building AI-integrated creative curricula where students produce portfolio artifacts (interactive installations, generative art, design systems) rather than written analysis. The discipline-specific adaptation included:
+- Directive Memos specifying studio culture framing, portfolio-artifact requirements, and creative computing media (student-selected tools and environments)
+- Content Epistemic Weight calibrated to creative pedagogy: learning outcomes and conceptual arcs are high-weight; weekly studio schedules are low-weight
+- The Five Questions adapted for creative contexts: "Would I teach this?" means "would I stand behind this in a studio critique?"
+- A multi-agent coordination model for full course design (one workflow implementation; ESF does not prescribe any specific tooling or agent infrastructure)
+
+This reference case demonstrates ESF's adaptability to disciplines where "intellectual ownership" means creative and pedagogical authority, not just textual authorship. The framework's constructs translate across contexts because they address the *relationship* between the human and the work, not the *content* of the work. ESF is tool-agnostic: it applies whether you use a general-purpose chatbot, a specialized assistant, or a multi-agent system.
 
 ---
 
@@ -256,9 +309,39 @@ Experience with AI does not reduce the need for structured oversight. As AI-assi
 
 ### Template Locations
 
-- `templates/directive-memo-template.md` — Six-field Directive Memo with Ownership Test
-- `templates/integrity-report-template.md` — Post-Validate audit for high-weight content
-- `templates/course-ai-policy-template.md` — Customizable syllabus section for AI use expectations
+## F. Common Pitfalls
+
+These anti-patterns have been observed in practice. Each represents a way the ESF workflow can fail, not through deliberate violation but through the natural path of least resistance.
+
+### 1. "I'll Write the Memo After"
+
+Writing the Directive Memo after AI-assisted drafting defeats its purpose. The memo captures your position *before* the AI's output exists to influence it. If you write the memo after seeing the AI's draft, you may unconsciously adopt the AI's framing as your own. The memo becomes a rationalization, not a direction. If you find yourself doing this, it's a signal that you skipped Phase 2 and are attempting to retrofit it.
+
+### 2. "The AI Basically Got It Right"
+
+This is the most common and most dangerous pitfall. AI output that is 90% aligned with your position feels like it doesn't need correction. But the 10% that diverges (a subtle shift in emphasis, a framing choice you wouldn't have made, a claim slightly stronger than your evidence supports) accumulates across a document. "Basically right" is how epistemic drift begins. The Five Questions are designed to catch this. *Is this mine?* means "would I have written it this way?" not "do I disagree with it?"
+
+### 3. "This Is Just a Low-Stakes Document"
+
+Misclassifying Content Epistemic Weight is the gateway to skipping the workflow for content that actually requires it. A syllabus is not low-stakes; it encodes your pedagogical philosophy. A rubric is not low-stakes; it defines what competence means in your field. When in doubt, classify higher.
+
+### 4. "I Don't Need a Gate for This Section"
+
+Skipping gates between sections during the Build phase allows drift to compound. A small framing shift in Section 2 becomes the foundation for a larger departure in Section 5. Checking each section against the Directive Memo as you build prevents this accumulation.
+
+### 5. "The Disclosure Is a Formality"
+
+If you write your disclosure statement by copying a template without evaluating whether it accurately describes *this specific* collaboration, the disclosure is performative. The fifth question ("Is the disclosure honest?") requires you to actually assess the division of labor. Did you direct the intellectual content? Did AI contribute more than structural organization? Does the disclosure reflect the reality?
+
+### 6. "My Students Don't Need to Know About My Process"
+
+Faculty who use AI in their own work without transparency create a credibility gap when they require transparency from students. ESF's two-level architecture makes this explicit: Level 1 (your production work) and Level 2 (your students' epistemic development) are structurally connected.
+
+When you model ESF in your own practice, disclosing your AI use and demonstrating the Directive Memo process, you provide students with evidence that the epistemic discipline you require of them is a professional practice, not a classroom exercise. If you skip Level 1 discipline while enforcing Level 2 discipline, students will notice the asymmetry.
+
+### 7. "I've Been Doing This Long Enough to Skip Steps"
+
+Experience with AI does not reduce the need for structured oversight. Atchley et al. (2024) argue that AI, as an external representation tool, reduces information processing demands: a benefit with a corresponding cost: diminished cognitive engagement with the work's substance. This is the cognitive automation concern: as AI-assisted work becomes routine, the depth of critical engagement tends to decrease. The Five Questions and gates are designed to counteract this. Structured oversight becomes more important, not less, as AI use becomes routine.
 
 ---
 
@@ -294,10 +377,27 @@ AI does not enter until Phase 3 (Explore). Phases 1 and 2 are human-only. Studen
 
 **Build gates into rubrics.** Reward the quality of epistemic engagement, not just the quality of the final product. A student who produces excellent work but cannot explain their process has not demonstrated epistemic agency.
 
-**Scaffold gate complexity by level:**
-- Introductory: Instructor provides the gates. Students practice with guided prompts.
-- Intermediate: Students use the full process with documented reflections and peer review.
-- Advanced: Students design their own gates.
+**Scaffold gate complexity by level.** Not all students need the same gate rigor from the start:
+- Introductory courses: Instructor provides the gates. Students practice with guided Socratic prompts.
+- Intermediate courses: Students use the full process with documented reflections and peer review.
+- Advanced courses: Students design their own gates, determining what epistemic checkpoints their project requires.
+
+### Assignment Design Examples
+
+**Example: Studio Art; Generative Portrait Series**
+- *Inquire:* Students research three portrait traditions and identify the visual conventions each uses. Written in their own words.
+- *Position:* Each student writes a Position Statement: "My series will challenge [convention] by [approach]. I will not compromise on [element]."
+- *Explore:* Students use AI image generation to produce 20+ variations, documenting which outputs surprised them and which confirmed their assumptions.
+- *Make:* Students select, combine, and rework AI outputs alongside their own studio work. Five Questions at each major revision.
+- *Reflect:* Final portfolio includes the Position Statement, three "records of resistance" (AI suggestions they rejected and why), and the finished series.
+
+
+**Example: Building Arts; Architectural Design Proposal**
+- *Inquire:* Students analyze a site and its context: climate, program, material culture, precedents. Written in their own words, no AI.
+- *Position:* "My design will respond to [site condition] by [design move]. I will not compromise on [spatial or material principle]."
+- *Explore:* Students use AI to generate massing variations and alternative spatial arrangements, documenting which outputs aligned with their intent and which diverged.
+- *Make:* Design proposal developed with AI assistance for diagramming and documentation. All spatial reasoning and design decisions are the student's own.
+- *Reflect:* Submission includes the original Position Statement, three records of resistance (AI suggestions rejected and why), and a reflection on where AI extended versus replaced design thinking.
 
 ### The Faculty Double Role
 
@@ -319,5 +419,10 @@ This is not incidental. It is the architecture working as designed.
 
 ---
 
-*Epistemic Stewardship Framework — Faculty Implementation Guide*
-*Nathan Madrid | Version 2.0*
+> **AI Collaboration Disclosure:** This faculty guide was developed through human-AI collaboration. The workflow model, construct definitions, and anti-patterns are derived from the author's operational practice and generalized for cross-disciplinary use. AI assisted with structural organization, prose drafting, and the construction of worked examples across disciplines the author does not teach in. All pedagogical judgments, framework design decisions, and claims about effective practice reflect the author's professional assessment. This document follows the ESF protocol it describes.
+
+---
+
+*Version 2.0-draft | 2026-02-19*
+*Epistemic Stewardship Framework; Faculty Implementation Guide*
+*Nathan Madrid*

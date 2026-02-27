@@ -35,6 +35,7 @@ This is your process for working with AI on any assignment that matters. It is b
 **Why this matters:** The Inquire phase forces you to engage with the problem on your own terms before AI offers you its version. If you jump straight to AI, you get the AI's interpretation of the problem, which may be competent but is not yours. Starting with your own questions means the work that follows is grounded in your understanding, not the AI's.
 
 **What this looks like in practice:**
+- Close your AI tools. Phase 1 is yours alone, not just conceptually, but practically. Do not open Claude Code, ChatGPT, or any other AI assistant during this phase. AI questions, even Socratic ones, introduce framing before you have formed your own. The goal is your unmediated engagement with the problem.
 - Read the assignment prompt carefully. Identify what it is really asking: not just the surface instructions, but the intellectual challenge underneath.
 - Write down what you already know about the topic. This can be rough (notes, fragments, questions). The point is to activate your own knowledge before encountering the AI's.
 - Identify what you do not know. What would you need to research, read, or think through before you could take a position?
@@ -74,7 +75,9 @@ Write a **Position Statement** with three elements:
 
 The Position Statement should take 5–10 minutes. Those minutes are where the learning happens. If you find you cannot write it (you do not know what your position is, or you have not read enough to have one), that is the most valuable information the exercise can produce. It tells you to go back to Inquire.
 
-**Human Gate:** *Have I written my position before consulting AI?* The position must exist on paper (or screen) before you open any AI tool. This is not a suggestion. It is the mechanism that protects your intellectual ownership of everything that follows.
+Write the Position Statement offline, without AI assistance. This means not asking an AI tool to help you think through your position, suggest a structure, or prompt you with questions. Even well-intentioned questions from AI will introduce framing that shapes your position before you have formed it on your own. "What should I be thinking about?" is still an AI-shaped position.
+
+**Human Gate:** *Have I written my position before consulting AI?* The position must exist before you open an AI tool on this project, and before you ask AI any process questions about how to write it. This is not a suggestion. It is the mechanism that protects your intellectual ownership of everything that follows.
 
 ---
 
@@ -187,6 +190,8 @@ The Position Statement should take 5–10 minutes. Those minutes are where the l
 
 The five-phase process is the same at every level. What changes is how much support you get at each gate and how much independence you exercise.
 
+> **Note on evidence base:** The four engagement levels and their readiness indicators are theoretically grounded in research on scaffolded learning, Socratic inquiry, and metacognitive development. They have not yet been empirically validated against actual student progression data. The thresholds, readiness indicators, and level descriptions reflect the framework author's professional judgment and pedagogical experience, not measured outcomes. Treat the levels as a useful developmental map, not a tested diagnostic instrument. As ESF is applied in more courses and contexts, these levels will be revised based on observed student development.
+
 ### Level 1: Discovery
 
 **What it looks like:** You are learning to inquire and position before engaging AI. Your instructor scaffolds the gates, providing prompts for the Inquire phase, templates for the Position Statement, and structured checkpoints during Explore and Make.
@@ -230,8 +235,8 @@ The five-phase process is the same at every level. What changes is how much supp
 - When AI use serves your learning and when it undermines it
 
 **Common traps:**
-- *Confidence without vigilance.* The more comfortable you become with AI, the less critically you may evaluate its output. The Five Questions exist to counteract this.
-- *Over-relying on one AI tool.* Using the same tool the same way creates blind spots.
+- *Confidence without vigilance.* The more comfortable you become with AI, the less critically you may evaluate its output. As AI-assisted work becomes routine, depth of engagement can decrease. The Five Questions exist to counteract this.
+- *Over-relying on one AI tool.* Using the same tool the same way creates blind spots. Varying your approach reveals assumptions you did not know you were making.
 
 **Readiness to progress:** You can explain your process to a classmate, justify your decisions at each gate, and produce an honest process record that a peer could evaluate.
 
@@ -406,5 +411,10 @@ The goal is not perfection. The goal is honest, evolving practice — the kind w
 
 ---
 
-*Epistemic Stewardship Framework — Student Implementation Guide*
-*Nathan Madrid | Version 2.0*
+> **AI Collaboration Disclosure:** This student guide was developed through human-AI collaboration. The two-level architecture, the student process model (Inquire, Position, Explore, Make, Reflect), and the integration of design thinking with Socratic human gates were designed by the author based on the ESF Framework Document and supported by research from multiple scholarly traditions (Hutson, 2025; Washington OSPI, 2024; Pasmala et al., 2026; Degen & Asanov, 2025; Favero et al., 2024; Naeem, 2025; Plate & Hutson, 2025). AI assisted with structural organization, prose drafting, and the construction of discipline-specific examples. All pedagogical judgments, the developmental progression model, the gate design, and claims about effective student practice reflect the author's professional assessment. This document follows the ESF protocol it describes.
+
+---
+
+*Version 2.0-draft | 2026-02-19*
+*Epistemic Stewardship Framework; Student Implementation Guide*
+*Nathan Madrid*

@@ -2,7 +2,9 @@
 type: architectural-decision
 project: Epistemic Stewardship Framework
 created: 2026-02-19
-status: proposed
+status: implemented
+implemented: 2026-02-19
+confirmed: 2026-02-23
 tags: [esf, two-level-model, student-process, design-thinking, socratic-method]
 decision-by: Nathan Madrid
 ---
@@ -48,7 +50,7 @@ Faculty *create the conditions* in which students develop. A professor using ESF
 |--------|-------|-------------|
 | Hutson (2025). "Scaffolded Integration." *FARJES*, 2(1), 29-54. | Three-Tiered Scaffolded Framework | Independent proficiency required before AI access; timed tasks and oral defenses verify mastery |
 | Washington State OSPI (2024/2025). *Washington Student Scaffolding Scale*. | H-AI-H Cycle | Every AI interaction bookended by human inquiry (before) and human reflection (after) |
-| Pasmala, Hinon, & Wannapiroon (2026). "Research-Based Learning Integration with AI Research Assistants." *Higher Education Studies*, 16(1), 395-416. [PREPRINT — verify] | 5-Stage RBL Model | 90% human cognitive load on problem identification before AI assists |
+| Pasmala, Hinon, & Wannapiroon (2026). "Research-Based Learning Integration with AI Research Assistants." *Higher Education Studies*, 16(1), 395. https://doi.org/10.5539/hes.v16n1p395 | 5-Stage RBL-AI Model | Human-led problem identification and research planning precede AI-enhanced analysis; design principle: "ethical judgment and scholarly responsibility remain learner- and instructor-centered" |
 
 ### Socratic Questioning as Gate Mechanism
 
@@ -64,7 +66,7 @@ Faculty *create the conditions* in which students develop. A professor using ESF
 |--------|-----------|
 | Plate & Hutson (2025). "Composition Pedagogy as AI-Native Coding." *World Journal of Arts, Education and Literature*, 2(11), 1-10. | "Rhetorical event" logs, auditable histories |
 | Stoyanov (2026). "Delegated Reasoning and Epistemic Accountability..." *Preprints.org*. [PREPRINT] | "Epistemic audit" and traceability |
-| Gobbo (2024). "Teaching creative AI at the Royal College of Art." *IJADE*. | 3C Protocol: Compare, Challenge, Curate |
+| Gobbo (2025). *Sinfonia Artificiale* [practitioner book, ISBN 9798293364923]. | 3C Protocol: Compare, Challenge, Curate |
 
 ### Additional Model
 
