@@ -38,11 +38,11 @@ The framework is not a policy document. It is a **methodology for maintaining in
 
 - **Institutional policy detail.** The framework document describes the constructs. Implementation specifics (rollout models, accreditation crosswalks, assessment rubrics) are deferred to the Institutional Guide (Phase 5). Avoid policy language in the core document.
 
-- **SCAD-specific context.** While ESF emerges from practice at SCAD, the framework document must be discipline-agnostic and institution-agnostic. SCAD experience can appear as one illustrative example among others, not as the default context.
+- **Institution-specific context.** While ESF emerges from practice at one institution, the framework document must be discipline-agnostic and institution-agnostic. The originating institutional experience can appear as one illustrative example among others, not as the default context.
 
 ## Pedagogical Rationale
 
-This framework exists because I practiced something before I theorized it. The BMAD-adapted curriculum development workflow, with its Directive Memo, phased gates, Five Questions, and Integrity Reports, emerged from the actual work of building AI-integrated courses at SCAD. It was built to solve a real problem: how do you use AI extensively in curriculum development while ensuring the course remains *yours*?
+This framework exists because I practiced something before I theorized it. The BMAD-adapted curriculum development workflow, with its Directive Memo, phased gates, Five Questions, and Integrity Reports, emerged from the actual work of building AI-integrated courses at an art and design university. It was built to solve a real problem: how do you use AI extensively in curriculum development while ensuring the course remains *yours*?
 
 The scholarly grounding (18 verified sources, 7 concept clusters) was assembled afterward, not to justify the practice but to position it within existing knowledge. The practice preceded the theory. The framework document should reflect that intellectual honesty: this is a methodology that works, now supported by established research, not a literature-derived model seeking application.
 

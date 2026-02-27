@@ -29,7 +29,7 @@ Three specific failures:
 
 ESF was not derived from a literature review. It was built from practice.
 
-Nathan Madrid developed the framework's core constructs (the Directive Memo, the Five Questions, Content Epistemic Weight, Human Validation Gates, and the phased workflow model) through his own operational practice integrating AI into curriculum development, assessment design, and institutional work at the Savannah College of Art and Design (SCAD). The methodology was refined through daily use across multiple courses and administrative contexts before it was ever formalized as a framework or positioned against the scholarly literature.
+Nathan Madrid developed the framework's core constructs (the Directive Memo, the Five Questions, Content Epistemic Weight, Human Validation Gates, and the phased workflow model) through his own operational practice integrating AI into curriculum development, assessment design, and institutional work at an art and design university. The methodology was refined through daily use across multiple courses and administrative contexts before it was ever formalized as a framework or positioned against the scholarly literature.
 
 The literature review (31 sources across 8 research areas) was conducted after the constructs existed. It serves two purposes: confirming that the constructs address real, documented problems in the field, and identifying where the constructs fill gaps that existing frameworks leave open. The scholarship validates and grounds the framework. It does not originate it.
 

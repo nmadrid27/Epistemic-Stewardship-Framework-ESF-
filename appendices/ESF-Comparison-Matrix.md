@@ -198,7 +198,7 @@ ESF is designed to work alongside existing frameworks, not replace them.
 
 2. **Frameworks are evolving.** AIAS, AID, and ED-AI Lit are recent contributions that may be expanded in future versions. This matrix represents their current published form as of early 2026.
 
-3. **ESF is untested at scale.** ESF's constructs are derived from a single practitioner's operational system (the author's BMAD-adapted workflow at SCAD). The other frameworks, while also early, have been developed through broader research programs. ESF's claims of novel contribution are positioned against the literature, not validated through large-scale empirical testing. This limitation is acknowledged, not concealed.
+3. **ESF is untested at scale.** ESF's constructs are derived from a single practitioner's operational system (the author's BMAD-adapted workflow at one institution). The other frameworks, while also early, have been developed through broader research programs. ESF's claims of novel contribution are positioned against the literature, not validated through large-scale empirical testing. This limitation is acknowledged, not concealed.
 
 4. **Complementarity may be overstated.** The complementarity map assumes that frameworks can be layered without conflict. In practice, institutional adoption of multiple frameworks creates complexity that the map does not fully address. Implementation guidance (Phase 5: Institutional Guide) will need to address this.
 

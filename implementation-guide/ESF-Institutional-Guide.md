@@ -301,7 +301,7 @@ ESF adoption does not require institutional mandate from the outset. Most succes
 
 ---
 
-> **AI Collaboration Disclosure:** This institutional guide was developed through human-AI collaboration. The rollout model, policy integration framework, and assessment metrics are derived from the ESF Framework Document and informed by the author's experience with institutional AI integration at the Savannah College of Art and Design. AI assisted with structural organization, prose drafting, and the construction of cross-institutional scenarios. All policy recommendations, assessment frameworks, and claims about institutional practice reflect the author's professional judgment. This document follows the ESF protocol it describes.
+> **AI Collaboration Disclosure:** This institutional guide was developed through human-AI collaboration. The rollout model, policy integration framework, and assessment metrics are derived from the ESF Framework Document and informed by the author's experience with institutional AI integration at an art and design university. AI assisted with structural organization, prose drafting, and the construction of cross-institutional scenarios. All policy recommendations, assessment frameworks, and claims about institutional practice reflect the author's professional judgment. This document follows the ESF protocol it describes.
 
 ---
 

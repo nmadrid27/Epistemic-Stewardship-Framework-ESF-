@@ -23,7 +23,7 @@ If a framework for maintaining intellectual ownership in AI-assisted work cannot
 
 ESF's origin story is critical to understanding its claims and its authorship.
 
-**The constructs came from practice, not from the literature.** Nathan Madrid developed the core mechanisms that became ESF (the pre-drafting authority document, the recurring checkpoint questions, the epistemic weight classification, the phased workflow with gates) through his own operational work integrating AI into curriculum development, assessment design, and institutional reporting at the Savannah College of Art and Design (SCAD). These mechanisms were built iteratively over months of daily AI-assisted practice across multiple courses (Foundation Studies, Applied AI, Professional Studies) and administrative responsibilities (Associate Chair duties, accreditation work, faculty development).
+**The constructs came from practice, not from the literature.** Nathan Madrid developed the core mechanisms that became ESF (the pre-drafting authority document, the recurring checkpoint questions, the epistemic weight classification, the phased workflow with gates) through his own operational work integrating AI into curriculum development, assessment design, and institutional reporting at an art and design university. These mechanisms were built iteratively over months of daily AI-assisted practice across multiple courses (Foundation Studies, Applied AI, Professional Studies) and administrative responsibilities (associate chair duties, accreditation work, faculty development).
 
 **The development sequence was:**
 
@@ -31,7 +31,7 @@ ESF's origin story is critical to understanding its claims and its authorship.
 2. **Solution built and tested.** Each construct was developed as a practical response: the Directive Memo to anchor intent, the Five Questions to structure review, Content Epistemic Weight to calibrate effort, the two-level architecture to serve different audiences.
 3. **System operationalized in vault infrastructure.** The constructs were codified into Nathan's Obsidian vault as reference documents, skill definitions, agent instructions, and templates. This was a working system used daily, not a theoretical framework.
 4. **Literature review conducted.** 31 scholarly sources across 8 research areas were identified and verified. The review confirmed that the constructs address documented problems (epistemic agency erosion, metacognitive failure in AI oversight, the faculty-facing gap) and that no existing framework provides the specific mechanisms Nathan had already built.
-5. **Framework formalized for external audiences.** The operational system was generalized, stripped of SCAD-specific dependencies, grounded in the verified literature, and structured as a publishable framework with implementation guides.
+5. **Framework formalized for external audiences.** The operational system was generalized, stripped of institution-specific dependencies, grounded in the verified literature, and structured as a publishable framework with implementation guides.
 
 **What the literature provided:** Validation that the problems ESF addresses are real and documented. Scholarly vocabulary for describing the constructs (e.g., Clark and Chalmers's "active endorsement" maps precisely to what the Directive Memo operationalizes). Evidence that the gaps ESF fills are genuine (e.g., Zawacki-Richter et al.'s 2019 identification of the faculty-facing gap remains open). Positioning against existing frameworks (AIAS, AID, ED-AI Lit, UNESCO) to show complementarity.
 
@@ -133,7 +133,7 @@ These emerged through back-and-forth between human direction and AI contribution
 
 ### Phases 3-5: Implementation Guides
 
-- **Faculty Guide**: Nathan's operational SCAD practice generalized to discipline-agnostic methodology. AI drafted; Nathan verified the translation preserved the substance while removing SCAD-specific dependencies.
+- **Faculty Guide**: Nathan's operational institutional practice generalized to discipline-agnostic methodology. AI drafted; Nathan verified the translation preserved the substance while removing institution-specific dependencies.
 - **Student Guide**: Written *to* students at Nathan's direction. The agency framing (students as developing epistemic agents, not potential cheaters) is Nathan's pedagogical position.
 - **Institutional Guide**: Rollout model, mitigating factors clause, and assessment rubrics reflect Nathan's institutional experience. Accreditation crosswalk flagged as highest verification risk.
 
@@ -164,7 +164,7 @@ The ratio above raises the question the framework itself demands: with AI handli
 
 Apply the Five Questions to the project as a whole:
 
-1. **Can I defend this?** Yes. Nathan can explain every construct, every architectural decision, and every scholarly claim without referencing AI's reasoning. The constructs originated from his operational practice at SCAD. The two-level architecture was his judgment call. The counterarguments were evaluated against his knowledge of the field. If challenged in peer review, he can trace any claim back to his own position.
+1. **Can I defend this?** Yes. Nathan can explain every construct, every architectural decision, and every scholarly claim without referencing AI's reasoning. The constructs originated from his operational practice in higher education. The two-level architecture was his judgment call. The counterarguments were evaluated against his knowledge of the field. If challenged in peer review, he can trace any claim back to his own position.
 
 2. **Is this mine?** Yes, with a specific structure. The *arguments* are Nathan's. The *prose* is substantially AI-drafted within those arguments. This is the distinction ESF itself draws: intellectual ownership lives in the direction, emphasis, and judgment, not in the sentence-level drafting. The Directive Memo established what the framework should argue before AI produced any text. Every strategic and architectural decision in the table above was human. The 80% AI drafting ratio is high, but it operates within 100% human strategic authority.
 
