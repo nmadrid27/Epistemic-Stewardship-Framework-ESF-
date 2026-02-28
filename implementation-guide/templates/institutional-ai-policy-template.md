@@ -19,7 +19,7 @@ status: draft
 
 ## 1. Purpose
 
-This policy establishes [Institution Name]'s approach to artificial intelligence in academic work. It provides a structured methodology for faculty, students, and institutional leaders to use AI tools in ways that preserve intellectual integrity, develop professional capacity, and maintain the standards on which the institution's credibility depends.
+This policy defines [Institution Name]'s approach to artificial intelligence in academic work. It provides a structured methodology for faculty, students, and institutional leaders to use AI tools in ways that preserve intellectual integrity, develop professional capacity, and maintain the standards on which the institution's credibility depends.
 
 This policy is informed by the Epistemic Stewardship Framework (ESF), a methodology for maintaining intellectual ownership in AI-assisted academic work.
 
@@ -31,7 +31,7 @@ This policy is informed by the Epistemic Stewardship Framework (ESF), a methodol
 
 1. **AI use is a professional skill.** The question is not whether faculty and students will use AI, but whether they will use it in ways that serve intellectual integrity and learning.
 
-2. **Methodology matters more than permission.** Rules about what AI use is allowed are insufficient without structured practices for using AI responsibly. This policy provides both.
+2. **Methodology matters more than permission.** Rules about permissible AI use are insufficient without structured practices for responsible use. This policy provides both.
 
 3. **Faculty model the practice they expect.** Faculty who use AI in their professional work should do so transparently and methodologically, demonstrating the standards they require of students.
 
@@ -97,7 +97,7 @@ AI use that follows this policy is not an academic integrity violation. AI use t
 - Fabricating disclosures (claiming less AI involvement than actually occurred)
 
 **Mitigating factors:**
-- Honest voluntary disclosure of AI use that exceeds course guidelines demonstrates the reflective capacity this policy develops. Self-reporting is considered a positive indicator, not an aggravating factor.
+- Honest voluntary disclosure of AI use that exceeds course guidelines demonstrates the reflective capacity this policy develops. The institution treats self-reporting as a positive indicator, not an aggravating factor.
 - Students at Level 1-2 are developing practices. Instructors should treat disclosure gaps as learning opportunities before treating them as violations.
 
 ---
@@ -112,7 +112,7 @@ The institution assesses AI integration effectiveness through:
 - **Accreditation alignment:** ESF practices mapped to accreditor standards
 - **Framework evolution:** Documented revisions, challenges, and version changes
 
-Assessment data is collected through existing institutional processes (course evaluation, program assessment, annual reporting). No separate reporting infrastructure is required.
+Existing institutional processes (course evaluation, program assessment, annual reporting) collect assessment data. This requires no separate reporting infrastructure.
 
 ---
 
@@ -122,7 +122,7 @@ This policy is reviewed annually by [designated steward/committee]. The review i
 
 - Analysis of adoption data and assessment metrics
 - Scan of new scholarship on AI in education
-- Stakeholder feedback from faculty, students, and departments
+- Feedback from faculty, students, and departments
 - Proposed revisions with documented rationale
 - Version update with changelog
 

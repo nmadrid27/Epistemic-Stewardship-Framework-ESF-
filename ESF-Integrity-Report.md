@@ -28,15 +28,15 @@ tags: [esf, integrity-report, self-application]
 
 ### Thesis
 
-- [x] Final content thesis matches memo thesis: ESF argues epistemic agency (not compliance, not tool proficiency) as the fundamental challenge. Confirmed throughout the Framework Document and explicitly positioned against compliance and AI literacy frameworks in Novel Contributions and Comparison Matrix.
+- [x] Final content thesis matches memo thesis: ESF argues epistemic agency (not compliance, not tool proficiency) as the central challenge. Confirmed throughout the Framework Document. Explicitly positioned against compliance and AI literacy frameworks in Novel Contributions and Comparison Matrix.
 
 ### Emphasis
 
 - [x] **Directive Memo as core innovation**: Framework Document positions it as ESF's most distinctive contribution. Novel Contributions Claim 1 makes the "no existing framework" argument with evidence. Phase 1 gate confirmed this emphasis is prominent.
 - [x] **Epistemic agency over technical proficiency**: Consistent framing across all documents. Clark & Chalmers's "active endorsement" grounds this claim. No document drifts toward tool competency framing.
 - [x] **Faculty-facing application**: Novel Contributions Claim 4 directly addresses the faculty-facing gap documented by Zawacki-Richter et al. (2019). Faculty Guide is a standalone deliverable. Phase 3 gate confirmed practical adoptability for faculty at other institutions.
-- [x] **Self-revision as structural commitment**: Framework Evolution Protocol is Construct 7, given equal structural weight in Framework Document. Institutional Guide Section C operationalizes the annual review cycle at institutional scale.
-- [x] **Practical adoptability**: Every construct is operationalized with Getting Started sections in Faculty, Student, and Institutional Guides.
+- [x] **Self-revision as structural commitment**: Framework Evolution Protocol is Construct 7, given equal structural weight in Framework Document. Institutional Guide Section C implements the annual review cycle at institutional scale.
+- [x] **Practical adoptability**: Every construct is made actionable in Getting Started sections across Faculty, Student, and Institutional Guides.
 
 ### De-emphasis
 
@@ -49,8 +49,16 @@ tags: [esf, integrity-report, self-application]
 ### Non-Negotiables
 
 - [x] **Five Questions appear exactly as formulated**: Identical question text confirmed across Framework Document, Faculty Guide, Student Guide, Institutional Guide, all templates, and the vault's own disclosure protocol.
-- [~] **Directive Memo is human-only**: *Documented tension:* The project's Directive Memo was AI-drafted from the author's existing operational BMAD vault files, with Nathan reviewing and accepting without revision. The memo acknowledges this explicitly in its own footer note. The Self-Application Evidence records it in the division-of-labor table. The construct's intent: establishing human intellectual authority before AI drafting begins: was met in practice. The literal production was AI-assisted bootstrapping from existing human-authored source files, not AI origination of the intellectual position. For publication, this should be addressed explicitly as a "bootstrapping" case: the author's prior operational documents provided the intellectual content; AI organized it into memo format. The tension is documented, not concealed.
-- [~] **All citations verified sources**: 29 of 31 sources confirmed (2026-02-24). Pre-publication Task A complete: 14 verified via web search and DOI lookup; 7 citation errors corrected in both ESF-Literature-Review.md and ESF-Framework-Document.md (Allen & Kendeou title/issue/pages, Gobbo author initial B.→G., Hutson subtitle in Literature Review, Kassorla full title and publisher, Torrance author E.P.→M. and correct book title, Washington OSPI document title, Wu fabricated co-authors and wrong pages). Two sources remain: Stoyanov (2026) preprint confirmed to exist but PDF access blocked; Luksha (2024) article not confirmable from available sources. "~" reflects these two documented open items, not a general verification gap.
+- [~] **Directive Memo is human-only**: *Documented tension.* AI drafted the project's Directive Memo from Nathan's existing operational BMAD vault files; Nathan reviewed and accepted without revision. The memo acknowledges this in its own footer note, and the Self-Application Evidence records it in the division-of-labor table. The construct's intent (establishing human intellectual authority before AI drafting begins) held in practice: Nathan's prior operational documents provided the intellectual content; AI organized it into memo format. For publication, this should be framed explicitly as a "bootstrapping" case. The tension is documented, not concealed.
+- [~] **All citations verified sources**: 29 of 31 sources confirmed (2026-02-24). Pre-publication Task A complete: 14 verified via web search and DOI lookup; 7 citation errors corrected in both ESF-Literature-Review.md and ESF-Framework-Document.md:
+    - Allen & Kendeou: title, issue, pages
+    - Gobbo: author initial B. → G.
+    - Hutson: subtitle in Literature Review
+    - Kassorla: full title and publisher
+    - Torrance: author E.P. → M. and correct book title
+    - Washington OSPI: document title
+    - Wu: fabricated co-authors and wrong pages
+  Two sources remain open: Stoyanov (2026) preprint confirmed to exist but PDF access blocked; Luksha (2024) article not confirmable from available sources. The "~" reflects these two documented open items, not a general verification gap.
 - [x] **Framework Evolution Protocol as core construct**: Construct 7 in Framework Document, equal structural weight as Directive Memo and Five Questions. Institutional Guide Section C operationalizes the annual review cycle.
 - [x] **Novel contributions positioned against literature**: 6 claims in Novel Contributions document (Two-Level Architecture added as Claim 6 beyond the memo's 5). Each claim includes: evidence of gap, how ESF fills it, anticipated counterarguments, responses. Phase 2 gate confirmed scholarly positioning defensible.
 - [~] **Framework follows its own protocol**: Directive Memo exists and was confirmed by Nathan. Gate Verification Records produced for Phases 1–5. Integrity Report produced here (Phase 7). Disclosure statements on all 16 primary deliverables. The "~" reflects the Directive Memo tension above, not a missing protocol step.
@@ -61,7 +69,7 @@ tags: [esf, integrity-report, self-application]
 
 ## 2. Verification Checklist
 
-- [x] No hallucinated references detected: four gate reviews examined citations. Three author initial corrections applied; no fabricated papers found.
+- [x] No hallucinated references detected: four gate reviews examined citations. Three author initials corrected; no fabricated papers in any review.
 - [~] All citations verified against original sources: 29 of 31 confirmed. Task A complete (2026-02-24): 7 citation errors corrected in both primary documents. Two open items: Stoyanov PDF access blocked; Luksha 2024 article unconfirmable. Documented, not concealed.
 - [x] Disclosure statements present on all primary deliverables: 16 files with disclosure statements confirmed by grep audit (Phase 7 cross-reference audit).
 - [x] Tone and voice consistent with Directive Memo specifications: direct, substantive, practitioner-informed scholarship throughout. No marketing language, no performative hedging.
@@ -75,8 +83,8 @@ tags: [esf, integrity-report, self-application]
 
 | Dimension | Level | Notes |
 |-----------|-------|-------|
-| Structural organization | High | All document structures, section hierarchies, and cross-document architecture organized by AI within Nathan-established parameters |
-| Language and drafting | High | ~80% of prose in primary deliverables was AI-drafted; Nathan's review, correction, and gate challenges drove final content |
+| Structural organization | High | AI organized all document structures, section hierarchies, and cross-document architecture within Nathan-established parameters |
+| Language and drafting | High | AI drafted ~80% of prose in primary deliverables; Nathan's review, correction, and gate challenges drove final content |
 | Research synthesis | Medium | AI organized sources into clusters; Nathan verified representations and directed the B.8 addition |
 | Original ideas and frameworks | None (human only) | All constructs, the two-level architecture, Five Questions formulation, and strategic claims originate from Nathan's practice |
 | Pedagogical decisions | None (human only) | Agency framing, student process model, engagement levels, and teaching implications are Nathan's professional judgment |
@@ -103,13 +111,13 @@ Applied to the ESF project as a whole:
 
 1. **Directive Memo was AI-drafted** (documented tension, not a hidden failure). The project's Directive Memo was AI-drafted from the author's existing operational BMAD vault documents and accepted by Nathan without revision. The construct's intent was met. For publication, this should be explicitly framed in the Self-Application Evidence as a "bootstrapping the protocol" case: prior human-authored operational documents were the intellectual source; AI organized them into memo format. The current Self-Application Evidence notes this; it may benefit from a direct framing sentence.
 
-2. **Pre-publication citation verification; RESOLVED** (2026-02-24). Task A complete: all 18 pending sources verified. Seven citation errors found and corrected in both ESF-Literature-Review.md and ESF-Framework-Document.md. Notably, 5 of 7 corrections came from MEDIUM-priority (plan-verified) sources rather than HIGH-priority (NotebookLM-sourced) sources, inverting the expected risk gradient. Two sources remain as documented open items (Stoyanov PDF access blocked; Luksha 2024 unconfirmable); these require direct journal access before final submission. No fabricated papers were identified. This item is resolved except for the two access-blocked sources.
+2. **Pre-publication citation verification; RESOLVED** (2026-02-24). Task A complete: all 18 pending sources verified. Nathan found and corrected seven citation errors in both ESF-Literature-Review.md and ESF-Framework-Document.md. Notably, 5 of 7 corrections came from MEDIUM-priority (plan-verified) sources rather than HIGH-priority (NotebookLM-sourced) sources, inverting the expected risk gradient. Two sources remain as documented open items (Stoyanov PDF access blocked; Luksha 2024 unconfirmable); these require direct journal access before final submission. The review found no fabricated papers. This item is resolved except for the two access-blocked sources.
 
 3. **Single-practitioner validation** (structural limitation). All evidence of practical adoptability comes from Nathan's practice at one institution. The AI 201 and AI 180 integrations provide application evidence, but from the same institution and practitioner. This limitation is documented in the Comparison Matrix (limitation note) and should be included in any publication's limitations section.
 
 ---
 
-> **AI Collaboration Disclosure:** This Integrity Report was produced through human-AI collaboration following ESF protocol. The structure follows the vault Integrity Report template. Nathan directed what items to include in each section based on gate review findings documented in MANUSCRIPT_STATUS.md. AI organized the evidence and drafted the assessments. All evaluative judgments (pass/partial assessments, characterization of the Directive Memo tension, and the flagged items) reflect Nathan's professional judgment confirmed through the Phase 7 gate review process.
+> **AI Collaboration Disclosure:** Nathan produced this Integrity Report through human-AI collaboration following ESF protocol. The structure follows the vault Integrity Report template. Nathan directed what items to include in each section based on gate review findings documented in MANUSCRIPT_STATUS.md. AI organized the evidence and drafted the assessments. All evaluative judgments (pass/partial assessments, characterization of the Directive Memo tension, and the flagged items) reflect Nathan's professional judgment. He confirmed them through the Phase 7 gate review process.
 
 ---
 

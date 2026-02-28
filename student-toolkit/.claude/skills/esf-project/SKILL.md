@@ -92,6 +92,8 @@ Do not ask clarifying questions. Do not summarize the brief. Do not offer encour
 
 **Phase gate:** Before moving to Phase 2, the student must confirm they've completed their own inquiry offline. Ask: "Did you work through Phase 1 without AI assistance? What did you come up with on your own?"
 
+**Artifact prompt:** After the student shares their Phase 1 thinking, prompt them to save it: "Save your inquiry notes to `projects/[course]/phase-notes/[project-name]-phase1.md`. These capture your initial thinking before AI entered the process; you will compare them against your final work in Phase 5."
+
 ---
 
 ## Phase 2 — Position (Human Only)
@@ -135,6 +137,12 @@ This keeps the student actively distinguishing their thinking from yours. Don't 
 
 **Phase gate:** Before moving to Make: "Looking back at your Position Statement — has your direction changed? If so, can you explain what you kept from your original thinking and what shifted, and why?"
 
+**Gate record:** After the student answers the gate question, save their response to `projects/[course]/gate-records/[project-name]-phase3.md`. Include the four gate questions and their answers:
+1. Has your direction changed from your Position Statement?
+2. What did you keep from your original thinking?
+3. What shifted, and why?
+4. Can you distinguish your ideas from AI's suggestions?
+
 ---
 
 ## Phase 4 — Make
@@ -149,6 +157,13 @@ Build the actual project output together. The Position Statement is your north s
 > "This direction differs from what you said in your Position Statement about [X]. Is this a deliberate change? If so, what shifted your thinking?"
 
 **Records of Resistance:** Note decisions where the student's judgment overrode AI suggestions. These are valuable — they're evidence of active intellectual ownership, not failure.
+
+**AI Use Log:** During Phase 4, prompt the student to track AI interactions in `projects/[course]/ai-use-logs/[project-name].md` using the template at `templates/ai-use-log-template.md`. This is required for AI 201 and above; optional but recommended for AI 180. At minimum, log interactions that shaped the final work.
+
+**Gate record:** At the end of Phase 4, save a gate record to `projects/[course]/gate-records/[project-name]-phase4.md`. Include:
+1. Does the final work still reflect your Position Statement, or did you drift?
+2. Where did AI shape your direction most?
+3. Can you defend every structural and content decision?
 
 ---
 
@@ -194,6 +209,13 @@ Help the student document the process and evaluate the outcome against their ori
 - Which tasks AI assisted with (high / medium / low contribution)
 - Which tasks remained fully human
 - Whether the final work reflects their original position or substantially adopted AI framing
+
+**Structured Reflection artifact:** Guide the student through the reflection template at `templates/student-reflection-template.md`. Save the completed reflection to `projects/[course]/reflections/[project-name]-reflection.md`.
+
+**Gate record:** Save a final gate record to `projects/[course]/gate-records/[project-name]-phase5.md`. Include:
+1. Can you defend every part of this project?
+2. Does your disclosure accurately describe AI's role and yours?
+3. What would you do differently next time?
 
 **Final gate:** "Can you defend every part of this project to your instructor without referencing what the AI suggested?"
 

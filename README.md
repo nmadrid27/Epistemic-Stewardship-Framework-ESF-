@@ -22,11 +22,11 @@ ESF addresses the third: how do you produce work with AI assistance and remain g
 
 ESF operates at two levels:
 
-**Level 1 — Faculty Content Production**
-A five-phase workflow (Scope → Direct → Build → Validate → Disclose) that keeps AI as a production accelerant, not an intellectual author. The core mechanism is the Directive Memo — written before AI-assisted drafting begins, establishing the intellectual direction AI must follow.
+**Level 1: Faculty Content Production**
+A five-phase workflow (Scope → Direct → Build → Validate → Disclose) that keeps AI as a production accelerant, not an intellectual author. The core mechanism is the Directive Memo, written before AI-assisted drafting begins, establishing the intellectual direction AI must follow.
 
-**Level 2 — Student Epistemic Development**
-A five-phase workflow (Inquire → Position → Explore → Make → Reflect) that sequences student thinking before AI engagement. AI does not enter until a student has written a Position Statement — a record of their own understanding and position — without AI assistance.
+**Level 2: Student Epistemic Development**
+A five-phase workflow (Inquire → Position → Explore → Make → Reflect) that sequences student thinking before AI engagement. AI does not enter until a student has written a Position Statement, a record of their own understanding and position, without AI assistance.
 
 Both levels use the same Five Questions at every human gate: *Can I defend this? Is this mine? Did I verify? Would I teach this? Is my disclosure honest?*
 
@@ -42,7 +42,8 @@ Install the ESF Student Toolkit into your own portfolio repo:
 curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash
 ```
 
-The toolkit configures Claude Code with the Level 2 workflow and enforces the Position Statement gate before AI engagement. You carry the repo across your entire program — projects and process artifacts accumulate there.
+The toolkit configures Claude Code with the Level 2 workflow and enforces the Position Statement gate before AI engagement.
+You carry the repo across your entire program; projects and process artifacts accumulate there.
 
 [Full setup instructions →](student-toolkit/README.md)
 
@@ -54,7 +55,7 @@ Install the ESF Faculty Toolkit into your own faculty repo:
 curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/install.sh | bash
 ```
 
-The toolkit configures Claude Code with the Level 1 workflow, curriculum development and document production skills, and a brief review procedure that evaluates your project briefs for ESF alignment.
+The toolkit configures Claude Code with the Level 1 workflow, curriculum development, and document production skills. It includes a review procedure that evaluates your project briefs for ESF alignment.
 
 [Full setup instructions →](faculty-toolkit/README.md)
 
@@ -103,9 +104,17 @@ The toolkit configures Claude Code with the Level 1 workflow, curriculum develop
 
 ## A Note for Adopters: Distribution Architecture
 
-This repository keeps ESF documentation and Claude Code toolkits together. That is the right default — one URL, one place to update, no drift between the guides and the toolkit reference files. When a guide is updated here, anyone who re-runs the installer gets the current version.
+This repository keeps ESF documentation and Claude Code toolkits together.
+That is the right default: one URL, one place to update, no drift between the guides and the toolkit reference files. When a guide is updated here, anyone who re-runs the installer gets the current version.
 
-**If your institution adopts ESF at scale**, you may want to fork the toolkits into separate repositories. The advantages: toolkit releases can be versioned independently of documentation releases; institutional forks can customize without touching the canonical docs; different teams can own different parts; and toolkit-specific CI can run without triggering on documentation changes. The install scripts support a straightforward URL swap for this transition. See `student-toolkit/install.sh` and `faculty-toolkit/install.sh` — the `TOOLKIT_BASE` variable at the top is the only thing that changes.
+**If your institution adopts ESF at scale**, you may want to fork the toolkits into separate repositories. The advantages:
+
+- Version toolkit releases independently of documentation releases
+- Customize institutional forks without touching the canonical docs
+- Assign different teams to own different parts
+- Run toolkit-specific CI without triggering on documentation changes
+
+The install scripts support a straightforward URL swap for this transition. See `student-toolkit/install.sh` and `faculty-toolkit/install.sh`; the `TOOLKIT_BASE` variable at the top is the only thing that changes.
 
 ---
 

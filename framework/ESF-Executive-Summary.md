@@ -17,11 +17,11 @@ Universities face three failure modes with AI integration:
 2. **The student-only focus.** Frameworks target student behavior while faculty use AI in their own work without equivalent methodology.
 3. **Compliance framing.** AI governance is treated as a policing problem rather than a knowledge-making problem.
 
-The result: faculty and students use AI extensively, but no comprehensive methodology exists for maintaining intellectual ownership of the work AI helps produce.
+The result: faculty and students use AI extensively, but no methodology exists for maintaining intellectual ownership of the work AI helps produce.
 
 ### What ESF Is
 
-ESF is a structured methodology for maintaining genuine intellectual ownership in AI-assisted academic work. It provides specific processes, checkpoints, and documentation so that work produced with AI assistance genuinely reflects the thinking and judgment of the person responsible for it.
+ESF is a structured methodology for maintaining genuine intellectual ownership in AI-assisted academic work. It provides specific processes, checkpoints, and documentation so that people who produce work with AI assistance retain genuine ownership of the thinking and judgment behind it.
 
 ESF is grounded in 31 verified scholarly sources across 8 concept clusters, including epistemic agency theory (Clark & Chalmers, 1998; Wu et al., 2025), metacognition research (Tankelevitch et al., 2024), and scaffolded learning (Hutson, 2025; Degen & Asanov, 2025).
 
@@ -85,7 +85,7 @@ She classifies this as **medium-weight** content (it is an assignment within an 
 
 > *This assignment tests whether students can maintain a coherent design rationale while using AI generation tools. Emphasis: the rationale drives the visuals, not the other way around. Non-negotiable: students must produce their brand rationale before generating any AI visuals.*
 
-She uses AI to help draft the assignment brief, rubric, and project timeline. At each stage, she checks against her memo: does the rubric actually assess design rationale, or did it drift toward assessing visual polish? She catches one instance where the AI's rubric language rewards "creative use of AI tools" rather than "coherent rationale reflected in visual choices." She corrects it.
+She uses AI to help draft the assignment brief, rubric, and project timeline. At each stage, she checks against her memo: does the rubric actually assess design rationale, or did it drift toward assessing visual polish? She catches and corrects one instance where the AI's rubric language rewards "creative use of AI tools" rather than "coherent rationale reflected in visual choices."
 
 Her disclosure on the syllabus: "Assignment brief developed with AI-assisted drafting. Learning objectives, assessment criteria, and pedagogical design reflect the instructor's judgment."
 
@@ -122,7 +122,10 @@ ESF is designed for graduated adoption:
 - **Department pilot:** 5-10 faculty across disciplines, one term, with shared learning sessions.
 - **Institutional rollout:** Policy integration, student orientation, assessment rubrics, accreditation alignment.
 
-The framework includes templates (Directive Memo, Integrity Report, Course AI Policy, Student Reflection, Institutional Policy), accreditation crosswalks (SACSCOC, HLC, NASAD, ABET), and assessment rubrics at faculty, student, and institutional levels.
+The framework includes:
+- Templates: Directive Memo, Integrity Report, Course AI Policy, Student Reflection, Institutional Policy
+- Accreditation crosswalks: SACSCOC, HLC, NASAD, ABET
+- Assessment rubrics at faculty, student, and institutional levels
 
 ### What ESF Is Not
 

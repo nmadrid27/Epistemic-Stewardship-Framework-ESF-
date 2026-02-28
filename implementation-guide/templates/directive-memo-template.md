@@ -17,7 +17,7 @@ status: draft
 
 ## Thesis
 
-*What is the central argument, purpose, or intellectual position of this document? State it in 1-3 sentences as if explaining to a colleague. This is the anchor everything else is measured against.*
+*What is the central argument, purpose, or intellectual position of this document? State it in 1-3 sentences as if explaining to a colleague. This is the anchor you measure everything else against.*
 
 >
 
@@ -70,7 +70,7 @@ status: draft
 *Before proceeding to AI-assisted drafting, confirm:*
 
 - [ ] I wrote this memo before seeing any AI-generated content for this document
-- [ ] The thesis reflects my actual professional position, not a position I think sounds reasonable
+- [ ] The thesis reflects my actual professional position, one I would defend independently
 - [ ] I can explain my rationale to a colleague without referencing AI output
 - [ ] The non-negotiables are based on my expertise, not on what I expect the AI to produce
 

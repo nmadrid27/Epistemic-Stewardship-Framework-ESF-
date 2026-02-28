@@ -165,6 +165,22 @@ If any answer is **no** — revise, reduce AI contribution, or disclose accurate
 
 ---
 
+## Artifact Storage Reference
+
+The toolkit saves three types of process artifacts to named paths so they persist across sessions and serve as an audit trail.
+
+| Artifact | When Required | Course Documents Path | General Documents Path |
+|----------|--------------|----------------------|----------------------|
+| **Directive Memo** | Before Build phase (high and medium weight) | `courses/[course]/directive-memos/[task]-memo.md` | `documents/directive-memos/[task]-memo.md` |
+| **Integrity Report** | After Validate phase (high weight) | `courses/[course]/integrity-reports/[task]-integrity-report.md` | `documents/integrity-reports/[task]-integrity-report.md` |
+| **Gate Verification Record** | After Validate phase (medium weight) | `courses/[course]/gate-records/[task]-gate-record.md` | `documents/gate-records/[task]-gate-record.md` |
+
+**Naming convention:** `[task]` is a short, descriptive slug for the work (e.g., `syllabus-revision`, `midterm-rubric`, `accreditation-narrative`).
+
+**Low-weight content** does not generate artifacts beyond the deliverable itself and an attribution footer.
+
+---
+
 ## Content Epistemic Weight at a Glance
 
 | Weight | Requires | Faculty Examples | Student Examples |

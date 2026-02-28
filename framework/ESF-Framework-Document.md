@@ -18,9 +18,9 @@ tags: [esf, epistemic-stewardship, ai-education, framework]
 
 ## 1. Abstract
 
-The Epistemic Stewardship Framework (ESF) is a comprehensive methodology for maintaining intellectual ownership during AI-assisted academic work. It addresses a structural gap in how higher education engages with artificial intelligence. Existing approaches either prohibit AI use, focus exclusively on student behavior, or treat transparency as a compliance exercise rather than an epistemic practice. None provide faculty with a structured methodology for using AI in their own professional work while preserving the intellectual integrity that academic institutions depend on.
+The Epistemic Stewardship Framework (ESF) is a structured methodology for maintaining intellectual ownership during AI-assisted academic work. It addresses a structural gap in how higher education engages with artificial intelligence. Existing approaches either prohibit AI use, focus exclusively on student behavior, or treat transparency as a compliance exercise rather than an epistemic practice. None provide faculty with a structured methodology for using AI in their own professional work while preserving the intellectual integrity that academic institutions depend on.
 
-ESF introduces seven core constructs: the Directive Memo, the Five Questions, Content Epistemic Weight, Human Validation Gates, a Phased Workflow Model, a Disclosure Protocol, and a Framework Evolution Protocol. Each is grounded in established scholarship on epistemic agency, distributed cognition, metacognition, and iterative methodology. The framework's central innovation is the Directive Memo: a human-only pre-drafting phase in which the author establishes intellectual authority before any AI-assisted work begins. This mechanism operationalizes the distinction between approving AI-generated content and originating intellectual direction, a distinction that existing frameworks acknowledge in principle but fail to enforce in practice.
+ESF introduces seven core constructs: the Directive Memo, the Five Questions, Content Epistemic Weight, Human Validation Gates, a Phased Workflow Model, a Disclosure Protocol, and a Framework Evolution Protocol. Each is grounded in established scholarship on epistemic agency, distributed cognition, metacognition, and iterative methodology. The framework's central innovation is the Directive Memo: a human-only pre-drafting phase in which the author establishes intellectual authority before any AI-assisted work begins. This mechanism operationalizes the distinction between approving AI-generated content and originating intellectual direction. Existing frameworks acknowledge this distinction in principle but fail to enforce it in practice.
 
 ESF serves three audiences (faculty, students, and institutional leadership) with differentiated implementation pathways. It is tool-agnostic, discipline-agnostic, and designed for adoption within a single academic term. The framework includes a built-in evolution protocol that prevents it from becoming a static policy document as AI capabilities change.
 
@@ -36,7 +36,9 @@ Higher education's response to generative AI has consolidated around three appro
 
 The first and most widespread response treats AI as a policy question: should students be allowed to use it, and under what conditions? Institutional policies range from outright prohibition to permissive integration. Most settle into conditional frameworks: AI is permitted for brainstorming but not for drafting, or permitted with disclosure but not for graded work. These policies are structurally identical to academic integrity policies governing plagiarism and unauthorized collaboration. They frame AI primarily as a threat to assessment validity.
 
-This framing is insufficient for two reasons. First, it reduces AI engagement to a binary compliance question (permitted or prohibited) when the actual challenge is qualitative. The question is not *whether* AI was used, but *how* the human's epistemic relationship to the work was maintained or degraded during its use. Second, it assumes that the primary risk is deception (students passing off AI work as their own). The more insidious risk is something the policies cannot detect: the gradual erosion of intellectual ownership even in fully disclosed, policy-compliant AI use.
+This framing is insufficient for two reasons. First, it reduces AI engagement to a binary compliance question (permitted or prohibited) when the actual challenge is qualitative. The question is not *whether* AI was used, but *how* the human's epistemic relationship to the work was maintained or degraded during its use. 
+
+Second, it assumes that the primary risk is deception (students passing off AI work as their own). The more insidious risk is something the policies cannot detect: the gradual erosion of intellectual ownership even in fully disclosed, policy-compliant AI use.
 
 A student who transparently uses AI to draft an essay, edits it lightly, and discloses the collaboration has complied with every policy. They may also have learned nothing and produced work that reflects no genuine intellectual position. The policy succeeded. The education failed.
 
@@ -44,7 +46,9 @@ A student who transparently uses AI to draft an essay, edits it lightly, and dis
 
 The second response targets AI literacy and responsible use, but almost exclusively for students. Zawacki-Richter et al. (2019), in their systematic review of AI applications in higher education, documented a striking asymmetry. The overwhelming majority of research and institutional guidance addresses student-facing AI use. Faculty use of AI in their own professional work receives almost no systematic attention.
 
-This gap has consequences. Faculty who use AI to develop syllabi, draft assessments, write grant proposals, prepare accreditation reports, and produce scholarship operate without methodological guidance. The implicit assumption is that faculty, as domain experts, do not need structured protocols for AI use; that expertise alone is sufficient protection against epistemic drift. This assumption is contradicted by emerging research on metacognitive demands in AI-assisted work. Tankelevitch et al. (2024) demonstrate that even experienced professionals struggle to maintain critical evaluation of AI-generated content, particularly when the output is fluent, well-structured, and plausible. Expertise does not confer automatic immunity to the persuasive quality of competent-sounding AI output.
+This gap has consequences. Faculty who use AI to develop syllabi, draft assessments, write grant proposals, prepare accreditation reports, and produce scholarship operate without methodological guidance. The implicit assumption is that faculty, as domain experts, do not need structured protocols for AI use; that expertise alone is sufficient protection against epistemic drift. 
+
+This assumption is contradicted by emerging research on metacognitive demands in AI-assisted work. Tankelevitch et al. (2024) demonstrate that even experienced professionals struggle to maintain critical evaluation of AI-generated content, particularly when the output is fluent, well-structured, and plausible. Expertise does not confer automatic immunity to the persuasive quality of competent-sounding AI output.
 
 The asymmetry also creates a credibility problem. Faculty who ask students to practice epistemic responsibility with AI, but who have no structured methodology for their own AI use, model a "do as I say, not as I do" dynamic. Students recognize this, and it undermines the pedagogical authority of AI ethics instruction.
 
@@ -54,13 +58,17 @@ The third response focuses on transparency and disclosure, requiring that AI use
 
 Transparency, as currently practiced, operates primarily as a reporting mechanism: the user discloses that AI was used, sometimes specifying what AI did. This is compliance transparency, a record of the collaboration's existence. What it does not address is *epistemic* transparency: the internal process by which the human maintained (or failed to maintain) intellectual ownership of the work.
 
-A disclosure statement that reads "AI assisted with drafting and structural organization" tells the reader that AI was involved. It does not tell the reader, or the author, whether the intellectual direction originated with the human, whether the human's position was preserved through the drafting process, or whether the final output reflects genuine human judgment or passively accepted AI framing. Compliance transparency answers the question "was AI used?" Epistemic transparency answers the question "whose thinking is this?"
+A disclosure statement that reads "AI assisted with drafting and structural organization" tells the reader that AI was involved. It does not tell the reader, or the author:
+- whether the intellectual direction originated with the human
+- whether the human's position was preserved through the drafting process
+- whether the final output reflects genuine human judgment or passively accepted AI framing. 
+Compliance transparency answers the question "was AI used?" Epistemic transparency answers the question "whose thinking is this?"
 
 ### 2.4 The Underlying Problem
 
 These three approaches (policy, student literacy, and compliance transparency) share a common structural limitation: they treat the relationship between humans and AI as a governance problem to be managed rather than an epistemic practice to be developed. They ask how to *regulate* AI use when the fundamental question is how to *think with* AI without ceding the thinking.
 
-ESF reframes the challenge. The problem is not that people use AI. The problem is that AI-assisted work creates conditions under which intellectual ownership erodes gradually, often invisibly, even when every policy is followed and every disclosure is filed. The solution is not better policies. It is a structured methodology that embeds epistemic accountability into the workflow itself, at every phase, for every stakeholder.
+ESF reframes the challenge. The problem is not that people use AI. The problem is that AI-assisted work creates conditions under which intellectual ownership erodes gradually, often invisibly, even when every policy is followed and every disclosure is filed. The solution is not better policies. It is a structured methodology that embeds epistemic accountability into the workflow itself, at every phase, for every participant.
 
 ---
 
@@ -72,11 +80,11 @@ ESF draws on established scholarship across seven concept clusters. Each cluster
 
 The framework's central concern (maintaining the human as the originator and owner of intellectual work) is grounded in research on epistemic agency and extended cognition.
 
-Wu et al. (2025) define epistemic agency as the capacity to direct one's own knowledge-making processes: to determine what counts as evidence, how to evaluate claims, and when to revise one's understanding. In AI-assisted work, epistemic agency is at risk not because the AI prevents the human from thinking, but because the AI provides a path of least resistance that bypasses thinking. When AI generates a well-structured, plausible-sounding draft, the human's role shifts from *authoring* to *evaluating*. Evaluation, as Tankelevitch et al. (2024) demonstrate, is cognitively demanding in ways that humans systematically underestimate.
+Wu et al. (2025) define epistemic agency as the capacity to direct one's own knowledge-making processes: to determine what counts as evidence, how to evaluate claims, and when to revise one's understanding. In AI-assisted work, epistemic agency is at risk because the AI provides a path of least resistance that bypasses thinking. When AI generates a well-structured, plausible-sounding draft, the human's role shifts from *authoring* to *evaluating*. Evaluation, as Tankelevitch et al. (2024) demonstrate, is cognitively demanding in ways that humans systematically underestimate.
 
-Clark and Chalmers's (1998) extended mind thesis provides the philosophical foundation for understanding AI as a legitimate cognitive partner. Their argument, that cognitive processes can extend beyond the brain into the environment including tools and technologies, establishes that using AI for intellectual work is not inherently problematic. However, their framework includes a critical condition: the human must actively endorse the external resource's contributions. Passive acceptance (treating AI output as one's own without evaluative engagement) violates the conditions under which extended cognition supports rather than supplants human thinking.
+Clark and Chalmers's (1998) extended mind thesis provides the philosophical foundation for understanding AI as a legitimate cognitive partner. Their argument, that cognitive processes can extend beyond the brain into the environment including tools and technologies, establishes that using AI for intellectual work is not inherently problematic. Their framework, however, includes a critical condition: the human must actively endorse the external resource's contributions. Passive acceptance (treating AI output as one's own without evaluative engagement) violates the conditions under which extended cognition supports rather than supplants human thinking.
 
-Hutchins's (1995) distributed cognition framework extends this analysis to the systems level. In Hutchins's account, cognition is distributed across people, tools, and artifacts in a system. The key insight for ESF is that distributed cognition requires coordination. Someone or something must ensure that the contributions of different components serve a coherent purpose. In AI-assisted academic work, that coordination function must remain with the human. When it migrates to the AI (when the AI's organizational logic becomes the default structure of the work), the human has lost epistemic agency even if they retain editorial control.
+Hutchins's (1995) distributed cognition framework extends this analysis to the systems level, where cognition is distributed across people, tools, and artifacts. The key insight for ESF is that distributed cognition requires coordination. Someone or something must ensure that the contributions of different components serve a coherent purpose. In AI-assisted academic work, that coordination function must remain with the human. When it migrates to the AI (when the AI's organizational logic becomes the default structure of the work), the human has lost epistemic agency even if they retain editorial control.
 
 Bozkurt (2024) applies these theoretical concerns directly to AI in education, arguing that generative AI tools create a fundamental tension between efficiency and epistemic development. The convenience of AI-assisted production can undermine the cognitive struggle that learning requires. This tension applies not only to students but to any knowledge worker using AI for intellectual tasks.
 
@@ -84,15 +92,15 @@ Bozkurt (2024) applies these theoretical concerns directly to AI in education, a
 
 If epistemic agency defines what must be preserved, metacognition describes the mechanism by which it is preserved or lost.
 
-Tankelevitch et al. (2024) provide the most directly relevant empirical foundation for ESF's approach. Their research on metacognitive demands in AI-assisted decision-making demonstrates that human oversight of AI output is not the simple "review and approve" process that most frameworks assume. Effective oversight requires sustained metacognitive effort: monitoring one's own comprehension, detecting when AI-generated content departs from one's own understanding, and resisting the cognitive pull of fluent, well-structured output that *feels* correct. Their findings show that this metacognitive work is effortful, fatiguing, and prone to systematic failures, particularly when users are under time pressure or when the AI output is close to (but subtly different from) what the human would have produced independently.
+Tankelevitch et al. (2024) provide the most directly relevant empirical foundation for ESF's approach. Their research on metacognitive demands in AI-assisted decision-making demonstrates that human oversight of AI output requires far more than the "review and approve" process most frameworks assume. Effective oversight requires sustained metacognitive effort: monitoring one's own comprehension, detecting when AI-generated content departs from one's own understanding, and resisting the cognitive pull of fluent, well-structured output that *feels* correct. Their findings show that this metacognitive work is effortful, fatiguing, and prone to systematic failures, particularly when users are under time pressure or when the AI output is close to (but subtly different from) what the human would have produced independently.
 
-Atchley et al. (2024) extend this analysis with the concept of cognitive automation: AI, functioning as an external representation tool, can reduce information processing demands in ways that carry a corresponding cost: reduced cognitive engagement with the work's substance. Pedagogical recommendations, they argue, must account for these cognitive effects. The implication for academic work is that the efficiency gains of AI assistance may diminish rather than maintain critical engagement with what the AI produces.
+Atchley et al. (2024) extend this analysis with the concept of cognitive automation: AI, as an external representation tool, can reduce information processing demands in ways that carry a corresponding cost: reduced cognitive engagement with the work's substance. Pedagogical recommendations, they argue, must account for these cognitive effects. The implication for academic work is that the efficiency gains of AI assistance may diminish rather than maintain critical engagement with what the AI produces.
 
-Fischer et al. (2024) bring evaluative judgment scholarship to bear on this concern. Drawing on a practice theory approach, they find that summative assessment focused on final products misses the informal evaluative practices: incidental conversations, peer judgments, self-assessments: that constitute the actual development of evaluative judgment. Their argument that assessment must attend to what learners *actually do* (making cognitive process visible alongside product) directly supports ESF's gate records and Integrity Reports as process documentation rather than product evaluation alone.
+Fischer et al. (2024) bring evaluative judgment scholarship to bear on this concern. Drawing on a practice theory approach, they find that summative assessment focused on final products misses the informal evaluative practices (incidental conversations, peer judgments, self-assessments) that constitute the actual development of evaluative judgment. Their argument that assessment must attend to what learners *actually do* (making process visible alongside product) directly supports ESF's gate records and Integrity Reports as process documentation.
 
-Bearman et al. (2023), in a discourse analysis of how AI is framed in the higher education literature, find that institutional responses cluster around two Discourses; AI as inevitable change and AI as redistributor of authority: both of which attend to AI's structural role while leaving accountability for how AI mediates cognitive engagement unaddressed. The accountability gap they identify at the discourse level motivates ESF's structural approach: building accountability mechanisms into the workflow rather than leaving them to policy.
+Bearman et al. (2023), in a discourse analysis of how AI is framed in the higher education literature, find that institutional responses cluster around two Discourses (AI as inevitable change and AI as redistributor of authority), but neither addresses accountability for how AI mediates cognitive engagement. The accountability gap they identify at the discourse level motivates ESF's structural approach: building accountability mechanisms into the workflow rather than leaving them to policy.
 
-The EU AI Act, Article 14 (2024), codifies the principle of human oversight in regulatory form, requiring that AI systems designed for high-risk applications include mechanisms ensuring effective human oversight. While the Act targets AI system design rather than user behavior, its underlying logic aligns with ESF's insistence on embedded validation gates rather than discretionary review. Human oversight must be structural, not merely aspirational.
+The EU AI Act, Article 14 (2024), codifies the principle of human oversight in regulatory form, requiring that AI systems designed for high-risk applications include mechanisms for effective human oversight. While the Act targets AI system design rather than user behavior, its underlying logic aligns with ESF's insistence on embedded validation gates rather than discretionary review. Human oversight must be structural, not merely aspirational.
 
 ### 3.3 Content Stakes and Epistemic Weight
 
@@ -112,11 +120,11 @@ UNESCO's guidance on generative AI in education and research (Miao & Holmes, 202
 
 ### 3.5 Cognitive Load and the Educational Paradox
 
-Sweller's (1988) cognitive load theory introduces a critical tension for AI in education. The theory demonstrates that learning is optimized when extraneous cognitive load is minimized, allowing cognitive resources to be directed toward germane processing, the mental effort that produces learning.
+Sweller's (1988) cognitive load theory introduces a critical tension for AI in education. The theory demonstrates that learners perform best when they minimize extraneous cognitive load and direct cognitive resources toward germane processing, the mental effort that produces learning.
 
 AI tools reduce cognitive load. That is their primary value proposition. But in educational contexts, this creates a paradox: the cognitive effort that AI eliminates may be precisely the effort that learning requires. A student who uses AI to organize their argument spends less effort on organization, but organization is a thinking skill. A faculty member who uses AI to draft a syllabus spends less effort on articulating the course's intellectual architecture, but that articulation is a form of pedagogical reasoning.
 
-ESF does not resolve this paradox by restricting AI use. Instead, it introduces structural mechanisms (the Directive Memo, the Five Questions) that reintroduce targeted cognitive effort at the points where it matters most: intellectual direction, evaluative judgment, and epistemic accountability. The framework redistributes cognitive load rather than simply reducing it.
+ESF addresses this paradox through structural mechanisms, not restrictions. The Directive Memo and the Five Questions reintroduce targeted cognitive effort at the points where it matters most: intellectual direction, evaluative judgment, and epistemic accountability. The framework redistributes cognitive load rather than simply reducing it.
 
 ### 3.6 Iterative Methodology
 
@@ -132,7 +140,7 @@ Zawacki-Richter et al. (2019), in addition to documenting the faculty-facing gap
 
 The final cluster addresses AI literacy, but reframes it from technical proficiency to epistemic practice.
 
-Allen and Kendeou (2024) argue for AI literacy as a fundamental civic and professional competency. This encompasses not just the ability to use AI tools but the capacity to critically evaluate AI-generated content, understand AI systems' limitations, and make informed decisions about when and how to use AI. Their framing aligns with ESF's emphasis on epistemic agency over technical skill.
+Allen and Kendeou (2024) argue for AI literacy as a fundamental civic and professional competency. This encompasses the capacity to evaluate AI-generated content, understand AI limitations, and decide when and how to use AI. Their framing aligns with ESF's emphasis on epistemic agency over technical skill.
 
 Kassorla et al. (2024) translate AI literacy into higher education institutional practice, providing frameworks for integrating AI competencies across curricula. Their work identifies a gap that ESF addresses: while AI literacy frameworks define what students should understand about AI, they rarely specify the *methodology* by which that understanding is practiced.
 
@@ -146,9 +154,11 @@ ESF comprises seven interlocking constructs. Each is defined, grounded in the sc
 
 ### 4.1 The Directive Memo
 
-**Definition.** The Directive Memo is a human-only pre-drafting document in which the author establishes the intellectual direction, position, and intent of the work before any AI-assisted production begins. It is not a prompt. It is not an outline. It is a declaration of intellectual authority: a statement of what the work is about, what it emphasizes, what it sets aside, and why, authored entirely by the human without AI assistance.
+**Definition.** The Directive Memo is a human-only pre-drafting document in which the author establishes the intellectual direction and intent of the work before any AI-assisted production begins. It is not a prompt. It is not an outline. It is a declaration of intellectual authority: a statement of what the work is about, what it emphasizes, what it sets aside, and why, authored entirely by the human without AI assistance.
 
-**Scholarly grounding.** The Directive Memo operationalizes Clark and Chalmers's (1998) condition of active endorsement in extended cognition. For AI to function as a legitimate extension of the human's cognitive process, the human must actively endorse the contributions the tool makes. The Directive Memo creates the standard against which endorsement is measured. If the AI's output aligns with the memo's direction, the human can genuinely endorse it; if it drifts, the human can detect and correct the drift. Without the memo, "endorsement" reduces to "I didn't notice anything wrong," which is precisely the passive acceptance that extended mind theory warns against.
+**Scholarly grounding.** The Directive Memo operationalizes Clark and Chalmers's (1998) condition of active endorsement in extended cognition. For AI to function as a legitimate extension of the human's cognitive process, the human must actively endorse the contributions the tool makes. The Directive Memo creates the standard against which endorsement is measured.
+
+If the AI's output aligns with the memo's direction, the human can genuinely endorse it; if it drifts, the human can detect and correct the drift. Without the memo, "endorsement" reduces to "I didn't notice anything wrong," which is precisely the passive acceptance that extended mind theory warns against.
 
 The Directive Memo also addresses Wu et al.'s (2025) concern about epistemic agency by requiring the human to articulate their position *before* the AI provides its synthesis. This temporal ordering is critical. Once an AI has produced a well-structured draft, the human's own position becomes harder to distinguish from the AI's framing. The memo captures human intellectual direction in its uncontaminated form.
 
@@ -162,19 +172,30 @@ The Directive Memo also addresses Wu et al.'s (2025) concern about epistemic age
 
 The memo can be brief. Its function is not comprehensiveness but *commitment*, forcing the author to articulate intent before delegation begins.
 
-**Differentiation.** No existing framework in the AI-in-education literature requires a pre-drafting intellectual authority mechanism of this kind. AIAS (Perkins et al., 2024) defines levels of AI involvement but does not specify how human intellectual direction is established before AI engagement begins. AID (Weaver, 2024) addresses disclosure after the work is complete but does not structure the production process itself. The Directive Memo fills a structural gap: it is the mechanism that makes post-hoc disclosure meaningful, because it establishes the standard against which the work's intellectual integrity can be assessed.
+
+**Differentiation.** No existing framework in the AI-in-education literature requires a pre-drafting intellectual authority mechanism of this kind. AIAS (Perkins et al., 2024) defines levels of AI involvement but does not specify how the human establishes intellectual direction before engaging AI. AID (Weaver, 2024) addresses disclosure after the work is complete but does not structure the production process itself. The Directive Memo fills a structural gap: it makes post-hoc disclosure meaningful, because it establishes the standard against which author and reader can assess the work's intellectual integrity.
 
 ### 4.2 The Five Questions
 
 **Definition.** The Five Questions are moment-to-moment epistemic checkpoints applied at every human validation gate in the ESF workflow. They are:
 
 1. **Can I defend this?** Could I explain and justify every claim in this work to a colleague, reviewer, or student without referencing the AI's reasoning?
-2. **Is this mine?** Does this reflect my actual position, or did I passively accept the AI's framing because it sounded reasonable?
+2. **Is this mine?** Did I direct this narrative, or did I passively accept the AI's framing because it sounded reasonable?
 3. **Did I verify?** Have I independently confirmed factual claims, citations, and data points?
 4. **Would I teach this?** Am I prepared to stand behind this content in a classroom, boardroom, or review committee and respond to challenges?
 5. **Is the disclosure honest?** Does my disclosure statement accurately represent the division of intellectual labor?
 
-**Scholarly grounding.** The Five Questions operationalize the metacognitive monitoring that Tankelevitch et al. (2024) demonstrate is necessary for effective human oversight of AI output. Each question targets a specific metacognitive failure mode: accepting plausible-sounding content without evaluative engagement (Question 2), failing to verify factual claims (Question 3), and treating disclosure as a formality rather than an accountability mechanism (Question 5). Atchley et al.'s (2024) cognitive automation concept; AI as an external representation that reduces information processing demands, with a corresponding cost to cognitive engagement: justifies the Five Questions' role as a repeated, structured intervention rather than a one-time checklist.
+**Scholarly grounding.** The Five Questions operationalize the metacognitive monitoring that Tankelevitch et al. (2024) demonstrate is necessary for effective human oversight of AI output. Each question targets a specific metacognitive failure mode:
+
+- Accepting the AI's narrative framing without directing the intellectual argument (Question 2)
+- Failing to verify factual claims (Question 3)
+- Treating disclosure as a formality rather than an accountability mechanism (Question 5)
+
+Atchley et al.'s (2024) cognitive automation concept (AI as an external representation that reduces information processing demands, with a corresponding cost to cognitive engagement) justifies the Five Questions' role as a repeated, structured intervention rather than a one-time checklist.
+
+The Five Questions encode a principle that Stoyanov (2026) formalizes: a claim is epistemically legitimate only when two conditions are jointly satisfied. First, it must be verified (logically consistent and empirically adequate, targeting Questions 1 and 3). Second, someone must assume moral authorship of it (taking responsibility for its truth, targeting Question 2).
+
+This dual requirement echoes across the literature. Kahl (2025) frames it as fiduciary-epistemic trust, where accuracy without stewardship is insufficient. Cristofaro and Bañon-Gomis (2025/26) locate it in "framing sovereignty," the capacity to define relevance before AI scripts the problem. Lindebaum et al. (2025/26) sharpen the test: did the AI perform the interpretive judgment through which professional knowledge develops? The Five Questions operationalize this convergent principle in practitioner-facing language; Question 2 tests whether the human directed the narrative or adopted a framing the AI stated clearly.
 
 **Practical operation.** The Five Questions are not a post-hoc audit. They are applied at every phase transition in the ESF workflow: after scoping, after building, before finalizing. The same questions recur, but the answers may change as the work develops. A "yes" to "Is this mine?" after the scoping phase has different meaning than "yes" after a full AI-assisted draft. The repetition is intentional: it counteracts the cognitive automation that Atchley et al. describe.
 
@@ -182,13 +203,14 @@ The memo can be brief. Its function is not comprehensiveness but *commitment*, f
 
 ### 4.3 Content Epistemic Weight
 
-**Definition.** Content Epistemic Weight is a three-tier classification system that calibrates the required depth of human involvement based on the inherent epistemic demands of the content type. The three tiers are:
+**Definition.** Content Epistemic Weight is a three-tier system that calibrates how deeply the human must engage based on the content type's inherent epistemic demands. The three tiers are:
 
 - **High weight:** Content where the intellectual position, evaluative judgment, or original argument must originate with the human. Examples: learning outcomes, assessment criteria, thesis statements, tenure materials, accreditation reports, original scholarship. Full ESF workflow required, including Directive Memo and Integrity Report.
 - **Medium weight:** Content where the human must substantively shape the direction and evaluate the result, but AI can contribute to structure and drafting. Examples: syllabi sections, assignment descriptions, lecture outlines, reading guides, internal strategy documents. Standard ESF workflow with disclosure.
 - **Low weight:** Content where AI can draft with light human review. Examples: schedules, formatting, resource lists, administrative language, meeting agendas. Abbreviated workflow with attribution.
 
-**Scholarly grounding.** The tiered model draws on Bloom et al.'s (1956) taxonomic logic (higher-order cognitive tasks such as evaluation, synthesis, and creation inherently demand more human engagement than lower-order tasks such as recall and organization) and on Perkins et al.'s (2024) AIAS, which establishes the principle of graduated AI involvement.
+**Scholarly grounding.** The tiered model draws on Bloom et al.'s (1956) taxonomic logic (higher-order cognitive tasks such as evaluation, synthesis, and creation inherently demand more human engagement than lower-order tasks such as recall and organization) and on Perkins et al.'s (2024) AIAS, which establishes the principle of graduated AI involvement. Lin and Sohail (2026) sharpen this tiered logic through a "Task Vulnerability Hierarchy" that names what is at risk at each level. Low-weight tasks are peripheral and procedural: rule-based, low ambiguity, minimal epistemic risk. Medium-weight tasks are core integrative: they require synthesis across sources or domains, where AI can produce superficially competent output that obscures gaps in reasoning. High-weight tasks are core generative: original hypothesis formation, experimental design, novel argument, where the cognitive work itself constitutes expertise.
+The higher the weight, the greater the risk that AI involvement substitutes for the thinking through which professional judgment develops.
 
 **Practical operation.** Content Epistemic Weight is assessed at the beginning of any AI-assisted task (Phase 1 of the ESF workflow). The classification determines which workflow components are required. High-weight content triggers the full workflow, including a Directive Memo and Integrity Report. Medium-weight content requires the standard workflow with disclosure. Low-weight content requires only attribution. The human classifies the content. The framework does not prescribe weight assignments, because classification itself requires the professional judgment that ESF is designed to preserve.
 
@@ -198,9 +220,11 @@ The memo can be brief. Its function is not comprehensiveness but *commitment*, f
 
 **Definition.** Human Validation Gates are mandatory checkpoints at phase transitions in the ESF workflow. At each gate, the human must confirm, using the Five Questions, that they remain the epistemic agent of the work, not merely the editor.
 
-**Scholarly grounding.** The gate mechanism directly addresses the metacognitive failures documented by Tankelevitch et al. (2024) and the cognitive automation described by Atchley et al. (2024). By requiring explicit confirmation at each phase transition, gates prevent the gradual, often invisible migration of intellectual authority from human to AI. They also implement the principle of human oversight articulated in the EU AI Act, Article 14 (2024), translating regulatory intent into operational practice.
+**Scholarly grounding.** The gate mechanism directly addresses the metacognitive failures documented by Tankelevitch et al. (2024) and the cognitive automation described by Atchley et al. (2024). By requiring explicit confirmation at each phase transition, gates prevent intellectual authority from gradually, often invisibly, migrating from human to AI. They also implement the principle of human oversight articulated in the EU AI Act, Article 14 (2024), translating regulatory intent into operational practice.
 
 Fischer et al.'s (2024) argument for assessment that attends to what learners *actually do* is realized through gates. The gate does not evaluate the product but interrogates the process: did the human maintain evaluative engagement, or did they accept the AI's output without genuine scrutiny?
+
+Chen (2025) names a specific failure mode: "automated acquiescence," in which efficiency-oriented design rewards acceptance over scrutiny. When validation gates become routine checkboxes, speed displaces deliberation, and the gate collapses into performative compliance. This risk intensifies as AI-assisted workflows become habitual. Countermeasures: vary gate depth across phases (not every gate demands the same rigor), incorporate peer review at selected gates, and audit gate records periodically for patterns of uniform, uncritical approval.
 
 **Practical operation.** Gates occur at defined transitions in the ESF workflow: after scoping, after the Directive Memo, after building, after critical review, and before finalization. Each gate requires the human to pause, apply the Five Questions, and either confirm progression or identify where epistemic drift has occurred. A gate failure (a "no" answer to any of the Five Questions) halts the workflow until the issue is resolved.
 
@@ -246,11 +270,19 @@ The disclosure statement communicates to the reader the nature and extent of AI 
 
 Templates are provided for common academic document types: scholarship, course materials, institutional reports, application materials, and general use.
 
+Kahl (2025) argues that meaningful disclosure must move beyond documenting *that* AI was used to articulating *why* it was used and *what* the human author contributed that AI could not. The Disclosure Protocol adopts this principle. Each disclosure statement, regardless of content weight, addresses three components:
+
+1. **What AI did.** The functional contribution: drafting, structuring, research synthesis, formatting, or other specific tasks. This is the current industry standard.
+2. **Why AI was chosen.** The causal rationale: what made AI appropriate for this task, and what would have been different without it. This prevents disclosure from becoming a reflexive label applied to everything.
+3. **What the human contributed.** The epistemic contribution: the intellectual judgment, domain knowledge, evaluative decisions, or original positions that the human provided and that AI could not. This is the component most disclosures omit, and the one that makes disclosure an accountability mechanism rather than a compliance exercise.
+
+This three-component structure shifts disclosure from reporting to reasoning. It aligns the Disclosure Protocol with the same epistemic accountability that the Directive Memo establishes at the beginning of the workflow: the Directive Memo declares intent; the disclosure confirms whether that intent was preserved.
+
 **Differentiation.** Existing disclosure frameworks treat transparency as a reporting mechanism: what AI was used, and how it contributed. ESF's Disclosure Protocol treats transparency as an epistemic mechanism. The disclosure is meaningful because it is anchored to the Directive Memo (which establishes what the human intended) and verified through the Integrity Report (which confirms whether the intention was preserved). Disclosure without a Directive Memo is compliance. Disclosure with a Directive Memo is accountability.
 
 ### 4.7 The Framework Evolution Protocol
 
-**Definition.** The Framework Evolution Protocol is a set of structural mechanisms ensuring that ESF does not become a static policy document as AI capabilities, research, and institutional contexts evolve. It comprises four components:
+**Definition.** The Framework Evolution Protocol is a set of structural mechanisms that prevent ESF from becoming a static policy document as AI capabilities, research, and institutional contexts evolve. It comprises four components:
 
 1. **Versioned framework with changelog.** Every revision to ESF is documented with version numbers, dates, and descriptions of what changed and why. This creates an auditable record of the framework's evolution.
 
@@ -260,7 +292,11 @@ Templates are provided for common academic document types: scholarship, course m
 
 4. **Sunset criteria.** Each construct includes conditions under which it should be revisited, revised, or retired. For example: if future research demonstrates that pre-drafting intellectual authority mechanisms do not improve epistemic outcomes compared to post-hoc review alone, the Directive Memo's central role should be reconsidered. Sunset criteria prevent constructs from persisting through institutional inertia rather than demonstrated value.
 
-**Scholarly grounding.** The Framework Evolution Protocol draws on Luksha et al.'s (2024) argument that educational institutions need adaptive methodologies capable of evolving with technological and social change, and on Zawacki-Richter et al.'s (2019) observation that AI-in-education has progressed through identifiable phases, suggesting that current approaches are necessarily provisional. The challenge protocol operationalizes the epistemic values the framework itself advocates: claims should be supported, contradictions should be surfaced, and intellectual positions should be held accountable to evidence.
+**Scholarly grounding.** The Framework Evolution Protocol draws on Luksha et al.'s (2024) argument that educational institutions need adaptive methodologies capable of evolving with technological and social change. Zawacki-Richter et al.'s (2019) observation that AI-in-education has progressed through identifiable phases suggests that current approaches are necessarily provisional. The challenge protocol operationalizes the epistemic values the framework itself advocates: claims should be supported, contradictions should be surfaced, and intellectual positions should be held accountable to evidence.
+
+Kelly (2025) provides theoretical warrant for this architecture through two concepts from infrastructure studies. The first, "Conceptual Hospitality," argues that durable theoretical frameworks must accommodate developments not yet anticipated. The Evolution Protocol's versioning, intake cycle, and challenge mechanisms are structural expressions of conceptual hospitality: they build receptivity to change into the framework's architecture rather than treating revision as a sign of failure.
+
+The second concept, "Breakdown Dynamics," reframes system failures. When an infrastructure works as expected, its underlying assumptions remain invisible. Failures make those assumptions visible and testable. Applied to ESF: when a construct fails in practice (a gate that does not catch drift, a disclosure template that obscures rather than clarifies), the failure is not a defect to suppress but a diagnostic event. The Evolution Protocol's challenge mechanism operationalizes this by requiring that contradictions be surfaced, documented, and resolved rather than quietly absorbed through revision.
 
 **Practical operation.** At the framework level, the Evolution Protocol is maintained by the framework's stewards (whether an individual faculty member, a committee, or an institutional unit). At the institutional level, the protocol aligns with annual review cycles and accreditation timelines. At the individual level, practitioners can apply the protocol to their own ESF implementation, noting when constructs are more or less useful in their context and contributing feedback to the framework's revision process.
 
@@ -270,7 +306,7 @@ Templates are provided for common academic document types: scholarship, course m
 
 ## 5. The ESF Workflow Model
 
-The following diagram and narrative describe the generalized ESF workflow. This model is abstracted from operational practice and is designed to be adaptable to any AI-assisted academic task, regardless of discipline, tool, or institutional context.
+The following diagram and narrative describe the generalized ESF workflow. This model abstracts from operational practice and adapts to any AI-assisted academic task, regardless of discipline, tool, or institutional context.
 
 ### 5.1 Workflow Diagram
 
@@ -356,9 +392,9 @@ The Directive Memo passes the Ownership Test: the human confirms they wrote it w
 
 **Phase 3: Build.** AI-assisted production begins, guided by the Directive Memo. The human and AI collaborate on drafting, structuring, iterating, and refining the work. Throughout this phase, the Five Questions are applied at natural breakpoints: after completing a section, after a significant revision, after incorporating new material.
 
-Critical to this phase: when the AI's output departs from the Directive Memo's direction, the departure is flagged explicitly, by the human, by the AI (if the system supports it), or by both. Departures are not automatically errors; the AI may surface valid considerations that the memo didn't anticipate. But departures must be conscious choices, not silent drift. The human decides whether to update the memo (revising their position) or redirect the AI (maintaining their position). Both are legitimate. Undetected drift is not.
+Critical to this phase: when the AI's output departs from the Directive Memo's direction, the human flags the departure explicitly (the AI may also flag it, if the system supports this). Departures are not automatically errors; the AI may surface valid considerations that the memo did not anticipate. But departures must be conscious choices, not silent drift. The human decides whether to update the memo or redirect the AI. Both are legitimate; undetected drift is not.
 
-**Phase 4: Validate.** The completed draft undergoes critical review. The Validate phase is not copyediting; it is epistemic audit. The human reviews the work against the Directive Memo, checking for alignment between the original intent and the final output. Citations and factual claims are independently verified. Any drift from the memo's direction is documented: where did the work depart from the stated thesis, emphasis, or stance?
+**Phase 4: Validate.** The completed draft undergoes critical review. The Validate phase is an epistemic audit. The human reviews the work against the Directive Memo, checking for alignment between the original intent and the final output. Citations and factual claims are independently verified. Any drift from the memo's direction is documented: where did the work depart from the stated thesis, emphasis, or stance?
 
 For high-weight content, the validation phase produces an Integrity Report. This is a structured document recording the Directive Memo alignment check, AI contribution levels by dimension, verification status, and any flagged concerns. The Integrity Report is an internal accountability artifact. It accompanies the work as evidence that the epistemic process was followed, not just that the product is polished.
 
@@ -404,7 +440,7 @@ ESF operates at two levels with different process models, audiences, and purpose
 
 **Purpose:** Ensure that AI-assisted institutional and scholarly work maintains intellectual integrity. Level 1 gates ask: *Is this good enough to put into the world?*
 
-Faculty are ESF's primary Level 1 audience. The framework provides a structured methodology for using AI in professional academic work: curriculum development, assessment design, scholarship, grant writing, administrative reporting. All while maintaining intellectual ownership. The Faculty Implementation Guide (forthcoming) translates ESF's constructs into discipline-agnostic workflows with worked examples from multiple disciplines.
+Faculty are ESF's primary Level 1 audience. The framework provides a structured methodology for using AI in professional academic work: curriculum development, assessment design, scholarship, grant writing, and administrative reporting, all while maintaining intellectual ownership. The Faculty Implementation Guide (forthcoming) translates ESF's constructs into discipline-agnostic workflows with worked examples from multiple disciplines.
 
 Key faculty applications:
 - Writing Directive Memos before AI-assisted drafting of syllabi, assessments, and scholarship
@@ -418,13 +454,14 @@ The last two points are critical. Faculty credibility in AI-integrated teaching 
 
 ### 6.2 Level 2: Epistemic Development
 
-**Audience:** Students, meaning learners developing the capacity to become Level 1 practitioners.
+**Audience:** Students, meaning learners who are building the capacity to become Level 1 practitioners.
 
 **Process model:** Inquire, Position, Explore, Make, Reflect (a design thinking and Socratic process distinct from the Level 1 workflow).
 
 **Purpose:** Develop epistemic agency through structured engagement with AI in coursework. Level 2 gates ask: *Do I actually understand what I'm doing?*
 
-The Level 2 process model reflects a fundamental distinction: students are not producing institutional documents with epistemic rigor. They are *learning to think*. The production workflow (Scope, Direct, Build, Validate, Disclose) optimizes for output quality. The student process optimizes for cognitive development. Both maintain epistemic ownership, but through different mechanisms.
+The Level 2 process model reflects a fundamental distinction: students are not producing institutional documents with epistemic rigor. They are *learning to think*. The production workflow (Scope, Direct, Build, Validate, Disclose) prioritizes output quality.
+The student process optimizes for cognitive development. Both maintain epistemic ownership, but through different mechanisms.
 
 **The Student Process Model**
 
@@ -436,7 +473,14 @@ The Level 2 process model reflects a fundamental distinction: students are not p
 | **Make** | Prototype | Build the work product with AI assistance, Five Questions active throughout | *Does this still reflect my position, or did I drift?* |
 | **Reflect** | Test | Evaluate output, document what was kept/revised/rejected and why | *Can I defend every part of this?* |
 
-The critical design move: **AI does not enter until Phase 3.** Phases 1 and 2 are human-only. The Socratic questioning in the Inquire phase and the written position in the Position phase force students to articulate their own understanding *before* they have AI output to react to. This sequencing is supported by multiple independent research traditions. Hutson's (2025) three-tiered scaffolded framework requires demonstrated independent proficiency before AI access. The Human-AI-Human cycle (Washington OSPI, 2024) mandates that human inquiry precede AI production. Pasmala et al.'s (2026) five-stage RBL-AI model structures human-led problem identification and research planning as the foundational phases before AI-enhanced analysis enters, with an explicit design principle that "ethical judgment and scholarly responsibility remain learner- and instructor-centered."
+The critical design move: **AI does not enter until Phase 3.** Phases 1 and 2 are human-only. The Socratic questioning in the Inquire phase and the written position in the Position phase force students to articulate their own understanding *before* they have AI output to react to. This sequencing is supported by multiple independent research traditions:
+
+- **Hutson (2025):** Three-tiered scaffolded framework (Intrinsic Learning, Augmented Synthesis, Full Integration) requires demonstrated independent proficiency before AI access.
+- **Lin and Sohail (2026):** Parallel developmental stages (Skill Acquisition, Domain Application, Strategic Integration) describe a progression from building foundational capacity, to applying it within a discipline, to orchestrating AI as a strategic partner.
+- **Washington OSPI (2024):** The Human-AI-Human cycle mandates that human inquiry precede AI production.
+- **Pasmala et al. (2026):** Five-stage RBL-AI model structures human-led problem identification and research planning before AI-enhanced analysis, with the design principle that "ethical judgment and scholarly responsibility remain learner- and instructor-centered."
+
+This sequencing guards against what the literature variously calls epistemic substitution (Chen, 2025), organized immaturity (Lindebaum et al., 2025/26), and cognitive dulling (Gerlich, 2025): the risk that AI performs the cognitive work through which expertise develops, leaving the learner with output but not capacity.
 
 This is not the Level 1 workflow simplified. It is a different process serving a different purpose. Level 1 begins with Scope (task definition) because the practitioner already has epistemic agency and needs a workflow to preserve it. Level 2 begins with Inquire (understanding) because the student is *developing* epistemic agency and needs a process to build it.
 
@@ -449,9 +493,10 @@ This is not the Level 1 workflow simplified. It is a different process serving a
 | 3 | Independent Use | Full process, self-directed | Self-assessed gates with peer review |
 | 4 | Critical Partnership | Full process + designing gates for others | Students create and evaluate their own gates |
 
-ESF does not frame students as potential cheaters who need monitoring. It frames them as developing epistemic agents who need a process that makes their thinking visible, to themselves and to their instructors, at every phase. The human gates require demonstration of understanding, not permission to proceed.
+ESF frames students as developing epistemic agents who need a process that makes their thinking visible, to themselves and to their instructors, at every phase. The human gates require demonstration of understanding, not permission to proceed.
 
 Process artifacts (records of what was kept, revised, and rejected from AI output, and why) serve as evidence of cognitive engagement (Plate & Hutson, 2025; Gobbo, 2025). These are not compliance documents. They are the visible trace of the editorial judgment that constitutes learning.
+
 
 ### 6.3 The Relationship Between Levels
 
@@ -479,7 +524,7 @@ ESF's Framework Evolution Protocol is particularly relevant at the institutional
 
 ## 7. Novel Contributions
 
-ESF makes five claims of novel contribution to the literature on AI in higher education. Each is positioned against existing work, with evidence of the gap and an account of how ESF addresses it.
+ESF makes five claims of novel contribution to the literature on AI in higher education. This section positions each claim against existing work, with evidence of the gap and an account of how ESF addresses it.
 
 ### 7.1 The Directive Memo: Pre-Drafting Intellectual Authority
 
@@ -509,7 +554,7 @@ ESF makes five claims of novel contribution to the literature on AI in higher ed
 
 **Claim.** ESF provides the first systematic methodology for faculty use of AI in their own professional academic work.
 
-**Evidence of gap.** Zawacki-Richter et al. (2019) documented that the vast majority of AI-in-education research and guidance targets students. Since their review, the landscape has expanded, but primarily in the direction of student-facing literacy (Allen & Kendeou, 2024), institutional policy (OECD, 2023; UNESCO/Miao & Holmes, 2023), and assessment frameworks (Perkins et al., 2024). Faculty remain the intended *users* of these frameworks but not their *subjects*. Faculty are expected to evaluate student AI use, implement AI policies, and teach AI literacy, all while operating without a structured methodology for their own AI-assisted work.
+**Evidence of gap.** Zawacki-Richter et al. (2019) documented that the vast majority of AI-in-education research and guidance targets students. Since their review, the field has expanded, but primarily in the direction of student-facing literacy (Allen & Kendeou, 2024), institutional policy (OECD, 2023; UNESCO/Miao & Holmes, 2023), and assessment frameworks (Perkins et al., 2024). Faculty remain the intended *users* of these frameworks but not their *subjects*. Faculty are expected to evaluate student AI use, implement AI policies, and teach AI literacy, all while operating without a structured methodology for their own AI-assisted work.
 
 **How ESF fills it.** The Faculty Implementation Guide translates ESF's constructs into discipline-agnostic workflows for common faculty tasks: curriculum development, assessment design, scholarship, administrative reporting. The guide includes worked examples from multiple disciplines, Content Epistemic Weight classifications for common faculty deliverables, and anti-patterns specific to faculty AI use. ESF positions faculty practice as the foundation for student instruction. The framework argues that credible AI-integrated teaching requires that faculty practice epistemic stewardship in their own work first.
 
@@ -527,7 +572,9 @@ ESF makes five claims of novel contribution to the literature on AI in higher ed
 
 **Evidence of gap.** The AI-in-education literature separates into two streams that do not converge. Production-oriented work; AIAS (Perkins et al., 2024), AID (Weaver, 2024), and UNESCO guidance (Miao & Holmes, 2023): addresses faculty primarily as *implementers* of policy rather than practitioners with their own epistemic responsibilities. Student-facing scaffolding; Hutson (2025), Washington State OSPI (2024), Pasmala et al. (2026), Degen and Asanov (2025): establishes how student engagement with AI should be structured but does not connect this to how faculty operate in their own work. No existing framework recognizes that faculty preparing course content and students completing assignments are engaged in fundamentally different epistemic activities that require different process models. Existing approaches either apply one framework at different intensities (treating students as simplified faculty) or address the audiences in separate, unconnected publications.
 
-**How ESF fills it.** ESF's two-level architecture provides distinct processes for distinct purposes. Level 1 (Content Production) gives faculty, administrators, and institutional leaders the five-phase workflow (Scope, Direct, Build, Validate, Disclose) for producing high-integrity institutional and scholarly work. Gates ask: *Is this good enough to put into the world?* Level 2 (Epistemic Development) gives students a distinct five-phase process (Inquire, Position, Explore, Make, Reflect) that operates alongside design thinking and studio process languages familiar in creative disciplines: the same epistemic principles (human-first sequencing, position before AI, active endorsement) expressed through studio vocabulary rather than production workflow. AI does not enter until Phase 3; Phases 1 and 2 are human-only. Gates ask: *Do I actually understand what I'm doing?*
+**How ESF fills it.** ESF's two-level architecture provides distinct processes for distinct purposes. Level 1 (Content Production) gives faculty, administrators, and institutional leaders the five-phase workflow (Scope, Direct, Build, Validate, Disclose) for producing high-integrity institutional and scholarly work. Gates ask: *Is this good enough to put into the world?*
+
+Level 2 (Epistemic Development) gives students a distinct five-phase process (Inquire, Position, Explore, Make, Reflect) that operates alongside design thinking and studio process languages familiar in creative disciplines. The same epistemic principles (human-first sequencing, position before AI, active endorsement) are expressed through studio vocabulary rather than production workflow. AI does not enter until Phase 3; Phases 1 and 2 are human-only. Gates ask: *Do I actually understand what I'm doing?*
 
 The levels are architecturally linked, not parallel tracks. A faculty member using Level 1 to design an assignment is simultaneously designing the epistemic environment a student works within at Level 2. This connection creates structural accountability: faculty who require epistemic discipline from students practice it themselves. A framework that addresses only students, or only faculty, cannot create this accountability relationship.
 
@@ -535,7 +582,7 @@ The levels are architecturally linked, not parallel tracks. A faculty member usi
 
 ## 8. Relationship to Existing Frameworks
 
-ESF does not replace existing frameworks. It occupies a distinct position in the landscape and is designed to complement rather than compete with established approaches.
+ESF does not replace existing frameworks. It occupies a distinct position and complements rather than competes with established approaches.
 
 **AIAS (Perkins et al., 2024)** provides a graduated scale for AI involvement in student assessment. ESF adopts the principle of graduation but reframes it as epistemic weight, an inherent property of content rather than a policy choice. Faculty using ESF can apply AIAS scales to student work while applying ESF's epistemic weight model to their own.
 
@@ -545,7 +592,7 @@ ESF does not replace existing frameworks. It occupies a distinct position in the
 
 **OECD AI Principles (2023)** provide a governance framework for responsible AI. ESF's Framework Evolution Protocol aligns with the OECD's emphasis on adaptive governance: building revision mechanisms into AI frameworks rather than attempting fixed solutions.
 
-A comprehensive comparison matrix (evaluating ESF against AIAS, AID, UNESCO, and OECD across dimensions including primary audience, pre-drafting structure, epistemic weight model, validation methodology, student agency model, disclosure system, faculty workflow, and iterative structure) will be provided in the forthcoming ESF Literature Review and Comparison Matrix.
+A forthcoming comparison matrix evaluates ESF against AIAS, AID, UNESCO, and OECD across dimensions including audience, pre-drafting structure, epistemic weight model, validation methodology, and disclosure system.
 
 ---
 
@@ -556,7 +603,7 @@ A comprehensive comparison matrix (evaluating ESF against AIAS, AID, UNESCO, and
 | **Active Endorsement** | The condition, from Clark and Chalmers's (1998) extended mind thesis, that a human must consciously and critically adopt the contributions of an external cognitive resource (including AI) rather than passively accepting them. The Directive Memo operationalizes this condition. |
 | **Cognitive Automation** | Atchley et al.'s (2024) concept for the tendency of AI, as an external representation tool, to reduce information processing demands in ways that can diminish cognitive engagement with the work's substance. The corresponding cost of AI efficiency: reduced scrutiny of what the AI produces. The Five Questions counteract this by prompting deliberate cognitive engagement at each workflow transition. |
 | **Cognitive Partnership** | A mode of human-AI collaboration in which the human remains intellectually engaged: directing, evaluating, synthesizing. The AI accelerates and structures the work. Contrasted with cognitive offloading, in which the human delegates thinking to the AI. |
-| **Cognitive Offloading** | A mode of human-AI interaction in which the human delegates intellectual work to the AI without maintaining evaluative engagement. The output may be competent, but the human's epistemic relationship to it is passive. ESF's constructs are designed to prevent this. |
+| **Cognitive Offloading** | A mode of human-AI interaction in which the human delegates intellectual work to the AI without maintaining evaluative engagement. The output may be competent, but the human's epistemic relationship to it is passive. ESF's constructs prevent this. |
 | **Compliance Transparency** | Disclosure that documents *whether* AI was used and *what* it contributed. Answers the question "was AI involved?" Necessary but insufficient. Contrasted with epistemic transparency. |
 | **Content Epistemic Weight** | A three-tier classification (High / Medium / Low) of the inherent epistemic demands of a content type. Determines the required depth of human involvement and the ESF workflow components applied. Weight is an inherent property of the content, not a policy assignment. See Section 4.3. |
 | **Challenge Protocol** | A component of the Framework Evolution Protocol. When new research contradicts an ESF construct, the contradiction is documented explicitly and resolved transparently, not quietly absorbed. Maintains a record of challenges, evidence, and resolutions. See Section 4.7. |
@@ -587,7 +634,7 @@ Every framework has boundaries. ESF's claims are strongest at its center: facult
 
 **Single-practitioner, single-institution validation.** All current evidence of ESF's practical adoptability comes from one practitioner at one institution. The AI 180 and AI 201 course integrations, the accreditation crosswalk use case, and the self-application evidence in this manuscript all originate from the author's practice at an art and design university. This provides application evidence: the framework is operational, not merely theoretical, but it does not provide the multi-site, multi-practitioner validation that would establish generalizability. Adoption at other institutions with different disciplinary cultures, student populations, instructional contexts, and AI tool availability may surface limitations not visible in the originating context.
 
-**Self-reported human-AI ratios.** The division-of-labor evidence in the Self-Application Evidence document (and the Integrity Report) is the author's own assessment of the collaboration, not an independent audit. This manuscript locates itself within the reflective practitioner tradition (Schön, 1983), in which practitioners simultaneously enact and study their practice, and the practitioner's situated, documented experience constitutes primary evidence. Within that tradition, self-application is not a recursive fallacy but a defining methodological feature: the same rigor the framework requires of users is applied to the framework's own development. The documentation is accurate to the session records and honest in acknowledging the Directive Memo bootstrapping case. Independent external verification: by other practitioners applying ESF in their own contexts: is a direction for future work (see Section 10.4).
+**Self-reported human-AI ratios.** The division-of-labor evidence in the Self-Application Evidence document (and the Integrity Report) is the author's own assessment of the collaboration, not an independent audit. This manuscript operates within the reflective practitioner tradition (Schön, 1983). In that tradition, practitioners simultaneously enact and study their practice; situated, documented experience constitutes primary evidence. Within that tradition, self-application is not a recursive fallacy but a defining methodological feature: the same rigor the framework requires of users is applied to the framework's own development. The documentation is accurate to the session records and honest in acknowledging the Directive Memo bootstrapping case. Independent external verification: by other practitioners applying ESF in their own contexts: is a direction for future work (see Section 10.4).
 
 **Preprint sources.** Three supporting sources; Weaver (2024), Degen and Asanov (2025), and Stoyanov (2026): are preprints pending peer review at the time of writing. Weaver's AI Disclosure Framework (AID) is the only dedicated AI disclosure framework cited in the novel contributions analysis. Degen and Asanov provide the sole experimental evidence for Socratic AI's epistemic benefits. Stoyanov provides the closest parallel to ESF's epistemic audit constructs. If peer review of these sources surfaces findings that modify their claims, specific positions in ESF's literature review and novel contributions analysis would require revision. The Framework Evolution Protocol provides the mechanism for incorporating such updates.
 
@@ -597,11 +644,13 @@ Every framework has boundaries. ESF's claims are strongest at its center: facult
 
 **Synchronous classroom contexts.** The student-facing Level 2 process (Inquire, Position, Explore, Make, Reflect) was designed for studio-based courses at an art and design university with significant project-based work and instructor-student interaction. Its applicability in large lecture formats, asynchronous online courses, or highly standardized assessment environments is untested and may require adaptation.
 
-**AI tool landscape dependency.** ESF is tool-agnostic by design, and its core constructs (Directive Memo, Five Questions, Content Epistemic Weight) are grounded in human epistemic behavior, not in any specific AI system's behavior. However, the operational guidance in the implementation guides reflects AI capabilities as of early 2026. As AI systems evolve: particularly as capabilities in long-form coherence, autonomous verification, and proactive hallucination detection improve: specific workflow recommendations may require revision. The Framework Evolution Protocol is designed to manage this.
+**AI tool volatility.** ESF is tool-agnostic by design, and its core constructs (Directive Memo, Five Questions, Content Epistemic Weight) are grounded in human epistemic behavior, not in any specific AI system's behavior. However, the operational guidance in the implementation guides reflects AI capabilities as of early 2026. As AI systems evolve: particularly as capabilities in long-form coherence, autonomous verification, and proactive hallucination detection improve: specific workflow recommendations may require revision. The Framework Evolution Protocol is designed to manage this.
 
 ### 10.3 Construct Limitations
 
-**The Five Questions' binary structure.** The Five Questions as formulated produce yes/no answers that halt or continue the workflow. This binary is pedagogically valuable: it forces a commitment, but it may oversimplify the epistemic states practitioners actually occupy. "Partially mine," "verified in some sources but not others," and "would teach with caveats" are common and honest states that the current binary structure does not accommodate. A future iteration of the framework might introduce graduated responses for experienced practitioners while maintaining binary structure for learners and high-stakes contexts.
+**The Five Questions' binary structure.** The Five Questions as formulated produce yes/no answers that halt or continue the workflow. This binary is pedagogically valuable: it forces a commitment, but it may oversimplify the epistemic states practitioners actually occupy.
+
+"Partially mine," "verified in some sources but not others," and "would teach with caveats" are common and honest states that the current binary structure does not accommodate. A future iteration of the framework might introduce graduated responses for experienced practitioners while maintaining binary structure for learners and high-stakes contexts.
 
 **Content Epistemic Weight calibration in practice.** The three-tier classification (High, Medium, Low) provides a useful starting framework, but the boundaries between tiers are not always clear. The same content type (a course description, an assignment brief) may warrant different epistemic weight depending on institutional context, audience, and stakes. The classification guide provides examples but cannot enumerate all cases. Practitioner judgment will always be required at the boundaries.
 
@@ -613,6 +662,12 @@ The most productive areas for extending ESF's validation and reach include:
 2. **Student outcome assessment**: Measuring whether Level 2 process adoption correlates with improved metacognitive outcomes, and what indicators distinguish genuine epistemic engagement from compliant performance.
 3. **AI tool integration research**: Studying how AI tool features (proactive disclosure suggestions, citation verification, context memory) interact with ESF workflow adoption, and what features support or undermine the framework's constructs.
 4. **Longitudinal framework evolution**: Documenting how ESF's constructs change through the Framework Evolution Protocol across multiple intake cycles, and whether the protocol functions as designed or creates different pressures.
+5. **Expanded process artifacts**: Current Level 2 process documentation (Records of Resistance, AI Use Logs) is calibrated to a 10-week quarter. Emerging research suggests additional artifact types that merit future investigation:
+   - Prompt evolution logs and intervention maps (Gobbo, 2025; Plate & Hutson, 2025)
+   - Trust audits documenting when and why students accept AI output (Jose et al., 2025)
+   - Oral defense mechanisms for high-stakes deliverables (Hutson, 2025)
+
+   These extensions would deepen the evidentiary base for epistemic engagement but require careful workload calibration before adoption.
 
 ---
 

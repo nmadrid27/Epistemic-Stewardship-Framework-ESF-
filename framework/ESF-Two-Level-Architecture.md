@@ -19,11 +19,11 @@ The Epistemic Stewardship Framework operates at two distinct levels with differe
 Uses the ESF workflow (Scope, Direct, Build, Validate, Disclose) to produce AI-assisted work with epistemic rigor. The Directive Memo, Content Epistemic Weight, Human Validation Gates, and Disclosure Protocol operate here. These practitioners are *authors* responsible for what they put into the world.
 
 **Level 2: Epistemic Development** (students)
-Uses a design thinking and Socratic process (Inquire, Position, Explore, Make, Reflect) to develop epistemic agency through coursework that engages with AI. Human gates require students to demonstrate their own thinking *before* AI enters the process. These learners are developing the capacity to become Level 1 practitioners.
+Uses a design thinking and Socratic process (Inquire, Position, Explore, Make, Reflect) to develop epistemic agency through coursework that engages with AI. Human gates require students to demonstrate their own thinking *before* AI enters the process. These learners build the capacity to become Level 1 practitioners.
 
 ## Rationale
 
-The previous design treated faculty and students as parallel audiences receiving the same framework at different intensities. The two-level model recognizes a fundamental difference:
+The previous design gave faculty and students the same framework at different intensities. The two-level model recognizes a fundamental difference:
 
 - Level 1 gates ask: **"Is this good enough to put into the world?"** (quality assurance)
 - Level 2 gates ask: **"Do I actually understand what I'm doing?"** (learning verification)
@@ -40,7 +40,7 @@ Faculty *create the conditions* in which students develop. A professor using ESF
 | **Make** | Prototype | Build the work product with AI assistance, Five Questions active. | *Does this still reflect my position, or did I drift?* |
 | **Reflect** | Test | Evaluate output, document what was kept/revised/rejected and why. | *Can I defend every part of this?* |
 
-**Critical design move:** AI does not enter until Phase 3. Phases 1 and 2 are human-only. The Socratic questioning forces students to articulate their own understanding and position *before* they have AI output to react to. This is the epistemic ownership mechanism at the student level.
+**Critical design move:** AI does not enter until Phase 3. Phases 1 and 2 are human-only. The Socratic questioning forces students to articulate their own understanding and position *before* they have AI output to react to. This is how students establish epistemic ownership.
 
 ## Scholarly Basis
 
@@ -114,8 +114,8 @@ Faculty *create the conditions* in which students develop. A professor using ESF
 
 ## Origin
 
-This decision emerged from Nathan's review of the ESF Human Gates (2026-02-19) and a query to the Applied AI Research NotebookLM notebook. The original seed idea is documented in `Teaching/ideas/2026-02-16-bmad-for-educators.md`, which proposed adapting design thinking (Empathize, Define, Ideate, Prototype, Test) for educators working with AI. ESF Level 1 addresses the educator side. Level 2 addresses the student side that the original idea did not fully develop.
+This decision emerged from Nathan's review of the ESF Human Gates (2026-02-19) and a query to the Applied AI Research NotebookLM notebook. The original seed idea appears in `Teaching/ideas/2026-02-16-bmad-for-educators.md`, which proposed adapting design thinking (Empathize, Define, Ideate, Prototype, Test) for educators working with AI. ESF Level 1 addresses the educator side. Level 2 addresses the student side that the original idea only partially addressed.
 
 ---
 
-> **AI Collaboration Disclosure:** This architectural decision was developed through human-AI collaboration. Nathan identified the two-level need and the design thinking + Socratic connection. AI queried NotebookLM sources for scholarly support and structured the decision document. All scholarly sources are from Nathan's curated notebook; citations should be independently verified before incorporation into ESF deliverables.
+> **AI Collaboration Disclosure:** This architectural decision was developed through human-AI collaboration. Nathan identified the two-level need and the design thinking + Socratic connection. AI queried NotebookLM sources for scholarly support and structured the decision document. All scholarly sources are from Nathan's curated notebook; verify citations independently before incorporating into ESF deliverables.

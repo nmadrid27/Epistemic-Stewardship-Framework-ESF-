@@ -68,7 +68,7 @@ status: draft
 | # | Question | Answer | Notes |
 |---|----------|--------|-------|
 | 1 | **Can I defend this?** Could I explain every part of my work without saying "the AI suggested it"? | Yes / No | |
-| 2 | **Is this mine?** Did I direct this narrative, not just accept the AI's framing? | Yes / No | |
+| 2 | **Is this mine?** Does this reflect my thinking, not just the AI's framing? | Yes / No | |
 | 3 | **Did I verify?** Have I checked facts, sources, and data independently? | Yes / No | |
 | 4 | **Would I teach this?** Could I explain my process and reasoning to a classmate? | Yes / No | |
 | 5 | **Is my disclosure honest?** Does it accurately describe the AI's role and mine? | Yes / No | |

@@ -45,7 +45,10 @@ model: claude-sonnet-4-6
 - **Active task:** [CURRENT_TASK]
 - **Epistemic weight:** [high / medium / low]
 - **Directive Memo status:** [not started / in progress / complete — date]
+- **Directive Memo path:** [path to saved memo, or "not yet saved"]
 - **Workflow phase:** [Scope / Direct / Build / Validate / Disclose]
+- **Gate record status:** [not started / in progress / complete]
+- **Integrity Report path:** [path to saved report, or "not applicable"]
 
 <!-- ============================================================
      END PERSONALIZATION BLOCK
@@ -127,5 +130,7 @@ At the start of each work session, briefly orient:
 - What weight is this content?
 - Where are we in the workflow?
 - Is there a Directive Memo in place?
+- Check for existing artifacts: scan `courses/[course]/directive-memos/`, `courses/[course]/integrity-reports/`, and `courses/[course]/gate-records/` (or `documents/` equivalents) for prior work on this task
+- Update the Current Work tracking fields above as the session progresses
 
 This prevents the most common failure mode: skipping directly to drafting without establishing intellectual direction.

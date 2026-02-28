@@ -29,11 +29,11 @@ Three specific failures:
 
 ESF was not derived from a literature review. It was built from practice.
 
-Nathan Madrid developed the framework's core constructs (the Directive Memo, the Five Questions, Content Epistemic Weight, Human Validation Gates, and the phased workflow model) through his own operational practice integrating AI into curriculum development, assessment design, and institutional work at an art and design university. The methodology was refined through daily use across multiple courses and administrative contexts before it was ever formalized as a framework or positioned against the scholarly literature.
+Nathan Madrid developed the framework's core constructs (the Directive Memo, the Five Questions, Content Epistemic Weight, Human Validation Gates, and the phased workflow model) at an art and design university. He built them through operational practice integrating AI into curriculum development, assessment design, and institutional work. He refined the methodology through daily use across multiple courses and administrative contexts before formalizing it as a framework or positioning it against the scholarly literature.
 
-The literature review (31 sources across 8 research areas) was conducted after the constructs existed. It serves two purposes: confirming that the constructs address real, documented problems in the field, and identifying where the constructs fill gaps that existing frameworks leave open. The scholarship validates and grounds the framework. It does not originate it.
+Nathan conducted the literature review (31 sources across 8 research areas) after the constructs existed. It serves two purposes: confirming that the constructs address real, documented problems in the field, and identifying where the constructs fill gaps that existing frameworks leave open. The scholarship validates and grounds the framework. It does not originate it.
 
-This distinction matters. ESF's constructs are practitioner-tested, not theoretically derived. The Directive Memo exists because Nathan found that without one, AI-assisted drafts drifted from his intent in ways that were difficult to detect after the fact. The Five Questions exist because he found that general "review your work" advice was insufficient. Specific, answerable questions at specific points in the workflow caught issues that open-ended reflection missed. The two-level architecture exists because applying a single process model to both his own professional work and his students' learning exposed a fundamental mismatch.
+This distinction matters. ESF's constructs are practitioner-tested, not theoretically derived. The Directive Memo exists because Nathan found that without one, AI-assisted drafts drifted from his intent in ways that were difficult to detect after the fact. The Five Questions exist because he found that general "review your work" advice was insufficient. Specific, answerable questions at specific points in the workflow caught issues that open-ended reflection missed. The two-level architecture exists because a single process model failed. Applying it to both his professional work and his students' learning exposed a mismatch.
 
 Every architectural decision in ESF traces back to a problem Nathan encountered and solved in practice. The scholarly grounding confirms these solutions are not idiosyncratic; they address challenges documented across the field. But the solutions came first.
 
@@ -41,7 +41,7 @@ Every architectural decision in ESF traces back to a problem Nathan encountered 
 
 ## How ESF Works
 
-ESF has two levels because faculty producing work and students learning through work are doing fundamentally different things.
+ESF has two levels because faculty producing work and students learning through work are doing different things.
 
 ### Level 1: For Faculty and Administrators
 
@@ -115,15 +115,16 @@ Not everything needs the full process. ESF scales to the stakes:
 
 ESF deliberately does not recommend, require, or assume any specific AI tool, model, or platform. This is a design decision, not an oversight.
 
-**The epistemic challenge is tool-independent.** The core problem ESF addresses (maintaining intellectual ownership when AI assists in producing work) occurs with every generative AI system. Tankelevitch et al. (2024) demonstrated that metacognitive failures (accepting AI output that subtly departs from your own position) occur regardless of which AI tool is used. Atchley et al. (2024) showed that cognitive automation (declining vigilance over time) is a property of repeated human-AI interaction, not of any specific tool. The Five Questions work whether you are using ChatGPT, Claude, Gemini, Copilot, or whatever emerges next year.
+**The epistemic challenge is tool-independent.** The core problem ESF addresses occurs with every generative AI system: maintaining intellectual ownership when AI assists in producing work. Tankelevitch et al. (2024) demonstrated that metacognitive failures (accepting AI output that subtly departs from your own position) occur regardless of tool. Atchley et al. (2024) showed that cognitive automation (declining vigilance over time) is a property of repeated human-AI interaction, not of any specific tool. The Five Questions work whether you are using ChatGPT, Claude, Gemini, Copilot, or whatever emerges next year.
 
-**Tool-specific frameworks have a shelf life. Epistemic skills do not.** The AI landscape turns over faster than institutional adoption cycles. A framework built around a specific tool becomes obsolete when that tool changes or is replaced. The capacity to write a clear Directive Memo, to detect when your position has drifted toward the AI's framing, to verify claims independently, and to disclose honestly: these are durable skills that transfer across any tool, any model generation, and any discipline. Zawacki-Richter et al. (2019) documented how each generation of AI-in-education made prior tool-specific approaches obsolete. Luksha et al. (2024) argue that educational methodologies must be designed for adaptation, not permanence.
+**Tool-specific frameworks have a shelf life. Epistemic skills do not.** The AI field turns over faster than institutional adoption cycles. A framework built around a specific tool becomes obsolete when that tool changes or is replaced.
+Writing a clear Directive Memo. Detecting when your position has drifted toward the AI's framing. Verifying claims independently. Disclosing honestly. These are durable skills that transfer across any tool, model generation, and discipline. Zawacki-Richter et al. (2019) documented how each generation of AI-in-education made prior tool-specific approaches obsolete. Luksha et al. (2024) argue that educational methodologies must prioritize adaptation over permanence.
 
-**Prescribing tools undermines the agency ESF develops.** If a framework tells you which AI to use, it has made a decision that should be yours. ESF's epistemic weight model asks *you* to assess how much human authority your content demands. The Five Questions ask *you* to evaluate your relationship to the work. Selecting the right tool for the task is part of that intellectual responsibility, not something a framework should remove. This applies especially to students: choosing and evaluating tools is itself an epistemic practice.
+**Prescribing tools undermines the agency ESF develops.** If a framework tells you which AI to use, it has made a decision that should be yours. ESF's epistemic weight model and Five Questions ask you to assess how much human authority your content demands and to evaluate your relationship to the work. Selecting the right tool for the task is part of that intellectual responsibility, not something a framework should remove. This applies especially to students: choosing and evaluating tools is itself an epistemic practice.
 
 **Institutional adoption requires flexibility.** Different departments use different tools. STEM faculty may use code-generation AI. Humanities faculty may use text-generation AI. Design faculty may use image-generation AI. Administrative offices may use enterprise platforms. A framework that works across all of these contexts can be adopted institution-wide. One that assumes a specific tool cannot.
 
-**What matters is the human's relationship to the work, not the tool that helped produce it.** Clark and Chalmers (1998) established that cognitive tools become legitimate extensions of thinking when the human actively endorses their contributions. The endorsement condition (the foundation of the Directive Memo) applies to any tool. The question is never "which AI did you use?" The question is "can you defend this as yours?"
+**What matters is the human's relationship to the work, not the tool that helped produce it.** Clark and Chalmers (1998) established that cognitive tools extend thinking legitimately when the human actively endorses their contributions. The endorsement condition (the foundation of the Directive Memo) applies to any tool. The question is never "which AI did you use?" The question is "can you defend this as yours?"
 
 ---
 
@@ -151,7 +152,7 @@ ESF is grounded in 31 verified sources across 8 research areas, including episte
 
 ---
 
-> **AI Disclosure:** This overview document was developed through human-AI collaboration. Nathan Madrid established the framework's constructs, arguments, and architecture from his operational practice. AI assisted with organizing and drafting this summary from the full ESF Framework Document and supporting deliverables. All intellectual claims, the tool-agnostic rationale, and the practice-first provenance narrative reflect the author's position and experience. The scholarly sources cited have been verified to the standards documented in the ESF Research Summary.
+> **AI Disclosure:** Nathan Madrid developed this overview through human-AI collaboration. He established the framework's constructs, arguments, and architecture from his operational practice. AI assisted with organizing and drafting this summary from the full ESF Framework Document and supporting deliverables. All intellectual claims, the tool-agnostic rationale, and the practice-first provenance narrative reflect the author's position and experience. Nathan verified the scholarly sources cited to the standards documented in the ESF Research Summary.
 
 ---
 

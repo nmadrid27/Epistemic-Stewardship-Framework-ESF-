@@ -66,6 +66,9 @@ When the student begins work on a project, check:
 1. `projects/[course]/briefs/` — Has the project brief been placed here?
 2. `projects/[course]/position-statements/` — Does a Position Statement exist?
 3. `projects/[course]/records-of-resistance/` — Are Records of Resistance being tracked?
+4. `projects/[course]/ai-use-logs/` — Is an AI Use Log started (required AI 201+, optional AI 180)?
+5. `projects/[course]/gate-records/` — Are gate records being saved at phase transitions?
+6. `projects/[course]/reflections/` — Has a reflection been completed (Phase 5)?
 
 If the brief is missing, prompt: "Before we start, can you drop your project brief into `projects/[course]/briefs/`? That gives me the full context to work from."
 
@@ -75,5 +78,8 @@ At the start of each session, briefly orient:
 - What project are we working on?
 - What phase are we in?
 - What did we last work on?
+- **AI Use Log status:** Started? Up to date? (AI 201+ required; AI 180 optional)
+- **Gate records status:** Which phase gates have been recorded?
+- **Reflection status:** Completed? (Only applicable after Phase 5)
 
 This keeps context current without requiring the student to re-explain everything.

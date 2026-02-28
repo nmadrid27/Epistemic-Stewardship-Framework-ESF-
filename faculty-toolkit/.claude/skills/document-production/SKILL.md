@@ -75,6 +75,10 @@ When producing documents where the faculty member's intellectual authority must 
 
 This is required for curriculum work; recommended for other high-stakes institutional documents.
 
+**Artifact storage:** Save the Directive Memo to the appropriate path before drafting begins:
+- Course-related documents: `courses/[course]/directive-memos/[task]-memo.md`
+- General institutional documents: `documents/directive-memos/[task]-memo.md`
+
 ## Quality Checks
 
 Before presenting any draft, verify:
@@ -105,7 +109,13 @@ All deliverables must include an appropriate disclosure statement. Load `.claude
 - Never overstate or understate AI contribution
 - If document type is ambiguous, ask before selecting a template
 
-For substantial deliverables, generate an Integrity Report using `templates/integrity-report-template.md`.
+For substantial deliverables, generate an Integrity Report using `templates/integrity-report-template.md`. Save to the appropriate path:
+- Course-related documents: `courses/[course]/integrity-reports/[task]-integrity-report.md`
+- General institutional documents: `documents/integrity-reports/[task]-integrity-report.md`
+
+For medium-weight documents, generate a Gate Verification Record (Directive Memo reference, key decisions, Five Questions responses) and save to:
+- Course-related documents: `courses/[course]/gate-records/[task]-gate-record.md`
+- General institutional documents: `documents/gate-records/[task]-gate-record.md`
 
 **The Five Questions** — apply before finalizing any high- or medium-weight document:
 1. **Can I defend this?** — Could I explain every claim to a colleague without referencing the AI's reasoning?

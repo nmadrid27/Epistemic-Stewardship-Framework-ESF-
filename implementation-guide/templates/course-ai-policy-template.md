@@ -17,7 +17,8 @@ status: draft
 
 ## Our Approach to AI
 
-This course takes a [**graduated / permissive / restrictive**] approach to AI use. The goal is not to police AI tools but to help you develop the judgment to use them in ways that preserve the intellectual integrity of your work.
+This course takes a [**graduated / permissive / restrictive**] approach to AI use.
+The goal is to help you develop the judgment to use AI tools in ways that preserve the intellectual integrity of your work.
 
 *[Customize this paragraph to reflect your discipline, your course goals, and your professional stance on AI. The following sections provide a structure; adapt the content to your context.]*
 
@@ -70,7 +71,7 @@ Your grade reflects **your** thinking, judgment, and creative or analytical work
 Specifically:
 - Work that demonstrates your voice, your reasoning, and your professional judgment will be assessed on its merits, regardless of whether AI was used in the process
 - Work that reads as unreviewed AI output (generic, ungrounded in your course learning, or inconsistent with your demonstrated abilities) will be flagged for discussion
-- Honest disclosure of AI use will never lower your grade. Dishonest non-disclosure may
+- Honest disclosure protects your grade. Dishonest non-disclosure may lower it
 
 ---
 
@@ -94,12 +95,12 @@ I share this not because you need to follow my exact process, but because I beli
 When you use AI in your work for this course, ask yourself:
 
 1. **Can I defend this?** Could I explain and justify every part of my submission if asked, without saying "the AI suggested it"?
-2. **Is this mine?** Does this reflect my actual thinking, or did I accept the AI's framing because it sounded good?
+2. **Is this mine?** Did I direct this narrative, or did I accept the AI's framing because it sounded good?
 3. **Did I verify?** Have I checked factual claims, sources, and data independently?
 4. **Would I teach this?** Could I explain my process and reasoning to a classmate?
 5. **Is my disclosure honest?** Does my disclosure accurately describe how I used AI and what I contributed?
 
-These questions are not a test. They are a practice: a habit of mind that makes your work genuinely yours, whether you used AI or not.
+These questions are a practice: a habit of mind that makes your work genuinely yours, whether you used AI or not.
 
 ---
 

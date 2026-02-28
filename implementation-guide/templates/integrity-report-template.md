@@ -21,7 +21,7 @@ status: draft
 
 ## 1. Directive Memo Alignment
 
-*If a Directive Memo was used, assess each element. If no memo was used, note why and confirm this was an appropriate calibration per Content Epistemic Weight.*
+*If you used a Directive Memo, assess each element. If you did not use a memo, note why and confirm this was an appropriate calibration per Content Epistemic Weight.*
 
 - [ ] Final content thesis matches memo thesis
 - [ ] Stated emphasis areas are prominent in final content
@@ -38,12 +38,12 @@ status: draft
 ## 2. Verification Checklist
 
 - [ ] All citations verified against original sources
-- [ ] No hallucinated references detected
-- [ ] Factual claims independently confirmed
+- [ ] I found no hallucinated references
+- [ ] I independently confirmed all factual claims
 - [ ] Tone and voice consistent with author's established style
 - [ ] Content aligns with author's professional judgment and domain expertise
 - [ ] Disclosure statement included and accurately reflects AI contribution
-- [ ] No content exceeds the disclosed level of AI involvement
+- [ ] All content falls within the disclosed level of AI involvement
 
 **Verification notes:**
 
@@ -78,7 +78,7 @@ status: draft
 | # | Question | Answer | Notes |
 |---|----------|--------|-------|
 | 1 | **Can I defend this?** Could I explain and justify every claim to a colleague, reviewer, or student without referencing the AI's reasoning? | Yes / No | |
-| 2 | **Is this mine?** Does this reflect my actual position, or did I passively accept the AI's framing? | Yes / No | |
+| 2 | **Is this mine?** Did I direct this narrative, or did I passively accept the AI's framing? | Yes / No | |
 | 3 | **Did I verify?** Have I independently confirmed factual claims, citations, and data points? | Yes / No | |
 | 4 | **Would I teach this?** Am I prepared to stand behind this content in a classroom or professional setting? | Yes / No | |
 | 5 | **Is the disclosure honest?** Does my disclosure statement accurately represent the division of intellectual labor? | Yes / No | |

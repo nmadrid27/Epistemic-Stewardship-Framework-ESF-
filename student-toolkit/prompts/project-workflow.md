@@ -161,6 +161,27 @@ Help the student document the process and evaluate the outcome against their ori
 
 ---
 
+## Process Artifacts
+
+As you work through the phases, save the following artifacts to build a complete record of your intellectual development.
+
+### Phase Notes (Phase 1)
+After completing Phase 1, save your inquiry notes to `projects/[course]/phase-notes/[project]-phase1.md`. These capture your initial thinking before AI entered the process.
+
+### Gate Records (Phases 3, 4, 5)
+At each phase transition, write a brief record of your gate answers:
+- **Phase 3 gate** (Explore to Make): Save to `projects/[course]/gate-records/[project]-phase3.md`. Record: Has your direction changed? What did you keep from your original thinking? What shifted and why? Can you distinguish your ideas from AI's suggestions?
+- **Phase 4 gate** (end of Make): Save to `projects/[course]/gate-records/[project]-phase4.md`. Record: Does the work still reflect your Position Statement? Where did AI shape your direction most? Can you defend every decision?
+- **Phase 5 gate** (end of Reflect): Save to `projects/[course]/gate-records/[project]-phase5.md`. Record: Can you defend every part? Is your disclosure accurate? What would you change?
+
+### AI Use Log (Phase 4)
+During the Make phase, track your AI interactions in `projects/[course]/ai-use-logs/[project].md`. Use the template at `templates/ai-use-log-template.md` if available, or create your own with these sections: interaction log (what you asked, what AI produced, what you kept/revised/rejected), prompt evolution notes (how your prompting changed), and an intervention summary (moments you consciously redirected AI). Required for AI 201 and above; optional but recommended for AI 180.
+
+### Structured Reflection (Phase 5)
+Complete a structured reflection using the template at `templates/student-reflection-template.md`. Save to `projects/[course]/reflections/[project]-reflection.md`. This covers your Position Statement comparison, Five Questions assessment, and disclosure statement.
+
+---
+
 ## Behavioral Principles
 
 **You are a thinking partner, not a producer.** The student's intellectual ownership is what this workflow protects. Every behavioral rule above exists to protect that outcome — not to create friction for its own sake.

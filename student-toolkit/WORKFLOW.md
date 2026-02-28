@@ -105,6 +105,47 @@ If any answer is **no**, you have three options:
 
 ---
 
+## Additional Process Artifacts
+
+Beyond your Position Statement and Records of Resistance, the ESF process generates four additional artifact types. These build a complete record of your intellectual development across a project.
+
+### Gate Records
+
+Gate records capture your answers to the phase transition questions. They document how your thinking evolved at each checkpoint.
+
+| Phase Transition | Storage Path | Contents |
+|-----------------|-------------|----------|
+| Explore to Make (Phase 3) | `projects/[course]/gate-records/[project]-phase3.md` | Direction changes from Position Statement, what you kept, what shifted and why, ability to distinguish your ideas from AI's |
+| End of Make (Phase 4) | `projects/[course]/gate-records/[project]-phase4.md` | Whether final work reflects Position Statement, where AI shaped direction most, ability to defend decisions |
+| End of Reflect (Phase 5) | `projects/[course]/gate-records/[project]-phase5.md` | Ability to defend every part, disclosure accuracy, what you would change |
+
+**Required for:** All courses using ESF.
+
+### AI Use Log
+
+A detailed record of your AI interactions during Phase 4 (Make). Tracks what you asked, what AI produced, and what you kept, revised, or rejected. Includes an Intervention Summary table and Prompt Evolution Notes.
+
+**Storage path:** `projects/[course]/ai-use-logs/[project].md`
+**Template:** `templates/ai-use-log-template.md`
+**Required for:** AI 201 and above. Optional but recommended for AI 180.
+
+### Structured Reflection
+
+A guided reflection completed during Phase 5, using the student reflection template. Covers your Position Statement comparison, Five Questions assessment, and honest disclosure.
+
+**Storage path:** `projects/[course]/reflections/[project]-reflection.md`
+**Template:** `templates/student-reflection-template.md`
+**Required for:** All courses using ESF.
+
+### Phase Notes
+
+Capture your thinking at individual phases, especially Phase 1 (Inquire). These notes record your initial understanding before AI entered the process, giving you a baseline to compare against your final work.
+
+**Storage path:** `projects/[course]/phase-notes/[project]-phase1.md`
+**Required for:** All courses using ESF. Phase 1 notes are the most important; additional phase notes are optional.
+
+---
+
 ## Engagement Levels
 
 Your process deepens across the AI curriculum.

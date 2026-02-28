@@ -9,15 +9,17 @@ You are going to use AI. That is not the question.
 
 The question is whether the work you produce with AI is actually yours: whether it reflects your thinking, your judgment, and your developing expertise, or whether it is something you accepted because it sounded good enough to submit.
 
-This is not a question about academic integrity in the traditional sense. You are not being accused of anything. This guide exists because a new problem has emerged that no previous generation of students has faced. AI tools can produce work that is competent, well-organized, and persuasive, and that has nothing to do with what you know, what you believe, or what you are learning to do.
+This is not a question about academic integrity in the traditional sense. You are not being accused of anything.
+This guide exists because you face a new problem that no previous generation of students has faced. AI tools can produce work that is competent, well-organized, and persuasive, and that has nothing to do with what you know, what you believe, or what you are learning to do.
 
 The Epistemic Stewardship Framework (ESF) gives you a process for using AI that keeps the intellectual work yours. Not by restricting what tools you can use, but by structuring *when* and *how* you use them so that your thinking stays at the center.
 
-Here is the core insight: **you must know what you think before the AI tells you what to think.** The student process builds in that sequence. You articulate your understanding, stake out your position, and *then* bring AI into the conversation as a thinking partner. If you skip that sequence, the AI fills the vacuum with plausible content, and you learn to approve rather than to think.
+Here is the core insight: **you must know what you think before the AI tells you what to think.** The student process builds in that sequence. You articulate your understanding, stake out your position, and *then* bring AI into the conversation as a thinking partner.
+If you skip that sequence, the AI fills the vacuum with plausible content, and you learn to approve rather than to think.
 
-This guide introduces a five-phase process (Inquire, Position, Explore, Make, Reflect) and four engagement levels that develop your capacity to work with AI as a genuine intellectual partner. The goal is not less AI use or more AI use. The goal is *better* AI use: the kind where you can defend every claim, explain every choice, and honestly describe what you contributed and what the AI contributed.
+This guide introduces a five-phase process (Inquire, Position, Explore, Make, Reflect) and four engagement levels that develop your capacity to work with AI as an intellectual partner. The goal is not less AI use or more AI use. The goal is *better* AI use: the kind where you can defend every claim, explain every choice, and honestly describe what you contributed and what the AI contributed.
 
-That skill — epistemic stewardship — is what your future employers, collaborators, and audiences will expect from you. Not whether you used AI, but whether you used it well.
+That skill, epistemic stewardship, is what your future employers, collaborators, and audiences will expect from you. Not whether you used AI, but whether you used it well.
 
 ---
 
@@ -32,7 +34,8 @@ This is your process for working with AI on any assignment that matters. It is b
 
 **What you do:** Ask yourself the questions that define the problem. What is the assignment actually asking? What do I already know about this? What assumptions am I making? What do I not understand yet?
 
-**Why this matters:** The Inquire phase forces you to engage with the problem on your own terms before AI offers you its version. If you jump straight to AI, you get the AI's interpretation of the problem, which may be competent but is not yours. Starting with your own questions means the work that follows is grounded in your understanding, not the AI's.
+**Why this matters:** The Inquire phase forces you to engage with the problem on your own terms before AI offers you its version. If you jump straight to AI, you get the AI's interpretation of the problem, which may be competent but is not yours.
+Starting with your own questions means your understanding grounds the work that follows, not the AI's.
 
 **What this looks like in practice:**
 - Close your AI tools. Phase 1 is yours alone, not just conceptually, but practically. Do not open Claude Code, ChatGPT, or any other AI assistant during this phase. AI questions, even Socratic ones, introduce framing before you have formed your own. The goal is your unmediated engagement with the problem.
@@ -41,7 +44,7 @@ This is your process for working with AI on any assignment that matters. It is b
 - Identify what you do not know. What would you need to research, read, or think through before you could take a position?
 - Name your assumptions. What are you taking for granted that might need examination?
 
-**Human Gate:** *Can I explain this problem in my own words?* If you cannot articulate the problem without echoing the assignment prompt, you are not ready to proceed. Stay in Inquire until you can.
+**Human Gate:** *Can I explain this problem in my own words?* If you cannot articulate the problem without echoing the assignment prompt, stay in Inquire until you can.
 
 ---
 
@@ -49,7 +52,8 @@ This is your process for working with AI on any assignment that matters. It is b
 
 **What you do:** State your position, your emphasis, and your non-negotiables, in writing, before AI enters the process.
 
-**Why this matters:** This is where learning happens. The act of committing to a position, even a preliminary one, requires you to synthesize what you discovered in the Inquire phase into a coherent stance. This is the cognitive work that AI cannot do for you, and the cognitive work that education is designed to develop.
+**Why this matters:** This is where learning happens. The act of committing to a position, even a preliminary one, requires you to synthesize what you discovered in the Inquire phase into a coherent stance.
+This is the cognitive work that AI cannot do for you, and the cognitive work that education develops.
 
 The Position phase creates an anchor. When AI produces something different from what you intended in Phase 3, you will notice, because you wrote down what you intended.
 
@@ -75,7 +79,8 @@ Write a **Position Statement** with three elements:
 
 The Position Statement should take 5–10 minutes. Those minutes are where the learning happens. If you find you cannot write it (you do not know what your position is, or you have not read enough to have one), that is the most valuable information the exercise can produce. It tells you to go back to Inquire.
 
-Write the Position Statement offline, without AI assistance. This means not asking an AI tool to help you think through your position, suggest a structure, or prompt you with questions. Even well-intentioned questions from AI will introduce framing that shapes your position before you have formed it on your own. "What should I be thinking about?" is still an AI-shaped position.
+Write the Position Statement offline, without AI assistance. This means not asking an AI tool to help you think through your position, suggest a structure, or prompt you with questions.
+Even well-intentioned AI questions introduce framing before you form your own position. Asking AI "What should I be thinking about?" still yields an AI-shaped position.
 
 **Human Gate:** *Have I written my position before consulting AI?* The position must exist before you open an AI tool on this project, and before you ask AI any process questions about how to write it. This is not a suggestion. It is the mechanism that protects your intellectual ownership of everything that follows.
 
@@ -85,7 +90,8 @@ Write the Position Statement offline, without AI assistance. This means not aski
 
 **What you do:** Now bring AI into the conversation. Use it as a thinking partner: to generate options, challenge your assumptions, surface perspectives you had not considered, and pressure-test your position.
 
-**Why this matters:** This is where AI is genuinely valuable. Not as a drafting machine, but as an intellectual sparring partner. With your Position Statement as an anchor, you can engage AI output critically, evaluating it against what you already decided matters rather than accepting it as the default.
+**Why this matters:** This is where AI is genuinely valuable. Not as a drafting machine, but as an intellectual sparring partner.
+With your Position Statement as an anchor, you can engage AI output critically, measuring it against your stated priorities, not accepting it as the default.
 
 **What this looks like in practice:**
 - Ask AI to generate alternative approaches to the problem. Compare them to your position.
@@ -97,7 +103,7 @@ Write the Position Statement offline, without AI assistance. This means not aski
 **The Five Questions activate here.** From this point forward, apply them at every significant decision:
 
 1. **Can I defend this?** Could I explain this to my instructor without saying "the AI suggested it"?
-2. **Is this mine?** Does this reflect my thinking, or did I accept it because it sounded reasonable?
+2. **Is this mine?** Did I direct this narrative, or did I accept it because it sounded reasonable?
 3. **Did I verify?** Have I checked factual claims, sources, and data independently?
 4. **Would I teach this?** Could I explain my reasoning to a classmate?
 5. **Is my disclosure honest?** Could I accurately describe what I contributed versus what the AI contributed?
@@ -110,7 +116,8 @@ Write the Position Statement offline, without AI assistance. This means not aski
 
 **What you do:** Build the work product. This is the production phase: drafting, designing, coding, composing, constructing. AI assists, guided by your Position Statement and filtered through the Five Questions.
 
-**Why this matters:** Production is where epistemic drift is most likely. The AI generates fluent, well-structured output, and the temptation is to accept it because it sounds good. Your Position Statement is the anchor that prevents this drift. Keep it visible while you work.
+**Why this matters:** Production is where epistemic drift is most likely. The AI generates fluent, well-structured output, and the temptation is to accept it because it sounds good.
+Your Position Statement anchors you against drift. Keep it visible while you work.
 
 **What this looks like in practice:**
 - Draft with AI assistance, checking each significant section against your Position Statement.
@@ -118,7 +125,7 @@ Write the Position Statement offline, without AI assistance. This means not aski
 - Flag moments where you revised, rejected, or substantially reworked AI output. These are your process artifacts.
 - Apply the Five Questions at natural breakpoints: after completing a section, after a major revision, after incorporating new material.
 
-**Human Gate:** *Does this still reflect my position, or did I drift?* Compare the work-in-progress to your Position Statement. If the work has evolved, that may be healthy growth. But if the Position Statement now reads like it was written by someone else — if your original intent has been gradually replaced by the AI's framing — that is drift. It needs to be addressed before you proceed.
+**Human Gate:** *Does this still reflect my position, or did I drift?* Compare the work-in-progress to your Position Statement. If the work has evolved, that may be healthy growth. But if the Position Statement now reads like it was written by someone else, if the AI's framing has gradually replaced your original intent, that is drift. It needs to be addressed before you proceed.
 
 ---
 
@@ -126,7 +133,8 @@ Write the Position Statement offline, without AI assistance. This means not aski
 
 **What you do:** Evaluate the finished work and document the process. What did you keep, revise, and reject from AI? Why? What did you learn?
 
-**Why this matters:** Reflection is where you consolidate learning. Without it, the process produces an artifact but no growth. The Reflect phase asks you to look back at the full trajectory — from your initial inquiry through your position to the final product — and account for what happened along the way.
+**Why this matters:** Reflection is where you consolidate what you learned. Without it, the process produces an artifact but no growth.
+The Reflect phase asks you to look back at the full trajectory, from your initial inquiry through your position to the final product, and account for what happened along the way.
 
 **What this looks like in practice:**
 
@@ -142,7 +150,7 @@ Write the Position Statement offline, without AI assistance. This means not aski
 - What would I do differently next time?
 - Where was I most tempted to accept AI output uncritically, and why? (The honest answer to this question is often the most valuable reflection you can produce.)
 
-**Disclosure:** write an honest account of what you contributed and what the AI contributed. Be specific, not vague. Not "I used AI for help" but "I used AI to generate a first draft of the methodology section, which I then restructured around my Position Statement. The analysis and conclusions are my own."
+**Disclosure:** write an honest account of what you contributed and what the AI contributed. Be specific. Not "I used AI for help" but "I used AI to generate a first draft of the methodology section, which I then restructured around my Position Statement. The analysis and conclusions are my own."
 
 **Human Gate:** *Can I defend every part of this work?* This is the final gate. If someone pointed to any part of your work and asked "why did you do this?", could you answer with your own reasoning? If yes, the work is yours. If not, you know which parts need more of your thinking.
 
@@ -246,7 +254,7 @@ The five-phase process is the same at every level. What changes is how much supp
 
 **What it looks like:** You are a full epistemic steward. You can run the five-phase process across complex, high-stakes projects. You can design gates for your own work and for others'. You can defend your work, articulate your methodology, teach your approach, and critically evaluate AI-assisted work (your own and others').
 
-**What makes this level different:** At Level 4, you are not just following a methodology. You are evaluating, adapting, and contributing to it. The shift from "using the framework" to "critiquing the framework" is the marker of genuine epistemic independence.
+**What makes this level different:** At Level 4, you go beyond following a methodology. You are evaluating, adapting, and contributing to it. The shift from "using the framework" to "critiquing the framework" is the marker of genuine epistemic independence.
 
 ---
 
@@ -271,7 +279,7 @@ Could I explain and justify every part of this work if my instructor, a classmat
 **Red flag:** You cannot explain a claim, a structural choice, or a piece of evidence without referencing what the AI produced.
 
 ### 2. Is this mine?
-Does this reflect my actual thinking — my position, my emphasis, my voice — or did I accept the AI's framing because it sounded reasonable?
+Did I direct this narrative? Does this reflect my actual thinking (my position, my emphasis, my voice) or did I accept the AI's framing because it sounded reasonable?
 
 **Red flag:** You can identify multiple sections that reflect the AI's approach rather than yours, but you kept them because they sounded good.
 
@@ -303,7 +311,7 @@ Option 3 is not a failure. It is an act of intellectual honesty that demonstrate
 
 ## E. Process Artifacts: Tracking Your Thinking
 
-Process artifacts are the visible evidence of your cognitive engagement. They document not just *what* you produced, but *how you thought* through the production.
+Process artifacts are the visible evidence of your thinking. They document not just *what* you produced, but *how you thought* through the production.
 
 ### What to Track
 
@@ -381,11 +389,12 @@ At the end of each project:
 
 ## G. A Note on Academic Integrity
 
-ESF does not replace your institution's academic integrity policy. It works alongside it.
+ESF works alongside your institution's academic integrity policy.
 
 Your institution defines what is and is not permitted. Your instructor may set additional parameters for specific assignments. ESF provides you with the methodology to work *within* whatever boundaries apply, and to do so in a way that serves your learning rather than just your compliance.
 
-The distinction matters. You can comply with every policy and still produce work that does not reflect your thinking. ESF addresses the gap between *following the rules* and *doing the intellectual work*, because in the long run, it is the intellectual work that matters to your development.
+The distinction matters. You can comply with every policy and still produce work that does not reflect your thinking.
+ESF addresses the gap between *following the rules* and *doing the intellectual work*, because the intellectual work matters to your development.
 
 If you are unsure whether a particular use of AI is permitted for an assignment, ask your instructor before submitting. If you used AI in a way that exceeds what was permitted, disclose it. Honest disclosure of a mistake is always better than concealment.
 
@@ -393,7 +402,7 @@ If you are unsure whether a particular use of AI is permitted for an assignment,
 
 ## H. Getting Started
 
-You do not need to master all four engagement levels or all five phases to begin. Start where you are.
+Start where you are.
 
 **If you have never thought about how you use AI:**
 Try the Inquire and Position phases before your next AI-assisted assignment. Spend 10 minutes writing down what the problem is, what you already know, and what your position is. Then use AI as usual. Notice whether having a position changes how you evaluate the output.
@@ -407,7 +416,7 @@ Run the full five-phase process for one assignment. Track your process artifacts
 **If you are already confident in your AI collaboration:**
 Apply the five phases with full rigor to your next high-stakes assignment. Pay particular attention to Phase 5 (Reflect). The patterns in your records of resistance reveal the edges of your practice.
 
-The goal is not perfection. The goal is honest, evolving practice — the kind where you can look at your work and say, with confidence, "this is mine."
+The goal is not perfection. The goal is honest, evolving practice: the kind where you can look at your work and say, with confidence, "this is mine."
 
 ---
 

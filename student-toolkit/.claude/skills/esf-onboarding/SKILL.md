@@ -149,6 +149,10 @@ mkdir -p projects/[course-code]/briefs
 mkdir -p projects/[course-code]/position-statements
 mkdir -p projects/[course-code]/records-of-resistance
 mkdir -p projects/[course-code]/work
+mkdir -p projects/[course-code]/ai-use-logs
+mkdir -p projects/[course-code]/reflections
+mkdir -p projects/[course-code]/gate-records
+mkdir -p projects/[course-code]/phase-notes
 ```
 
 If a current project was named, also create:
@@ -170,7 +174,15 @@ Walk the student through the structure:
 >
 > **`projects/[course]/records-of-resistance/`** — As you work, document moments where you made a deliberate choice about AI output. Your course requires [X per project / none / student-defined].
 >
-> **`projects/[course]/work/`** — Your actual project output lives here."
+> **`projects/[course]/work/`** — Your actual project output lives here.
+>
+> **`projects/[course]/ai-use-logs/`** — Detailed logs of your AI interactions for each project. Required for AI 201 and above; optional but recommended for AI 180.
+>
+> **`projects/[course]/reflections/`** — Structured reflections completed at the end of each project (Phase 5). Uses the template in `templates/student-reflection-template.md`.
+>
+> **`projects/[course]/gate-records/`** — Records of your gate checks at phase transitions. These document your answers to the gate questions as you move between phases.
+>
+> **`projects/[course]/phase-notes/`** — Notes from individual phases, especially Phase 1 (Inquire). Capturing your early thinking here creates a record you can compare against your final work."
 
 Then explain the Phase 1 and 2 rule explicitly:
 

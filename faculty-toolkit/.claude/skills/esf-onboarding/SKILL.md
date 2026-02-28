@@ -163,6 +163,12 @@ Use the Bash tool to create the working directories for each enrolled course:
 ```bash
 mkdir -p courses/[course-code]/briefs
 mkdir -p courses/[course-code]/materials
+mkdir -p courses/[course-code]/directive-memos
+mkdir -p courses/[course-code]/integrity-reports
+mkdir -p courses/[course-code]/gate-records
+mkdir -p documents/directive-memos
+mkdir -p documents/integrity-reports
+mkdir -p documents/gate-records
 ```
 
 If the faculty member provided brief files or pasted brief content, write the brief to the appropriate folder:
@@ -186,6 +192,14 @@ Walk the faculty member through the structure:
 > **`courses/[course]/briefs/`** — Your project briefs live here. The originals are preserved. Any ESF-revised versions from today's review are saved alongside them.
 >
 > **`courses/[course]/materials/`** — Course content you develop with the `curriculum-dev` skill goes here: syllabi, assignment sheets, rubrics, module outlines.
+>
+> **`courses/[course]/directive-memos/`** — Directive Memos you write before each curriculum task are saved here. Named by task (e.g., `syllabus-revision-memo.md`). These are your human-only intellectual anchors; the AI never writes them, and they persist as a record of your intent.
+>
+> **`courses/[course]/integrity-reports/`** — Integrity Reports generated after validating high-weight deliverables. These document the epistemic audit: memo alignment, drift, and Five Questions responses.
+>
+> **`courses/[course]/gate-records/`** — Gate Verification Records for medium-weight deliverables. A lighter-weight audit trail documenting what was kept, revised, or rejected at each phase gate.
+>
+> **`documents/directive-memos/`**, **`documents/integrity-reports/`**, **`documents/gate-records/`** — The same three artifact types for non-course documents (institutional reports, proposals, committee materials). Same naming conventions, same purpose.
 >
 > **The `curriculum-dev` skill** activates when you're building course materials. It will walk you through the ESF workflow: scope, architecture options, then ask for your Directive Memo before drafting begins. If you're refining existing materials rather than building from scratch, the Directive Memo can be brief — just enough to establish what you want to keep, what you want to change, and why.
 >

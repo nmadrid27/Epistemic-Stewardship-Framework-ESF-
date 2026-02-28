@@ -122,6 +122,8 @@ This is shorter and faster — often a paragraph or two. The point is the same: 
 - Simply explain what the memo should contain and wait for the faculty member to provide it
 - Once received, confirm understanding and proceed to Phase 4 guided by the memo
 
+**Artifact storage:** Save the Directive Memo to `courses/[course]/directive-memos/[task]-memo.md` before proceeding to Phase 4. For non-course curriculum work, save to `documents/directive-memos/[task]-memo.md`. This preserves the faculty member's uncontaminated intent as a persistent record.
+
 **Gate — The Ownership Test:**
 - [ ] I wrote this memo without AI assistance
 - [ ] I could explain and defend every choice in this memo to a colleague
@@ -148,6 +150,8 @@ For a syllabus:
 - Flag any point where you are deviating from the memo's stated intent
 - If structural logic suggests something that contradicts the memo, surface the tension — do not silently override
 - Ensure non-negotiables from the memo are present and unaltered
+
+**Keep-revised-rejected tracking:** At each section checkpoint, document what the faculty member kept as-is, revised, or rejected from the AI draft. Record these decisions inline or in a running log. This tracking feeds the gate record in Phase 5 and builds a concrete trail of epistemic engagement.
 
 **Checkpoint cadence:** After completing each major section (not each line), present it for review. Don't wait until the entire document is done — build incrementally.
 
@@ -180,7 +184,9 @@ For a syllabus:
 4. **Would I teach this?** — Am I prepared to stand behind this content in a classroom and respond to student challenges?
 5. **Is the disclosure honest?** — Does my disclosure statement accurately represent the division of intellectual labor?
 
-**Integrity Report:** For substantial deliverables (syllabi, course proposals, accreditation materials), generate an Integrity Report using the template at `templates/integrity-report-template.md`.
+**Integrity Report:** For substantial deliverables (syllabi, course proposals, accreditation materials), generate an Integrity Report using the template at `templates/integrity-report-template.md`. Save to `courses/[course]/integrity-reports/[task]-integrity-report.md`.
+
+**Gate Verification Record:** For medium-weight deliverables that do not require a full Integrity Report, generate a Gate Verification Record summarizing: the Directive Memo reference, keep-revised-rejected decisions from Phase 4, memo drift (if any), and Five Questions responses. Save to `courses/[course]/gate-records/[task]-gate-record.md`.
 
 **Present findings:** Flag weaknesses, gaps, and suggestions. Don't just hand over the document — actively review it with the faculty member.
 

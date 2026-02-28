@@ -9,13 +9,14 @@ This guide is for faculty who use AI in their professional work and want a struc
 
 You may be developing syllabi with AI assistance. Writing grant proposals. Drafting accreditation reports. Designing assessments. Preparing scholarship for publication. Producing committee materials. In each case, you are using AI to accelerate work that requires your expertise, your judgment, and your professional authority. The question this guide addresses is not whether you should use AI. It is how you maintain genuine intellectual ownership of the work AI helps you produce.
 
-This guide does not assume a particular AI tool. It applies whether you use a general-purpose chatbot, a specialized writing assistant, or a multi-agent system. It does not assume a particular discipline. It does not assume a particular institutional context. It was developed from operational practice at an art and design university and generalized for cross-disciplinary use.
+This guide does not assume a particular AI tool. It applies whether you use a general-purpose chatbot, a specialized writing assistant, or a multi-agent system. It does not assume a particular discipline. It does not assume a particular institutional context.
+The author developed it from operational practice at an art and design university and generalized it for cross-disciplinary use.
 
-What it does assume is that you take your role as an intellectual authority seriously: the work you produce under your name should reflect your thinking, your judgment, and your professional position. If that assumption holds, the methodology that follows will help you ensure it remains true as AI becomes a more prominent part of your workflow.
+What it does assume is that you take your role as an intellectual authority seriously: the work you produce under your name should reflect your thinking, your judgment, and your professional position. If that assumption holds, the methodology that follows will help you confirm it remains true as AI becomes a more prominent part of your workflow.
 
 ### Your Two Roles
 
-ESF operates at two levels. At **Level 1**, you are a *content producer* — someone who uses AI to create work that represents your professional authority. This guide addresses that role. The workflow (Scope, Direct, Build, Validate, Disclose) structures your own AI-assisted work so that the output genuinely reflects your intellectual direction.
+ESF operates at two levels. At **Level 1**, you are a *content producer*: someone who uses AI to create work that represents your professional authority. This guide addresses that role. The workflow (Scope, Direct, Build, Validate, Disclose) structures your own AI-assisted work so that the output genuinely reflects your intellectual direction.
 
 At **Level 2**, your students use a different process (Inquire, Position, Explore, Make, Reflect) designed not for production quality but for epistemic development. AI does not enter their process until they have articulated their own understanding and position. Human gates at each transition verify that students are building genuine comprehension, not just accepting AI output.
 
@@ -33,7 +34,7 @@ ESF provides a five-phase workflow for AI-assisted academic work. The workflow s
 SCOPE → DIRECT → BUILD → VALIDATE → DISCLOSE
 ```
 
-Each phase transition includes a **Human Validation Gate** — a checkpoint where you confirm, using the Five Questions, that you remain the intellectual owner of the work. A gate is not a formality. It is the mechanism that prevents the gradual, often invisible transfer of intellectual authority from you to the AI.
+Each phase transition includes a **Human Validation Gate**: a checkpoint where you confirm, using the Five Questions, that you remain the intellectual owner of the work. A gate is not a formality. It is the mechanism that prevents the gradual, often invisible transfer of intellectual authority from you to the AI.
 
 ### Phase 1: Scope
 
@@ -45,7 +46,8 @@ Each phase transition includes a **Human Validation Gate** — a checkpoint wher
 - **Medium weight** → Standard workflow with abbreviated Directive Memo and standard disclosure
 - **Low weight** → Scope → Build → Disclose (attribution footer)
 
-**Common mistake:** Underclassifying weight. A syllabus feels routine until you realize it encodes your pedagogical philosophy, your assessment strategy, and your course's intellectual arc. If the document makes claims on your professional authority, it is at least medium weight.
+**Common mistake:** Underclassifying weight. A syllabus feels routine until you realize it encodes your pedagogical philosophy, your assessment strategy, and your course's intellectual arc.
+Documents that claim your professional authority are at least medium weight.
 
 **Gate:** Before proceeding, confirm: *Do I understand what this task demands of me? Have I assessed the stakes accurately?*
 
@@ -53,7 +55,8 @@ Each phase transition includes a **Human Validation Gate** — a checkpoint wher
 
 **What you do:** Write a Directive Memo.
 
-This is the critical step. Before any AI-assisted drafting begins, you write a short document — entirely without AI — that establishes your intellectual direction:
+This is the critical step. Before any AI-assisted drafting begins,
+you write a short document (entirely without AI) that establishes your intellectual direction:
 
 - **Thesis:** What is this work fundamentally arguing, claiming, or presenting?
 - **Emphasis:** What matters most? What should the audience take away above all else?
@@ -64,11 +67,12 @@ This is the critical step. Before any AI-assisted drafting begins, you write a s
 
 The memo can be brief. A few sentences per field is often sufficient. Its function is not comprehensiveness but *commitment*: forcing you to articulate your position before the AI offers its version.
 
-**Why this matters:** Once an AI generates a fluent, well-structured draft, your own position becomes harder to distinguish from the AI's framing. You may find yourself editing the AI's argument rather than having the AI produce *your* argument. The Directive Memo captures your thinking in its uncontaminated form.
+**Why this matters:** Once an AI generates a fluent, well-structured draft, your own position becomes harder to distinguish from the AI's framing. You may find yourself editing the AI's argument rather than having the AI produce *your* argument.
+The Directive Memo captures your thinking before contamination.
 
 **Common mistake:** Letting the AI help write the memo. The memo is yours. If you find yourself asking the AI to "suggest what I should emphasize," you've already ceded the intellectual direction the memo is designed to protect.
 
-**Gate — the Ownership Test:**
+**Gate (the Ownership Test):**
 - [ ] I wrote this without AI assistance
 - [ ] I can defend every choice to a colleague
 - [ ] This reflects my genuine position, not a synthesis of what sources suggested
@@ -81,7 +85,7 @@ The memo can be brief. A few sentences per field is often sufficient. Its functi
 This is where AI contributes most: drafting, structuring, iterating, formatting. Your role is direction and evaluation, not drafting from scratch. At natural breakpoints, apply the Five Questions:
 
 1. **Can I defend this?** Could I explain every claim without referencing the AI's reasoning?
-2. **Is this mine?** Does this reflect my position, or did I accept the AI's framing because it sounded reasonable?
+2. **Is this mine?** Does this reflect my position, or did I accept the AI's framing because it sounded reasonable? In AI-assisted work, "mine" does not require that every sentence originated with you. It means you exercised *design authority*: you directed the conditions under which the work was produced, you shaped its intellectual trajectory, and you can account for why it says what it says (Schonewille, 2025; Verbeek, 2008, via Chen, 2025). The sharper test: did the AI perform the interpretive judgment through which your professional knowledge develops (Lindebaum et al., 2025/26)? If so, you have ceded something more important than authorship.
 3. **Did I verify?** Have I confirmed factual claims, citations, and data independently?
 4. **Would I teach this?** Am I prepared to stand behind this in a classroom, committee, or review?
 5. **Is the disclosure honest?** Does my planned disclosure accurately describe the division of labor?
@@ -116,7 +120,10 @@ Disclosure is matched to document type:
 - **Institutional reports:** Methodology note confirming AI-assisted drafting with human-directed findings
 - **Administrative materials:** Attribution footer identifying AI tool and review status
 
-Disclosure is not an admission. It is a professional practice — the same transparency you would expect of a colleague.
+Disclosure is not an admission. It is a professional practice, the same transparency you would expect of a colleague. Two forms of disclosure exist:
+- *compliance disclosure* (perfunctory statements that AI was used, designed to satisfy policy)
+- *epistemic disclosure* (substantive accounts of the intellectual division of labor, designed to preserve accountability).
+Schade (2023) warns that mandated transparency can produce "organized immaturity" when it becomes ritualistic box-ticking. Kahl (2025) frames honest disclosure as a fiduciary act of candour, not reputation management. The fifth question ("Is the disclosure honest?") is your guard against the first becoming the second.
 
 **Gate (final):** Apply the Five Questions one last time. Confirm the disclosure is honest. Release.
 
@@ -167,7 +174,7 @@ The weight belongs to the content, not the format.
 
 ## D. Worked Examples
 
-The following walkthroughs demonstrate the ESF workflow applied to faculty tasks within the Applied AI program. ESF was developed from operational practice in this context; these examples reflect tested application. ESF's constructs are designed to apply across disciplines and institutional contexts, but cross-disciplinary application has not yet been validated. Faculty in other programs should treat the framework as a starting point requiring adaptation, not a tested implementation guide for their context.
+The following walkthroughs demonstrate the ESF workflow applied to faculty tasks within the Applied AI program. ESF was developed from operational practice in this context; these examples reflect tested application. ESF's constructs apply across disciplines and institutional contexts, but no one has yet validated cross-disciplinary application. Faculty in other programs should treat the framework as a starting point requiring adaptation, not a tested implementation guide for their context.
 
 Each example shows all five phases of the Level 1 workflow.
 
@@ -224,21 +231,21 @@ Each example shows all five phases of the Level 1 workflow.
 
 ### Reference: Applied AI Program; Full Curriculum Development
 
-ESF was developed from operational practice in curriculum development at an art and design university. In this context, the workflow was applied to building AI-integrated creative curricula where students produce portfolio artifacts (interactive installations, generative art, design systems) rather than written analysis. The discipline-specific adaptation included:
+ESF was developed from operational practice in curriculum development at an art and design university. In this context, the author applied the workflow to building AI-integrated creative curricula where students produce portfolio artifacts (interactive installations, generative art, design systems) rather than written analysis. The discipline-specific adaptation included:
 - Directive Memos specifying studio culture framing, portfolio-artifact requirements, and creative computing media (student-selected tools and environments)
 - Content Epistemic Weight calibrated to creative pedagogy: learning outcomes and conceptual arcs are high-weight; weekly studio schedules are low-weight
 - The Five Questions adapted for creative contexts: "Would I teach this?" means "would I stand behind this in a studio critique?"
 - A multi-agent coordination model for full course design (one workflow implementation; ESF does not prescribe any specific tooling or agent infrastructure)
 
-This reference case demonstrates ESF's adaptability to disciplines where "intellectual ownership" means creative and pedagogical authority, not just textual authorship. The framework's constructs translate across contexts because they address the *relationship* between the human and the work, not the *content* of the work. ESF is tool-agnostic: it applies whether you use a general-purpose chatbot, a specialized assistant, or a multi-agent system.
+This reference case demonstrates ESF's adaptability to disciplines where "intellectual ownership" means creative and pedagogical authority, not just textual authorship. The framework's constructs translate across contexts because they address the *relationship* between the human and the work, not the *content* of the work.
 
 ---
 
-### History — Redesigning a Module
+### History: Redesigning a Module
 
 **Context:** A history professor redesigning a three-week module on primary source analysis.
 
-**Phase 1 (Scope):** Medium weight — a module within an existing course, not a new course proposal.
+**Phase 1 (Scope):** Medium weight: a module within an existing course, not a new course proposal.
 
 **Phase 2 (Direct):** Abbreviated memo: *"Primary sources are not self-evident. Emphasis: contextualization and perspective-taking. Non-negotiable: at least one source must be non-textual."*
 
@@ -248,11 +255,11 @@ This reference case demonstrates ESF's adaptability to disciplines where "intell
 
 ---
 
-### Business — Creating a Case Study
+### Business: Creating a Case Study
 
 **Context:** A management professor developing an original case study for an MBA operations course.
 
-**Phase 1 (Scope):** High weight — an original case study embeds the professor's analytical framework and will be attributed to her.
+**Phase 1 (Scope):** High weight: an original case study embeds the professor's analytical framework and will be attributed to her.
 
 **Phase 2 (Direct):** Full memo: *"Supply chain resilience is not the same as redundancy. The case must demonstrate adaptive capacity, not backup logistics. Emphasis: decision-making under uncertainty with no obviously correct answer. Non-negotiable: based on a disguised real scenario; the ethical dimension (impact on workers) must be embedded in the strategic decision, not treated as a sidebar."*
 
@@ -262,32 +269,7 @@ This reference case demonstrates ESF's adaptability to disciplines where "intell
 
 ---
 
-## E. Common Pitfalls
-
-### 1. "I'll Write the Memo After"
-Writing the Directive Memo after AI-assisted drafting defeats its purpose. The memo captures your position *before* the AI's output exists to influence it. If you write the memo after seeing the AI's draft, you may unconsciously adopt the AI's framing as your own.
-
-### 2. "The AI Basically Got It Right"
-This is the most common and most dangerous pitfall. AI output that is 90% aligned with your position feels like it doesn't need correction. But the 10% that diverges — a subtle shift in emphasis, a framing choice you wouldn't have made — accumulates across a document. "Basically right" is how epistemic drift begins.
-
-### 3. "This Is Just a Low-Stakes Document"
-Misclassifying Content Epistemic Weight is the gateway to skipping the workflow for content that actually requires it. When in doubt, classify higher.
-
-### 4. "I Don't Need a Gate for This Section"
-Skipping gates between sections allows drift to compound. A small framing shift in Section 2 becomes the foundation for a larger departure in Section 5.
-
-### 5. "The Disclosure Is a Formality"
-If you write your disclosure by copying a template without evaluating whether it accurately describes *this specific* collaboration, the disclosure is performative. The fifth question requires you to actually assess the division of labor.
-
-### 6. "My Students Don't Need to Know About My Process"
-Faculty who use AI without transparency create a credibility gap when they require transparency from students. When you model ESF in your own practice, you provide students with evidence that the epistemic discipline you require of them is a professional practice, not a classroom exercise.
-
-### 7. "I've Been Doing This Long Enough to Skip Steps"
-Experience with AI does not reduce the need for structured oversight. As AI-assisted work becomes routine, depth of critical engagement tends to decrease. Structured oversight becomes more important, not less.
-
----
-
-## F. Templates and Quick References
+## E. Templates and Quick References
 
 ### Quick Reference: The Five Questions
 
@@ -307,11 +289,11 @@ Experience with AI does not reduce the need for structured oversight. As AI-assi
 | **Medium** | Standard workflow + abbreviated memo + disclosure | Syllabi, assignments, rubrics, lectures, committee reports |
 | **Low** | Scope → Build → attribution footer | Schedules, agendas, resource lists, formatting, admin emails |
 
-### Template Locations
+---
 
 ## F. Common Pitfalls
 
-These anti-patterns have been observed in practice. Each represents a way the ESF workflow can fail, not through deliberate violation but through the natural path of least resistance.
+These anti-patterns come from practice. Each represents a way the ESF workflow can fail, not through deliberate violation but through the natural path of least resistance.
 
 ### 1. "I'll Write the Memo After"
 
@@ -337,11 +319,12 @@ If you write your disclosure statement by copying a template without evaluating 
 
 Faculty who use AI in their own work without transparency create a credibility gap when they require transparency from students. ESF's two-level architecture makes this explicit: Level 1 (your production work) and Level 2 (your students' epistemic development) are structurally connected.
 
-When you model ESF in your own practice, disclosing your AI use and demonstrating the Directive Memo process, you provide students with evidence that the epistemic discipline you require of them is a professional practice, not a classroom exercise. If you skip Level 1 discipline while enforcing Level 2 discipline, students will notice the asymmetry.
+When you model ESF in your own practice by disclosing AI use and showing the Directive Memo process, you provide students with evidence that the epistemic discipline you require of them is a professional practice, not a classroom exercise. If you skip Level 1 discipline while enforcing Level 2 discipline, students will notice the asymmetry.
 
 ### 7. "I've Been Doing This Long Enough to Skip Steps"
 
-Experience with AI does not reduce the need for structured oversight. Atchley et al. (2024) argue that AI, as an external representation tool, reduces information processing demands: a benefit with a corresponding cost: diminished cognitive engagement with the work's substance. This is the cognitive automation concern: as AI-assisted work becomes routine, the depth of critical engagement tends to decrease. The Five Questions and gates are designed to counteract this. Structured oversight becomes more important, not less, as AI use becomes routine.
+Experience with AI does not reduce the need for structured oversight. Atchley et al. (2024) argue that AI, as an external representation tool, reduces information processing demands: a benefit with a corresponding cost: diminished cognitive engagement with the work's substance. This is the cognitive automation concern: as AI-assisted work becomes routine,
+the depth of critical engagement decreases. The Five Questions and gates counteract this. Structured oversight becomes more important, not less, as AI use becomes routine.
 
 ---
 
@@ -371,11 +354,12 @@ AI does not enter until Phase 3 (Explore). Phases 1 and 2 are human-only. Studen
 
 **Sequence deliverables around phases:**
 - Checkpoint 1 (Inquire + Position): Problem statement and Position Statement, no AI
-- Checkpoint 2 (Explore): AI interaction log — what was queried, what was returned, student's assessment
+- Checkpoint 2 (Explore): AI interaction log: what was queried, what was returned, student's assessment
 - Checkpoint 3 (Make): Draft with annotations marking AI-contributed vs. human-originated content
 - Final (Reflect): Completed work with reflection on what was kept, revised, and rejected
 
-**Build gates into rubrics.** Reward the quality of epistemic engagement, not just the quality of the final product. A student who produces excellent work but cannot explain their process has not demonstrated epistemic agency.
+**Build gates into rubrics.** Reward the quality of epistemic engagement, not just the quality of the final product.
+A student who produces excellent work but cannot explain their process has demonstrated compliance, not epistemic agency.
 
 **Scaffold gate complexity by level.** Not all students need the same gate rigor from the start:
 - Introductory courses: Instructor provides the gates. Students practice with guided Socratic prompts.
@@ -403,7 +387,7 @@ AI does not enter until Phase 3 (Explore). Phases 1 and 2 are human-only. Studen
 
 When you design an assignment using ESF Level 1, and that assignment scaffolds students through ESF Level 2, you are practicing what you preach. The Directive Memo you write for the assignment's design captures your pedagogical intent. The student process you embed in the assignment ensures students develop the same epistemic discipline you exercised in creating it.
 
-This is not incidental. It is the architecture working as designed.
+This is not incidental. It is the architecture doing what it was built to do.
 
 ---
 
