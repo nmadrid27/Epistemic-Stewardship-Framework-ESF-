@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use the Epistemic Stewardship Framework, please cite it as below."
+type: software
+title: "Epistemic Stewardship Framework (ESF)"
+abstract: >-
+  A structured method for maintaining intellectual ownership in AI-assisted
+  academic work. Two-level architecture: Level 1 (Content Production) for
+  faculty, Level 2 (Epistemic Development) for students. Seven core constructs
+  including Directive Memo, Five Questions, Content Epistemic Weight, Human
+  Validation Gates, Phased Workflow, Disclosure Protocol, and Framework
+  Evolution Protocol.
+authors:
+  - family-names: Madrid
+    given-names: Nathan
+    orcid: ""
+version: "3.1"
+date-released: "2026-02-20"
+license: CC-BY-4.0
+repository-code: "https://github.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-"
+keywords:
+  - epistemic stewardship
+  - AI-assisted writing
+  - academic integrity
+  - intellectual ownership
+  - higher education
+  - faculty toolkit
+  - student toolkit

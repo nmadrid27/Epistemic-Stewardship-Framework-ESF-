@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# User project content — created by onboarding, yours to manage
+# (These paths are gitignored in the template so forks start clean)
+projects/
+!sample/projects/
+!sample/projects/**
+
+# Environment files
+.env
+.env.local
