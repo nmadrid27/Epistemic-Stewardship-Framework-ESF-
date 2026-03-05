@@ -20,6 +20,8 @@ date: 2026-03-02
 
 This course takes a [**graduated / permissive / restrictive**] approach to AI use. The goal is not to police AI tools but to help you develop the judgment to use them in ways that preserve the intellectual integrity of your work.
 
+Your role in this course is **Art Director and Orchestrator.** As Art Director, you define the creative direction, set the constraints, and evaluate all AI output against your own intent. As Orchestrator, you decide what each AI capability does, how components connect, and what the whole work means. AI is your engineering team. The work is yours.
+
 *[Customize this paragraph to reflect your discipline, your course goals, and your professional stance on AI. The following sections provide a structure; adapt the content to your context.]*
 
 ---
@@ -46,6 +48,8 @@ When you use AI for any of the following, include a brief disclosure statement w
 -
 -
 -
+
+**For code-based work:** Annotated Git commit messages qualify as process documentation when they describe both the action and the reasoning ("Reverted AI-generated layout; spacing conflicted with my design intent"). These entries count toward your AI Direction Log requirements.
 
 **Disclosure format:** At the end of your submission, include a short paragraph describing what AI tool you used, what you used it for, and what you contributed that the AI did not. Honesty matters more than format.
 

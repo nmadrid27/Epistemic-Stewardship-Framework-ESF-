@@ -165,6 +165,26 @@ If any answer is **no**, revise, reduce AI contribution, or disclose accurately.
 
 ---
 
+## Student Posture: Art Director and Orchestrator
+
+For technical and creative computing projects, the Level 2 process has two complementary postures.
+
+**Art Director** describes the creative authority relationship: the student defines the vision, sets the aesthetic and conceptual direction, and evaluates all AI output against that vision. AI is the creative material, not the decision-maker.
+
+**Orchestrator** describes the technical coordination relationship: the student decides what each AI capability does, how components communicate, and what the whole system means. AI is the engineering team. The student decides the architecture.
+
+Students in AI 201 use both. Students in AI 301 formalize the orchestrator role as the core of agentic design. Naming both postures in AI 180 and AI 201 prepares students for that transition.
+
+## Working Across Sessions
+
+For projects that span multiple AI sessions, students should briefly re-establish their Position Statement and key decisions at the start of each session. This is not repetitive; it is how the student retains ownership of the project's memory.
+
+What the student chooses to re-establish tells them what the highest-weight decisions are: the ones only they can hold. This is a practical application of Content Epistemic Weight at the student level.
+
+**A process blog prompt that works well here:** "What did you need to re-establish with AI at the start of this session, and what does that tell you about who is holding the project's creative memory?"
+
+---
+
 ## Artifact Storage Reference
 
 The toolkit saves three types of process artifacts to named paths so they persist across sessions and serve as an audit trail.

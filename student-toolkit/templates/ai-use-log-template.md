@@ -29,6 +29,10 @@ status: complete
 
 *Record each significant AI interaction. You do not need to log every single prompt. Focus on the interactions that shaped your final work.*
 
+*For code-based projects: annotated Git commits can substitute for or supplement individual interaction entries. A commit message that captures both the action and the reasoning ("Reverted AI-generated grid layout; spacing conflicted with my Design Intent") qualifies as a log entry. Reference these commits in the Intervention Summary.*
+
+*For multi-session projects: note what context you re-established with AI at the start of each session. What you choose to re-introduce tells you what your highest-weight decisions are.*
+
 ### Interaction 1
 
 **Date/time:**

@@ -68,6 +68,8 @@ Your Position Statement is the most important thing you write before starting a 
 
 Takes 5 to 10 minutes. Rough outlines and bullet points are fine. Those minutes are where the learning happens. AI cleans up readability at the start of Phase 3.
 
+**For technical or creative computing projects:** Include a sketch or diagram showing how your system is intended to work: what receives input, how it processes, and what it outputs. A physical drawing, a digital wireframe, or a Mermaid diagram in your project repository all qualify. This becomes the visual anchor for your intent before you build.
+
 ---
 
 ## Records of Resistance
@@ -83,6 +85,16 @@ Because: [your reasoning, referencing your Position Statement]
 ```
 
 These are not busywork. They are proof you were directing the process, not following it.
+
+**For code-based projects:** Annotated Git commits qualify as Records of Resistance. A commit message that describes both the action and the reasoning ("Reverted AI-generated layout; spacing conflicted with my Position Statement") documents the same editorial judgment as the format above.
+
+---
+
+## Multi-Session Work
+
+Long or complex projects often span multiple AI sessions. At the start of each new session, briefly re-establish your Position Statement and the key decisions you made in the previous session. What you choose to re-establish tells you what your highest-weight decisions are: the ones only you can hold across time.
+
+Keep a running note of what you re-introduce to AI at each session start. At the end of the project, that note is evidence of what stayed yours throughout.
 
 ---
 
