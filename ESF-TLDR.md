@@ -1,5 +1,6 @@
 ---
 title: "ESF; TLDR for Reviewers"
+author: Nathan Madrid
 date: 2026-03-02
 version: "1.0"
 status: complete
@@ -30,13 +31,13 @@ Three specific failures:
 
 ESF was not derived from a literature review. It was built from practice.
 
-The author developed the framework's core constructs (the Directive Memo, the Five Questions, Content Epistemic Weight, Human Validation Gates, and the phased workflow model) at an art and design university. Built through operational practice integrating AI into curriculum development, assessment design, and institutional work. Refined through daily use across multiple courses and administrative contexts before formalizing it as a framework or positioning it against the scholarly literature.
+Nathan Madrid developed the framework's core constructs (the Directive Memo, the Five Questions, Content Epistemic Weight, Human Validation Gates, and the phased workflow model) at an art and design university. He built them through operational practice integrating AI into curriculum development, assessment design, and institutional work. He refined the method through daily use across multiple courses and administrative contexts before formalizing it as a framework or positioning it against the scholarly literature.
 
-The literature review was conducted (35 sources across 8 research areas) after the constructs existed. It serves two purposes: confirming that the constructs address real, documented problems in the field, and identifying where the constructs fill gaps that existing frameworks leave open. The scholarship validates and grounds the framework. It does not originate it.
+Nathan conducted the literature review (35 sources across 8 research areas) after the constructs existed. It serves two purposes: confirming that the constructs address real, documented problems in the field, and identifying where the constructs fill gaps that existing frameworks leave open. The scholarship validates and grounds the framework. It does not originate it.
 
-This distinction matters. ESF's constructs are practitioner-tested, not theoretically derived. The Directive Memo exists because the author found that without one, AI-assisted drafts drifted from his intent in ways that were difficult to detect after the fact. The Five Questions exist because open-ended review proved insufficient that general "review your work" advice was insufficient. Specific, answerable questions at specific points in the workflow caught issues that open-ended reflection missed. The two-level architecture exists because a single process model failed. Applying it to both his professional work and his students' learning exposed a mismatch.
+This distinction matters. ESF's constructs are practitioner-tested, not theoretically derived. The Directive Memo exists because Nathan found that without one, AI-assisted drafts drifted from his intent in ways that were difficult to detect after the fact. The Five Questions exist because he found that general "review your work" advice was insufficient. Specific, answerable questions at specific points in the workflow caught issues that open-ended reflection missed. The two-level architecture exists because a single process model failed. Applying it to both his professional work and his students' learning exposed a mismatch.
 
-Every architectural decision in ESF traces back to a problem the author encountered and solved in practice. The scholarly grounding confirms these solutions are not idiosyncratic; they address challenges documented across the field. But the solutions came first.
+Every architectural decision in ESF traces back to a problem Nathan encountered and solved in practice. The scholarly grounding confirms these solutions are not idiosyncratic; they address challenges documented across the field. But the solutions came first.
 
 ---
 
@@ -77,7 +78,7 @@ At every checkpoint, the person asks:
 | Question | What It Tests |
 |----------|--------------|
 | **Can I defend this?** | Could I explain this without referencing what the AI said? |
-| **Is this mine?** | Is this my thinking, or did I just accept what sounded good? |
+| **Is this mine?** | Did I direct this, or did I accept the AI's framing because it sounded reasonable? (design authority test) |
 | **Did I verify?** | Did I independently check facts, sources, and claims? |
 | **Would I teach this?** | Could I stand behind this in front of colleagues or students? |
 | **Is the disclosure honest?** | Does my statement about AI use accurately describe what happened? |
@@ -145,3 +146,10 @@ For the full argument, see the Self-Application Evidence document.
 ESF is grounded in 35 verified sources across 8 research areas, including epistemic agency theory (your right to control your own thinking), metacognition research, scaffolded learning, and iterative design methods. Full citations in the Literature Review.
 
 ---
+
+> **AI Disclosure:** Nathan Madrid developed this overview through human-AI collaboration. He established the framework's constructs, arguments, and architecture from his operational practice. AI assisted with organizing and drafting this summary from the full ESF Framework Document and supporting deliverables. All intellectual claims, the tool-agnostic rationale, and the practice-first provenance narrative reflect the author's position and experience. Nathan verified the scholarly sources cited to the standards documented in the ESF Research Summary.
+
+---
+
+*Epistemic Stewardship Framework | Nathan Madrid | 2026*
+*Developed from operational practice in higher education*

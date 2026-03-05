@@ -160,6 +160,18 @@ The same ESF process applies. The difference is that you paste context manually 
 
 ---
 
+## Why This Matters Beyond the Classroom
+
+The practices ESF builds are the same practices creative professionals use every day.
+
+- **Position Statement = portfolio evidence of creative direction.** In a studio or agency, you pitch before you produce. A Position Statement is a creative brief you write for yourself. It proves you can define intent, set constraints, and direct a process. That is what hiring managers and creative directors look for.
+- **Records of Resistance = demonstrable creative judgment.** Every working creative rejects ideas that do not serve the project, including their own. Your Records of Resistance document that editorial instinct in action. They show you can evaluate output critically, not just generate it.
+- **Five Questions = professional practice.** "Can I defend this?" is the question every designer, illustrator, and creative technologist answers in client reviews, critiques, and portfolio presentations. Practicing it now means it is second nature when the stakes are real.
+
+Your ESF portfolio is not just coursework. It is a documented record of how you think, decide, and direct creative work with AI. That record travels with you after graduation.
+
+---
+
 ## Questions
 
 Ask your instructor if something isn't working. The ESF Student Guide is in `.claude/reference/esf-student-guide.md` if you want to understand the method behind the process.

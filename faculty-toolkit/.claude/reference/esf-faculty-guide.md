@@ -81,7 +81,7 @@ The memo can be brief. A few sentences per field is often sufficient. Its functi
 This is where AI contributes most: drafting, structuring, iterating, formatting. Your role is direction and evaluation, not drafting from scratch. At natural breakpoints, apply the Five Questions:
 
 1. **Can I defend this?** Could I explain every claim without referencing the AI's reasoning?
-2. **Is this mine?** Did I direct this narrative, or did I accept the AI's framing because it sounded reasonable?
+2. **Is this mine?** Did I direct this narrative, or did I passively accept the AI's framing because it sounded reasonable? "Mine" does not require that every sentence originated with you. It means you exercised design authority: you directed the conditions under which the work was produced and can account for why it says what it says (Schonewille, 2025; Verbeek, 2008, via Chen, 2025). The sharper test: did the AI perform the interpretive judgment through which your professional knowledge develops (Lindebaum et al., 2025)? If so, you have ceded something more important than authorship.
 3. **Did I verify?** Have I confirmed factual claims, citations, and data independently?
 4. **Would I teach this?** Am I prepared to stand behind this in a classroom, committee, or review?
 5. **Is the disclosure honest?** Does my planned disclosure accurately describe the division of labor?
@@ -241,7 +241,7 @@ Experience with AI does not reduce the need for structured oversight. As AI-assi
 | # | Question | Tests For |
 |---|----------|-----------|
 | 1 | **Can I defend this?** | Genuine understanding vs. surface familiarity |
-| 2 | **Is this mine?** | Active position vs. passive acceptance |
+| 2 | **Is this mine?** | Did I direct this, or accept AI's framing? (design authority test) |
 | 3 | **Did I verify?** | Independent confirmation vs. assumed accuracy |
 | 4 | **Would I teach this?** | Deep endorsement vs. shallow approval |
 | 5 | **Is the disclosure honest?** | Transparent accountability vs. performative compliance |
@@ -320,3 +320,4 @@ This is not incidental. It is the architecture working as designed.
 ---
 
 *Epistemic Stewardship Framework: Faculty Implementation Guide*
+*Nathan Madrid | Version 2.0*

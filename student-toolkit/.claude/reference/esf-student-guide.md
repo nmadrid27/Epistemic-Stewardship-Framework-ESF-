@@ -107,7 +107,7 @@ With your Position Statement as an anchor, you can engage AI output critically, 
 **The Five Questions activate here.** From this point forward, apply them at every significant decision:
 
 1. **Can I defend this?** Could I explain this to my instructor without saying "the AI suggested it"?
-2. **Is this mine?** Did I direct this narrative, or did I accept it because it sounded reasonable?
+2. **Is this mine?** Did I direct this, or did I accept the AI's framing because it sounded reasonable? "Mine" means you exercised design authority, not that you wrote every word. The test: did the AI perform the judgment through which your professional knowledge develops? If so, you have given up more than authorship.
 3. **Did I verify?** Have I checked factual claims, sources, and data independently?
 4. **Would I teach this?** Could I explain my reasoning to a classmate?
 5. **Is my disclosure honest?** Could I accurately describe what I contributed versus what the AI contributed?
@@ -285,7 +285,7 @@ Could I explain and justify every part of this work if my instructor, a classmat
 **Red flag:** You cannot explain a claim, a structural choice, or a piece of evidence without referencing what the AI produced.
 
 ### 2. Is this mine?
-Did I direct this narrative? Does this reflect my actual thinking (my position, my emphasis, my voice) or did I accept the AI's framing because it sounded reasonable?
+Did I direct this, or did I accept the AI's framing because it sounded reasonable? "Mine" means you exercised design authority, not that you wrote every word. The test: did the AI perform the judgment through which your professional knowledge develops? If so, you have given up more than authorship.
 
 **Red flag:** You can identify multiple sections that reflect the AI's approach rather than yours, but you kept them because they sounded good.
 
@@ -425,3 +425,11 @@ Apply the five phases with full rigor to your next high-stakes assignment. Pay p
 The goal is not perfection. The goal is honest, evolving practice: the kind where you can look at your work and say, with confidence, "this is mine."
 
 ---
+
+> **AI Collaboration Disclosure:** This student guide was developed through human-AI collaboration. The two-level architecture, the student process model (Inquire, Position, Explore, Make, Reflect), and the integration of design thinking with Socratic human gates were designed by the author based on the ESF Framework Document and supported by research from multiple scholarly traditions (Hutson, 2025; Washington OSPI, 2024; Pasmala et al., 2026; Degen & Asanov, 2025; Favero et al., 2024; Naeem, 2025; Plate & Hutson, 2025). AI assisted with structural organization, prose drafting, and the construction of discipline-specific examples. All pedagogical judgments, the developmental progression model, the gate design, and claims about effective student practice reflect the author's professional assessment. This document follows the ESF protocol it describes.
+
+---
+
+*Version 2.0-draft | 2026-02-19*
+*Epistemic Stewardship Framework; Student Implementation Guide*
+*Nathan Madrid*

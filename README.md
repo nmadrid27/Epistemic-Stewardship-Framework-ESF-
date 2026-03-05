@@ -1,8 +1,5 @@
 # Epistemic Stewardship Framework (ESF)
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Version](https://img.shields.io/badge/version-3.1-blue.svg)](CHANGELOG.md)
-
 A structured method for maintaining intellectual ownership in AI-assisted academic work. Designed for faculty who produce academic content with AI assistance and for students who engage with AI as a cognitive partner in their coursework.
 
 ---
@@ -31,7 +28,7 @@ A five-phase workflow (Scope → Direct → Build → Validate → Disclose) tha
 **Level 2: Student Epistemic Development**
 A five-phase workflow (Inquire → Position → Explore → Make → Reflect) that sequences student thinking before AI engagement. AI does not enter until a student has written a Position Statement, a record of their own understanding and position, without AI assistance.
 
-Both levels use the same Five Questions at every human gate: *Can I defend this? Is this mine? Did I verify? Would I teach this? Is my disclosure honest?*
+Both levels use the same Five Questions at every human gate: *Can I defend this? Is this mine? (Did I direct this, or accept the AI's framing?) Did I verify? Would I teach this? Is my disclosure honest?*
 
 ---
 
@@ -86,9 +83,8 @@ The toolkit configures Claude Code with the Level 1 workflow, curriculum develop
 │   ├── ESF-Novel-Contributions.md
 │   ├── ESF-Executive-Summary.md
 │   ├── ESF-Research-Summary.md
+│   ├── ESF-Self-Application-Evidence.md
 │   └── ESF-Two-Level-Architecture.md
-├── examples/                   Worked examples
-│   └── sample-directive-memo.md
 ├── implementation-guide/       Practitioner guides and templates
 │   ├── ESF-Faculty-Guide.md
 │   ├── ESF-Student-Guide.md
@@ -122,29 +118,5 @@ The install scripts support a straightforward URL swap for this transition. See 
 
 ---
 
-## Citation
-
-If you use or reference the Epistemic Stewardship Framework, please cite:
-
-```
-Madrid, N. (2026). Epistemic Stewardship Framework (ESF) (Version 3.1) [Computer software].
-https://github.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-
-```
-
-See [CITATION.cff](CITATION.cff) for machine-readable citation data.
-
----
-
-## Contributing
-
-Contributions, adaptations, and feedback are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) for community standards.
-
----
-
-## License
-
-This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE).
-
----
-
 *Epistemic Stewardship Framework*
+*Nathan Madrid*

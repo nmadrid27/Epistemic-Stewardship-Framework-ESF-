@@ -157,7 +157,7 @@ Build the actual project output together. The Position Statement is your north s
 **Five Questions: present at the end of each major section:**
 
 1. **Can I defend this?** Can I explain every part of this work?
-2. **Is this mine?** Does this reflect my thinking, or did I follow AI's direction?
+2. **Is this mine?** Did I direct this, or did I accept the AI's framing because it sounded reasonable? "Mine" means you exercised design authority, not that you wrote every word. The test: did the AI perform the judgment through which your professional knowledge develops? If so, you have given up more than authorship.
 3. **Did I verify?** Have I checked the parts that matter, not just trusted they work?
 4. **Would I teach this?** Do I understand this well enough to explain it to someone else?
 5. **Is my disclosure honest?** Does my AI Use Log accurately describe what I did and what AI did?

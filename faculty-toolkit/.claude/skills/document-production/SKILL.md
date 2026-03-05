@@ -119,7 +119,7 @@ For medium-weight documents, generate a Gate Verification Record (Directive Memo
 
 **The Five Questions:** apply before finalizing any high- or medium-weight document:
 1. **Can I defend this?** Could I explain every claim to a colleague without referencing the AI's reasoning?
-2. **Is this mine?** Did I direct this narrative, or did I accept AI framing because it sounded reasonable?
+2. **Is this mine?** Did I direct this, or did I accept the AI's framing because it sounded reasonable? "Mine" means you exercised design authority, not that you wrote every word. The test: did the AI perform the judgment through which your professional knowledge develops? If so, you have given up more than authorship.
 3. **Did I verify?** Have I independently confirmed factual claims, citations, and data?
 4. **Would I teach this?** Am I prepared to stand behind this in committee, review, or public presentation?
 5. **Is the disclosure honest?** Does my disclosure accurately represent the division of intellectual labor?

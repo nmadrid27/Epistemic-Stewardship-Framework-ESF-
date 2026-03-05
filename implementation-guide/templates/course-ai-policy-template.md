@@ -21,6 +21,8 @@ date: 2026-03-02
 This course takes a [**graduated / permissive / restrictive**] approach to AI use.
 The goal is to help you develop the judgment to use AI tools in ways that preserve the intellectual integrity of your work.
 
+Your role in this course is **Art Director and Orchestrator.** As Art Director, you define the creative direction, set the constraints, and evaluate all AI output against your own intent. As Orchestrator, you decide what each AI capability does, how components connect, and what the whole work means. AI is your engineering team. The work is yours.
+
 *[Customize this paragraph to reflect your discipline, your course goals, and your professional stance on AI. The following sections provide a structure; adapt the content to your context.]*
 
 ---
@@ -96,7 +98,7 @@ I share this not because you need to follow my exact process, but because I beli
 When you use AI in your work for this course, ask yourself:
 
 1. **Can I defend this?** Could I explain and justify every part of my submission if asked, without saying "the AI suggested it"?
-2. **Is this mine?** Did I direct this narrative, or did I accept the AI's framing because it sounded good?
+2. **Is this mine?** Did I direct this, or did I accept the AI's framing because it sounded reasonable? "Mine" means you exercised design authority, not that you wrote every word. The test: did the AI perform the judgment through which your professional knowledge develops? If so, you have given up more than authorship.
 3. **Did I verify?** Have I checked factual claims, sources, and data independently?
 4. **Would I teach this?** Could I explain my process and reasoning to a classmate?
 5. **Is my disclosure honest?** Does my disclosure accurately describe how I used AI and what I contributed?

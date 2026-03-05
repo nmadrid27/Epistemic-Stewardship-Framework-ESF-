@@ -1,5 +1,6 @@
 ---
 title: "Epistemic Stewardship Framework: A Research Brief"
+author: Nathan Madrid
 date: 2026-03-02
 version: "1.0"
 status: complete
@@ -54,7 +55,7 @@ The Five Questions are the framework's recurring checkpoint. At every transition
 | Question | What It Tests |
 |----------|--------------|
 | Can I defend this? | Could I explain every choice without referencing what the AI said? |
-| Is this mine? | Does this reflect my actual position, or did I accept the AI's framing? |
+| Is this mine? | Did I direct this, or did I accept the AI's framing because it sounded reasonable? (design authority test) |
 | Did I verify? | Have I independently checked facts, sources, and claims? |
 | Would I teach this? | Could I stand behind this in front of colleagues or students? |
 | Is the disclosure honest? | Does it accurately describe who did what? |
@@ -148,3 +149,10 @@ Wu, J., Gan, W., Chen, Z., Wan, S., & Yu, P. S. (2025). AI-enhanced education: T
 Zawacki-Richter, O., Marin, V. I., Bond, M., & Gouverneur, F. (2019). Systematic review of research on AI applications in higher education. *International Journal of Educational Technology in Higher Education, 16*(39).
 
 ---
+
+> **AI Disclosure:** This research brief was developed through human-AI collaboration. Nathan Madrid established the framework's constructs, arguments, and architecture from operational practice. AI assisted with organizing and drafting this brief from the full ESF deliverables. All intellectual claims, the practice-first provenance narrative, and research interpretations reflect the author's position and experience. Nathan verified the scholarly sources cited to the standards documented in the ESF Research Summary.
+
+---
+
+*Epistemic Stewardship Framework | Nathan Madrid | 2026*
+*Developed from operational practice in higher education*

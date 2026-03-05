@@ -1,5 +1,6 @@
 ---
 title: "The Epistemic Stewardship Framework: A Method for Maintaining Intellectual Ownership in AI-Assisted Academic Work"
+author: Nathan Madrid
 date: 2026-03-02
 version: "1.1"
 status: complete
@@ -180,7 +181,7 @@ The memo can be brief. Its function is not comprehensiveness but *commitment*, f
 **Definition.** The Five Questions are moment-to-moment epistemic checkpoints applied at every human validation gate in the ESF workflow. They are:
 
 1. **Can I defend this?** Could I explain and justify every claim in this work to a colleague, reviewer, or student without referencing the AI's reasoning?
-2. **Is this mine?** Did I direct this narrative, or did I passively accept the AI's framing because it sounded reasonable?
+2. **Is this mine?** Did I direct this narrative, or did I passively accept the AI's framing because it sounded reasonable? "Mine" does not require that every sentence originated with you. It means you exercised design authority: you directed the conditions under which the work was produced and can account for why it says what it says (Schonewille, 2025; Verbeek, 2008, via Chen, 2025). The sharper test: did the AI perform the interpretive judgment through which your professional knowledge develops (Lindebaum et al., 2025)? If so, you have ceded something more important than authorship.
 3. **Did I verify?** Have I independently confirmed factual claims, citations, and data points?
 4. **Would I teach this?** Am I prepared to stand behind this content in a classroom, boardroom, or review committee and respond to challenges?
 5. **Is the disclosure honest?** Does my disclosure statement accurately represent the division of intellectual labor?
@@ -738,3 +739,11 @@ Wu, J., Lee, Y.-H., Chai, C. S., & Tsai, C.-C. (2025). Strengthening human epist
 Zawacki-Richter, O., Marin, V. I., Bond, M., & Gouverneur, F. (2019). Systematic review of research on artificial intelligence applications in higher education; Where are the educators? *International Journal of Educational Technology in Higher Education*, 16, Article 39.
 
 ---
+
+> **AI Collaboration Disclosure:** This framework document was developed through an iterative human-AI collaboration process using Claude (Anthropic). The intellectual framework, including all seven core constructs, their definitions, their relationships, and the claims of novel contribution, originates from the author's practice and professional judgment, established through a Directive Memo (ESF-Directive-Memo.md) prior to AI-assisted drafting. The AI assisted with structural organization, prose drafting, and integration of the scholarly apparatus with the framework's constructs. All scholarly citations were selected and verified by the author. The author assumes full responsibility for the content, claims, and integrity of this work. This document's development follows the ESF protocol it describes: Directive Memo, AI-assisted Build, Validate, Disclose.
+
+---
+
+*Version 1.1-draft | 2026-02-23*
+*Epistemic Stewardship Framework*
+*Nathan Madrid*

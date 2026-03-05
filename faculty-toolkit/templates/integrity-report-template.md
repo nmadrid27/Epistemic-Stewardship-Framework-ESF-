@@ -78,7 +78,7 @@ status: complete
 | # | Question | Answer | Notes |
 |---|----------|--------|-------|
 | 1 | **Can I defend this?** Could I explain and justify every claim to a colleague, reviewer, or student without referencing the AI's reasoning? | Yes / No | |
-| 2 | **Is this mine?** Did I direct this narrative, or did I passively accept the AI's framing? | Yes / No | |
+| 2 | **Is this mine?** Did I direct this, or did I accept the AI's framing because it sounded reasonable? (design authority test) | Yes / No | |
 | 3 | **Did I verify?** Have I independently confirmed factual claims, citations, and data points? | Yes / No | |
 | 4 | **Would I teach this?** Am I prepared to stand behind this content in a classroom or professional setting? | Yes / No | |
 | 5 | **Is the disclosure honest?** Does my disclosure statement accurately represent the division of intellectual labor? | Yes / No | |

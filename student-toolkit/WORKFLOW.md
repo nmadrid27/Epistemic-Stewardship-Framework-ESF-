@@ -56,6 +56,8 @@ flowchart TD
 
 ## The Position Statement
 
+*In professional practice, this is a creative brief. Learning to write one now means you can define and defend creative direction when the audience is a client, a creative director, or a hiring committee.*
+
 Your Position Statement is the most important thing you write before starting a project. It goes in `projects/[course]/position-statements/` before any AI tool opens.
 
 **Three things it contains:**
@@ -73,6 +75,8 @@ Takes 5 to 10 minutes. Rough outlines and bullet points are fine. Those minutes 
 ---
 
 ## Records of Resistance
+
+*In a studio, this is called design rationale: the documented reasoning behind what you kept, changed, and rejected. Employers and collaborators expect you to explain your decisions, not just show the result.*
 
 The most revealing evidence of your thinking is not what you accepted from AI; it's what you **rejected**.
 
@@ -100,12 +104,14 @@ Keep a running note of what you re-introduce to AI at each session start. At the
 
 ## The Five Questions
 
+*These are the questions every creative professional answers during review: Can you defend the work? Is it yours? Did you verify? Can you explain it? Is your documentation honest? Practicing them here builds the reflex you will rely on in professional critiques and client presentations.*
+
 Apply these from Phase 3 onward. At major decisions. At the end of every section. Before submitting.
 
 | # | Question | Red Flag |
 |---|----------|----------|
 | 1 | **Can I defend this?** | You can't explain a decision without saying "the AI suggested it" |
-| 2 | **Is this mine?** | Sections that reflect AI's approach, kept because they "sounded good" |
+| 2 | **Is this mine?** | Did I direct this, or accept AI's framing? (design authority test) |
 | 3 | **Did I verify?** | Sources or facts you haven't independently checked |
 | 4 | **Would I teach this?** | You can't explain your process in a way that demonstrates learning |
 | 5 | **Is my disclosure honest?** | Your disclosure understates AI involvement to protect your grade |
@@ -118,6 +124,8 @@ If any answer is **no**, you have three options:
 ---
 
 ## Engagement Levels
+
+*Each level maps to increasing professional independence: from guided exploration to directing your own process. By Level 4, you are operating the way senior creatives work with AI in studios and agencies.*
 
 Your process deepens across the AI curriculum.
 

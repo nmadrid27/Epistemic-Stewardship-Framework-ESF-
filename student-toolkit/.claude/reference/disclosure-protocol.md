@@ -78,7 +78,7 @@ Use the template that matches your submission type. Adapt the specific details t
 Before submitting your disclosure, apply these five questions. All five should be answerable "yes." If any is "no," revise your work or your disclosure before submitting.
 
 1. **Can I defend this?** Could I explain every significant decision in this project without saying "the AI suggested it"?
-2. **Is this mine?** Did I direct this narrative, or did I drift toward AI framing?
+2. **Is this mine?** Did I direct this narrative, or did I passively accept the AI's framing because it sounded reasonable? "Mine" does not require that every sentence originated with you. It means you exercised design authority: you directed the conditions under which the work was produced and can account for why it says what it says (Schonewille, 2025; Verbeek, 2008, via Chen, 2025). The sharper test: did the AI perform the interpretive judgment through which your professional knowledge develops (Lindebaum et al., 2025)? If so, you have ceded something more important than authorship.
 3. **Did I verify?** Have I independently confirmed factual claims, sources, and data?
 4. **Would I teach this?** Could I explain my process to a classmate in a way that demonstrates learning?
 5. **Is my disclosure honest?** Does my disclosure accurately describe what I contributed and what the AI contributed?

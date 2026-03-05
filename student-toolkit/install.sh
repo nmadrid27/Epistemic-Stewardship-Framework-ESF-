@@ -25,7 +25,7 @@ RED='\033[0;31m'
 NC='\033[0m'
 
 echo ""
-echo -e "${CYAN}ESF Student Toolkit — Installer${NC}"
+echo -e "${CYAN}ESF Student Toolkit - Installer${NC}"
 echo "──────────────────────────────────────"
 
 # Warn if already installed
@@ -78,7 +78,7 @@ echo "  Fetching reference files..."
 curl -sSL "$TOOLKIT_BASE/.claude/reference/esf-student-guide.md"   -o .claude/reference/esf-student-guide.md
 curl -sSL "$TOOLKIT_BASE/.claude/reference/disclosure-protocol.md" -o .claude/reference/disclosure-protocol.md
 
-# Download workflow diagram (skip if file already exists — student may have customized it)
+# Download workflow diagram (skip if file already exists; student may have customized it)
 if [ ! -f "WORKFLOW.md" ]; then
   curl -sSL "$TOOLKIT_BASE/WORKFLOW.md" -o WORKFLOW.md
 fi

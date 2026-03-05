@@ -1,5 +1,6 @@
 ---
 title: "The Epistemic Stewardship Framework: Student Implementation Guide"
+author: Nathan Madrid
 date: 2026-03-02
 version: "1.0"
 status: complete
@@ -118,7 +119,7 @@ With your Position Statement as an anchor, you can engage AI output critically, 
 **The Five Questions activate here.** From this point forward, apply them at every significant decision:
 
 1. **Can I defend this?** Could I explain this to my instructor without saying "the AI suggested it"?
-2. **Is this mine?** Did I direct this narrative, or did I accept it because it sounded reasonable?
+2. **Is this mine?** Did I direct this, or did I accept the AI's framing because it sounded reasonable? "Mine" means you exercised design authority, not that you wrote every word. The test: did the AI perform the judgment through which your professional knowledge develops? If so, you have given up more than authorship.
 3. **Did I verify?** Have I checked factual claims, sources, and data independently?
 4. **Would I teach this?** Could I explain my reasoning to a classmate?
 5. **Is my disclosure honest?** Could I accurately describe what I contributed versus what the AI contributed?
@@ -296,7 +297,7 @@ Could I explain and justify every part of this work if my instructor, a classmat
 **Red flag:** You cannot explain a claim, a structural choice, or a piece of evidence without referencing what the AI produced.
 
 ### 2. Is this mine?
-Did I direct this narrative? Does this reflect my actual thinking (my position, my emphasis, my voice) or did I accept the AI's framing because it sounded reasonable?
+Did I direct this, or did I accept the AI's framing because it sounded reasonable? "Mine" means you exercised design authority, not that you wrote every word. The test: did the AI perform the judgment through which your professional knowledge develops? If so, you have given up more than authorship.
 
 **Red flag:** You can identify multiple sections that reflect the AI's approach rather than yours, but you kept them because they sounded good.
 
@@ -404,7 +405,21 @@ At the end of each project:
 
 ---
 
-## G. A Note on Academic Integrity
+## G. Professional Practice
+
+The ESF process maps directly to how creative professionals work. The terminology changes; the practices do not.
+
+- **Position Statement = Creative Brief.** In studios, agencies, and freelance practice, you define your intent before production begins. A creative brief establishes direction, constraints, and priorities. Your Position Statement is the same skill applied to AI-assisted work. The ability to articulate what you want to make, and why, before production begins is what separates a creative director from an operator.
+
+- **Records of Resistance = Design Rationale.** Professional designers document their reasoning: what they considered, what they rejected, and why the final direction serves the project's goals. Your Records of Resistance are design rationale in practice. They prove you can evaluate output critically and make deliberate choices, not just accept whatever the tool produces.
+
+- **Disclosure = Project Documentation.** Every professional project includes documentation of process, tools, and contributions. AI disclosure is a specific case of a general professional practice: being transparent about how the work was made. Employers, clients, and collaborators expect this. Practicing honest disclosure now builds a habit that will serve you throughout your career.
+
+The ESF portfolio you build across the program is not just academic documentation. It is a record of creative judgment, technical decision-making, and professional practice that you can reference in job interviews, portfolio reviews, and client conversations.
+
+---
+
+## H. A Note on Academic Integrity
 
 ESF works alongside your institution's academic integrity policy.
 
@@ -417,7 +432,7 @@ If you are unsure whether a particular use of AI is permitted for an assignment,
 
 ---
 
-## H. Getting Started
+## I. Getting Started
 
 Start where you are.
 
@@ -436,3 +451,11 @@ Apply the five phases with full rigor to your next high-stakes assignment. Pay p
 The goal is not perfection. The goal is honest, evolving practice: the kind where you can look at your work and say, with confidence, "this is mine."
 
 ---
+
+> **AI Collaboration Disclosure:** This student guide was developed through human-AI collaboration. The two-level architecture, the student process model (Inquire, Position, Explore, Make, Reflect), and the integration of design thinking with Socratic human gates were designed by the author based on the ESF Framework Document and supported by research from multiple scholarly traditions (Hutson, 2025; Washington OSPI, 2024; Pasmala et al., 2026; Degen & Asanov, 2025; Favero et al., 2024; Naeem, 2025; Plate & Hutson, 2025). AI assisted with structural organization, prose drafting, and the construction of discipline-specific examples. All pedagogical judgments, the developmental progression model, the gate design, and claims about effective student practice reflect the author's professional assessment. This document follows the ESF protocol it describes.
+
+---
+
+*Version 2.0-draft | 2026-02-19*
+*Epistemic Stewardship Framework; Student Implementation Guide*
+*Nathan Madrid*

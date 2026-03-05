@@ -1,5 +1,6 @@
 ---
 title: "The Epistemic Stewardship Framework: Faculty Implementation Guide"
+author: Nathan Madrid
 date: 2026-03-02
 version: "1.0"
 status: complete
@@ -287,7 +288,7 @@ This reference case demonstrates ESF's adaptability to disciplines where "intell
 | # | Question | Tests For |
 |---|----------|-----------|
 | 1 | **Can I defend this?** | Genuine understanding vs. surface familiarity |
-| 2 | **Is this mine?** | Active position vs. passive acceptance |
+| 2 | **Is this mine?** | Did I direct this, or accept AI's framing? (design authority test) |
 | 3 | **Did I verify?** | Independent confirmation vs. assumed accuracy |
 | 4 | **Would I teach this?** | Deep endorsement vs. shallow approval |
 | 5 | **Is the disclosure honest?** | Transparent accountability vs. performative compliance |
@@ -413,3 +414,11 @@ This is not incidental. It is the architecture doing what it was built to do.
 4. **Ongoing:** Share your experience with a colleague. The framework improves through use, critique, and adaptation.
 
 ---
+
+> **AI Collaboration Disclosure:** This faculty guide was developed through human-AI collaboration. The workflow model, construct definitions, and anti-patterns are derived from the author's operational practice and generalized for cross-disciplinary use. AI assisted with structural organization, prose drafting, and the construction of worked examples across disciplines the author does not teach in. All pedagogical judgments, framework design decisions, and claims about effective practice reflect the author's professional assessment. This document follows the ESF protocol it describes.
+
+---
+
+*Version 2.0-draft | 2026-02-19*
+*Epistemic Stewardship Framework; Faculty Implementation Guide*
+*Nathan Madrid*

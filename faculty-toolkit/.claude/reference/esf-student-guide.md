@@ -100,7 +100,7 @@ Your Position Statement does not need to be polished. Rough outlines, bullet poi
 **The Five Questions activate here.** From this point forward, apply them at every significant decision:
 
 1. **Can I defend this?** Could I explain this to my instructor without saying "the AI suggested it"?
-2. **Is this mine?** Did I direct this narrative, or did I accept it because it sounded reasonable?
+2. **Is this mine?** Did I direct this, or did I accept the AI's framing because it sounded reasonable? "Mine" means you exercised design authority, not that you wrote every word. The test: did the AI perform the judgment through which your professional knowledge develops? If so, you have given up more than authorship.
 3. **Did I verify?** Have I checked factual claims, sources, and data independently?
 4. **Would I teach this?** Could I explain my reasoning to a classmate?
 5. **Is my disclosure honest?** Could I accurately describe what I contributed versus what the AI contributed?
@@ -274,7 +274,7 @@ Could I explain and justify every part of this work if my instructor, a classmat
 **Red flag:** You cannot explain a claim, a structural choice, or a piece of evidence without referencing what the AI produced.
 
 ### 2. Is this mine?
-Did I direct this narrative? Does this reflect my actual thinking (my position, my emphasis, my voice) or did I accept the AI's framing because it sounded reasonable?
+Did I direct this, or did I accept the AI's framing because it sounded reasonable? "Mine" means you exercised design authority, not that you wrote every word. The test: did the AI perform the judgment through which your professional knowledge develops? If so, you have given up more than authorship.
 
 **Red flag:** You can identify multiple sections that reflect the AI's approach rather than yours, but you kept them because they sounded good.
 
@@ -415,3 +415,4 @@ The goal is not perfection. The goal is honest, evolving practice, the kind wher
 ---
 
 *Epistemic Stewardship Framework: Student Implementation Guide*
+*Nathan Madrid | Version 2.0*

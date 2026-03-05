@@ -83,7 +83,7 @@ The disclosure protocol serves two functions:
 Before applying any disclosure, confirm you can answer all five affirmatively:
 
 1. **Can I defend this?** Could I explain and justify every claim to a colleague, reviewer, or student without referencing the AI's reasoning?
-2. **Is this mine?** Did I direct this narrative, or did I passively accept the AI's framing because it sounded reasonable?
+2. **Is this mine?** Did I direct this narrative, or did I passively accept the AI's framing because it sounded reasonable? "Mine" does not require that every sentence originated with you. It means you exercised design authority: you directed the conditions under which the work was produced and can account for why it says what it says (Schonewille, 2025; Verbeek, 2008, via Chen, 2025). The sharper test: did the AI perform the interpretive judgment through which your professional knowledge develops (Lindebaum et al., 2025)? If so, you have ceded something more important than authorship.
 3. **Did I verify?** Have I independently confirmed factual claims, citations, and data points?
 4. **Would I teach this?** Am I prepared to stand behind this content in a classroom, committee, or public review?
 5. **Is the disclosure honest?** Does my disclosure statement accurately represent the division of intellectual labor?

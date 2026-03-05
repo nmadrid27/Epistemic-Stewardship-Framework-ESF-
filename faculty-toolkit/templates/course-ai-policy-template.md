@@ -49,8 +49,6 @@ When you use AI for any of the following, include a brief disclosure statement w
 -
 -
 
-**For code-based work:** Annotated Git commit messages qualify as process documentation when they describe both the action and the reasoning ("Reverted AI-generated layout; spacing conflicted with my design intent"). These entries count toward your AI Direction Log requirements.
-
 **Disclosure format:** At the end of your submission, include a short paragraph describing what AI tool you used, what you used it for, and what you contributed that the AI did not. Honesty matters more than format.
 
 ---
@@ -99,12 +97,18 @@ I share this not because you need to follow my exact process, but because I beli
 When you use AI in your work for this course, ask yourself:
 
 1. **Can I defend this?** Could I explain and justify every part of my submission if asked, without saying "the AI suggested it"?
-2. **Is this mine?** Did I direct this narrative, or did I accept the AI's framing because it sounded good?
+2. **Is this mine?** Did I direct this, or did I accept the AI's framing because it sounded reasonable? "Mine" means you exercised design authority, not that you wrote every word. The test: did the AI perform the judgment through which your professional knowledge develops? If so, you have given up more than authorship.
 3. **Did I verify?** Have I checked factual claims, sources, and data independently?
 4. **Would I teach this?** Could I explain my process and reasoning to a classmate?
 5. **Is my disclosure honest?** Does my disclosure accurately describe how I used AI and what I contributed?
 
 These questions are not a test. They are a practice: a habit of mind that makes your work genuinely yours, whether you used AI or not.
+
+---
+
+## Career Preparation
+
+The practices in this policy are not unique to the classroom. Creative professionals define intent before production (Position Statement), document their reasoning (Records of Resistance), and maintain honest records of tools and contributions (Disclosure). Studios, agencies, and employers expect these skills. By practicing them now, you build professional habits that transfer directly to your career. Your ESF documentation is portfolio-ready evidence of creative judgment and process integrity.
 
 ---
 

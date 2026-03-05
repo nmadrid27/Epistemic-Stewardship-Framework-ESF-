@@ -1,5 +1,6 @@
 ---
 title: "Epistemic Stewardship Framework: Executive Summary"
+author: Nathan Madrid
 date: 2026-03-02
 version: "1.0"
 status: complete
@@ -69,7 +70,7 @@ The critical design move: **AI does not enter until Phase 3.** Phases 1 and 2 ar
 | Construct | What It Does |
 |-----------|-------------|
 | **Directive Memo** | Human-only document capturing intellectual direction before AI engagement |
-| **Five Questions** | Recurring checkpoints: Can I defend this? Is this mine? Did I verify? Would I teach this? Is the disclosure honest? |
+| **Five Questions** | Recurring checkpoints: Can I defend this? Is this mine? (design authority test) Did I verify? Would I teach this? Is the disclosure honest? |
 | **Content Epistemic Weight** | Three-tier classification (High/Medium/Low) determining which workflow components are required |
 | **Human Validation Gates** | Checkpoints at phase transitions where you verify your thinking before proceeding |
 | **Phased Workflow Model** | Level 1 and Level 2 process models with gates at each transition |
@@ -136,3 +137,5 @@ The framework includes:
 
 ---
 
+*Epistemic Stewardship Framework | Nathan Madrid | 2026*
+*Developed from operational practice

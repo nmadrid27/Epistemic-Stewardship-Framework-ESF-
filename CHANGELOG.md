@@ -2,6 +2,29 @@
 
 All notable changes to the Epistemic Stewardship Framework are documented here.
 
+## [3.3] - 2026-03-05
+
+### Added
+- ESF Essentials: one-page, three-practice summary for quick adoption
+- 4 Records of Resistance examples (AI-180: partial accept, source verification, low-stakes; AI-201: technical decision)
+- Gate remediation example showing Five Questions failure and recovery
+- AI-180 sample data: position statement, project brief, AI use log, process blog entry
+- Career-relevant language across student-facing documents
+- "Why This Matters Beyond the Classroom" section in student toolkit README
+- "Professional Practice" section in Student Guide
+- Career preparation paragraph in course AI policy template
+
+### Changed
+- Q2 ("Is this mine?") standardized to tiered canonical formulations with design authority framing
+- Source count format: "29/31" to "29 of 31" in self-application evidence
+- Removed remaining em dashes from all prose
+- Replaced banned words (landscape, robustness, foster) with concrete alternatives
+
+### Fixed
+- Em dashes in install scripts and .gitignore
+
+---
+
 ## [3.2] - 2026-03-04
 
 ### Removed (open-source cleanup)

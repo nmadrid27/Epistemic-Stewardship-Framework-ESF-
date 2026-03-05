@@ -1,5 +1,6 @@
 ---
 title: "AI Tool Configuration for ESF Implementation"
+author: Nathan Madrid
 date: 2026-03-02
 version: "1.0"
 status: complete
@@ -22,7 +23,7 @@ This document is for faculty and institutional technology practitioners who want
 This is **not a prescriptive standard**. ESF is tool-agnostic by design. A faculty member using a chatbot interface, a note-taking system with AI integration, or a custom institutional AI environment can follow ESF without any of the technical configuration described here. What configuration provides is behavioral enforcement: a properly configured AI tool will prompt for the Directive Memo before drafting begins, apply the Five Questions at each gate, and attach appropriate disclosure statements without requiring the practitioner to remember to ask for these behaviors.
 
 **What this document covers:**
-- The gap assessment of an adopter's configuration (as a worked example)
+- The gap assessment of Nathan Madrid's current configuration (as a worked example)
 - Reference copies of the skills and agents configured to follow ESF
 - Notes for adapting this configuration to other institutions or tools
 
@@ -52,7 +53,7 @@ Persistent role-specific configurations for sustained project work. Agents carry
 
 ## 2. Gap Assessment: Current Configuration
 
-The following assessment evaluates a sample vault configuration for ESF compliance. This is presented as a reference example, not as a standard configuration, but as a concrete case other implementers can evaluate against.
+The following assessment evaluates Nathan Madrid's current vault configuration for ESF compliance. This is presented as a reference example, not as a standard configuration, but as a concrete case other implementers can evaluate against.
 
 ### Compliance Assessment Table
 
@@ -69,7 +70,7 @@ The following assessment evaluates a sample vault configuration for ESF complian
 
 ### Summary Finding
 
-The configuration is ESF-compliant for all substantive content production. The two "Partial" items (academic-admin and design-researcher agents) reflect a design choice to point toward the reference file rather than embedding the full protocol in the agent itself. This keeps agents lean but requires the reference file to load correctly. For more robustness, the Five Questions could be embedded directly in the agents.
+The configuration is ESF-compliant for all substantive content production. The two "Partial" items (academic-admin and design-researcher agents) reflect a design choice to point toward the reference file rather than embedding the full protocol in the agent itself. This keeps agents lean but requires the reference file to load correctly. For stronger compliance, the Five Questions could be embedded directly in the agents.
 
 ### Technical Maintenance Note
 
@@ -96,7 +97,7 @@ An implementer reading this reference file should not assume they need to create
 
 ## 4. Reference: Skills
 
-The following sections present the full content of the key ESF-configured skills, formatted as reference implementations. These files are from a sample implementation and are presented here so readers can adapt them to their own tool configurations.
+The following sections present the full content of the key ESF-configured skills, formatted as reference implementations. These files are from Nathan Madrid's vault and are presented here so readers can adapt them to their own tool configurations.
 
 **How to adapt these:**
 - Replace institution-specific context with your own
@@ -245,7 +246,7 @@ Directive Memo alignment check:
 
 The Five Questions:
 1. Can I defend this? Could I explain every claim without referencing AI's reasoning?
-2. Is this mine? Does this reflect my actual position, or did I accept AI's framing?
+2. Is this mine? Did I direct this, or accept AI's framing? (design authority test)
 3. Did I verify? Have I independently confirmed factual claims and citations?
 4. Would I teach this? Am I prepared to stand behind this in a classroom?
 5. Is the disclosure honest? Does my disclosure accurately represent the labor division?
@@ -363,7 +364,7 @@ institutional documents.
 
 ## 5. Reference: Agents
 
-The following sections present the full content of the ESF-relevant agents from a sample implementation.
+The following sections present the full content of the ESF-relevant agents from Nathan Madrid's vault.
 
 ---
 
@@ -588,3 +589,11 @@ Not every AI tool task requires ESF protocol. The following task categories are 
 A framework that applies its highest-rigor protocol to every task creates protocol fatigue and gets abandoned. The Content Epistemic Weight calibration: high/medium/low stakes → proportional protocol depth: is the mechanism ESF uses to avoid this failure mode.
 
 ---
+
+> **AI Collaboration Disclosure:** This configuration reference was produced through human-AI collaboration. The gap assessment reflects Nathan Madrid's review of his own vault configuration against ESF's protocol requirements. The reference skill and agent copies are drawn verbatim from the vault's configured files, with institutional-specific context replaced by generic placeholders in the examples. AI organized the document structure and drafted the explanatory text. Nathan directed what to include, confirmed the gap assessment findings, and will review before this document is included in any publication materials.
+
+---
+
+*Version 1.0 | 2026-02-23*
+*Epistemic Stewardship Framework; AI Tool Configuration Reference*
+*Nathan Madrid*

@@ -61,7 +61,7 @@ status: complete
 
 **Five Questions check:** (Quick yes/no)
 - Can I defend this? [ ]
-- Is this mine? [ ]
+- Is this mine? (Did I direct this, not just accept it?) [ ]
 - Did I verify? [ ]
 - Would I teach this? [ ]
 - Disclosure honest? [ ]
@@ -96,7 +96,7 @@ status: complete
 
 **Five Questions check:**
 - Can I defend this? [ ]
-- Is this mine? [ ]
+- Is this mine? (Did I direct this, not just accept it?) [ ]
 - Did I verify? [ ]
 - Would I teach this? [ ]
 - Disclosure honest? [ ]
@@ -131,7 +131,7 @@ status: complete
 
 **Five Questions check:**
 - Can I defend this? [ ]
-- Is this mine? [ ]
+- Is this mine? (Did I direct this, not just accept it?) [ ]
 - Did I verify? [ ]
 - Would I teach this? [ ]
 - Disclosure honest? [ ]

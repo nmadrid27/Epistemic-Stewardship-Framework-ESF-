@@ -14,7 +14,7 @@ YELLOW='\033[1;33m'
 NC='\033[0m'
 
 echo ""
-echo -e "${CYAN}ESF Faculty Toolkit — Installer${NC}"
+echo -e "${CYAN}ESF Faculty Toolkit - Installer${NC}"
 echo "──────────────────────────────────────"
 
 # Warn if already installed
@@ -91,7 +91,7 @@ echo "  2. Run onboarding to personalize your toolkit:"
 echo "     /esf-onboarding"
 echo ""
 echo "  Onboarding takes 10–15 minutes. It collects your identity, courses,"
-echo "  and project briefs — and reviews your briefs for ESF alignment."
+echo "  and project briefs, and reviews your briefs for ESF alignment."
 echo ""
 echo "  Adding a new course or updating briefs? Re-run /esf-onboarding"
 echo "  and say 'update'."

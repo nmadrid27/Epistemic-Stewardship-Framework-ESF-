@@ -179,7 +179,7 @@ For a syllabus:
 
 **The Five Questions** (present at the gate):
 1. **Can I defend this?** Could I explain and justify every claim to a colleague, reviewer, or student without referencing the AI's reasoning?
-2. **Is this mine?** Did I direct this narrative, or did I passively accept the AI's framing because it sounded reasonable?
+2. **Is this mine?** Did I direct this, or did I accept the AI's framing because it sounded reasonable? "Mine" means you exercised design authority, not that you wrote every word. The test: did the AI perform the judgment through which your professional knowledge develops? If so, you have given up more than authorship.
 3. **Did I verify?** Have I independently confirmed factual claims, citations, and data points?
 4. **Would I teach this?** Am I prepared to stand behind this content in a classroom and respond to student challenges?
 5. **Is the disclosure honest?** Does my disclosure statement accurately represent the division of intellectual labor?

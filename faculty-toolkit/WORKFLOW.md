@@ -156,7 +156,7 @@ Applied at every human gate in both levels.
 | # | Question | Tests For |
 |---|----------|-----------|
 | 1 | **Can I defend this?** | Genuine understanding vs. surface familiarity |
-| 2 | **Is this mine?** | Active ownership vs. passive acceptance |
+| 2 | **Is this mine?** | Did I direct this, or accept AI's framing? (design authority test) |
 | 3 | **Did I verify?** | Independent confirmation vs. assumed accuracy |
 | 4 | **Would I teach this?** | Deep endorsement vs. shallow approval |
 | 5 | **Is my disclosure honest?** | Transparent accountability vs. performative compliance |

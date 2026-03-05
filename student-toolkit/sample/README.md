@@ -40,10 +40,21 @@ The toolkit will load Alex's context, check for the Position Statement (it exist
 
 | File | What it demonstrates |
 |------|---------------------|
+| **AI-201 (Creative Computing)** | **Alex Rivera, BFA Motion Media Design** |
 | `agents/esf-student.md` | Fully personalized agent: AI-201 calibration, 3 RoR required, Explore phase |
 | `projects/ai-201/briefs/p2-responsive-system.md` | Realistic AI-201 project brief: tool-agnostic, emergence-focused |
 | `projects/ai-201/position-statements/responsive-system.md` | Student-voice position statement with 3-element Design Intent |
-| `projects/ai-201/records-of-resistance/ror-01.md` | Example Record of Resistance: AI suggestion documented and deliberately rejected |
+| `projects/ai-201/records-of-resistance/ror-01.md` | Record of Resistance: AI suggestion documented and deliberately rejected |
+| `projects/ai-201/records-of-resistance/ror-02-technical-decision.md` | Record of Resistance: choosing raw Canvas API over a suggested library for aesthetic and creative control reasons |
+| `projects/ai-201/gate-records/gate-no-remediation.md` | Gate record where Q2 ("Is this mine?") fails; student returns to Position Statement, redesigns system architecture, passes on second attempt |
+| **AI-180 (Creativity and AI)** | **Jamie Torres, BFA Illustration; Priya Kapoor, BFA Graphic Design; Sam Chen, BFA Photography** |
+| `projects/ai-180/briefs/p2-visual-essay.md` | AI-180 project brief: personal visual essay, tool-agnostic, process-focused |
+| `projects/ai-180/position-statements/visual-essay.md` | Non-technical position statement: identity, memory, and place in illustration |
+| `projects/ai-180/records-of-resistance/ror-01-partial-accept.md` | Partial acceptance: keeping an AI composition suggestion while rejecting its color palette, with documented reasoning |
+| `projects/ai-180/records-of-resistance/ror-02-source-verification.md` | Source verification: catching a misattributed design history reference the AI presented confidently |
+| `projects/ai-180/records-of-resistance/ror-03-low-stakes.md` | Low-stakes pushback: rejecting a single wording change in an artist statement, showing RoR as habit, not heroics |
+| `projects/ai-180/logs/ai-use-log-sample.md` | Filled-in AI Use Log with 3 sessions: composition research, statement review, reference research |
+| `projects/ai-180/process/process-blog-entry.md` | Process blog entry in student voice: metacognitive reflection on how the Position Statement shaped real-time decisions |
 
 ---
 
