@@ -96,12 +96,29 @@ your-faculty-repo/
 │   └── [your-course]/
 │       ├── briefs/                      ← Project briefs (ESF-reviewed at onboarding)
 │       └── materials/                   ← Course content built with curriculum-dev skill
+├── documents/
+│   └── session-logs/                    ← Auto-generated session logs
 ├── templates/
 │   ├── directive-memo-template.md
 │   ├── integrity-report-template.md
-│   └── course-ai-policy-template.md
+│   ├── course-ai-policy-template.md
+│   └── session-log-template.md
 └── WORKFLOW.md                          ← Full ESF architecture diagram (both levels)
 ```
+
+---
+
+## Session Memory
+
+The toolkit tracks your work across sessions so you do not lose context between conversations.
+
+**During each session:** The toolkit silently records your Five Questions responses, Directive Memo drift checks, and Content Epistemic Weight decisions as they happen during the normal ESF process. No extra steps required.
+
+**At the end of each session:** When you finish working, the toolkit generates a brief session log: what was built, decisions made, memo alignment, and what needs attention next. You review and confirm before it saves.
+
+**At the start of each session:** The toolkit reads your last session log and orients you with specific context rather than starting from scratch.
+
+Session logs live in `documents/session-logs/` and are yours to review anytime.
 
 ---
 
@@ -131,19 +148,44 @@ Assignment design guidance is in Section G of `reference/esf-faculty-guide.md`.
 
 ## Course Microsites (Optional)
 
-The toolkit includes a `course-microsite` skill that builds interactive student-facing course sites from your content. Students get a navigable website with course overview, week-by-week content, project detail pages, templates, and policies.
+Build an interactive student-facing course website from your syllabus, session plans, and project briefs. Students get a navigable site with course overview, week-by-week content, project detail pages, ESF templates, and policies, accessible from any browser.
 
-**Additional prerequisites:** Node.js (v18+), pnpm, and Vercel CLI. These are only needed if you use this feature.
+**Additional prerequisites:** Node.js (v18+) and pnpm. Vercel CLI if you want one-command deployment.
 
-To build a microsite, tell Claude:
+### Option A: Use the GitHub Template (Recommended)
+
+The fastest path. Click **"Use this template"** on the [ESF Course Microsite](https://github.com/nmadrid27/esf-course-microsite) repo to create your own copy.
+
+```bash
+git clone https://github.com/YOUR-USERNAME/YOUR-SITE.git
+cd YOUR-SITE
+pnpm install
+```
+
+Edit `src/data/course-data.json` with your course content (the file ships with placeholder data showing the expected structure), or use the included compiler to generate it from your vault:
+
+```bash
+node scripts/compile.mjs /path/to/your/course/folder
+```
+
+Preview locally with `pnpm dev:vite`, then deploy:
+
+```bash
+pnpm run build
+vercel deploy --prod
+```
+
+Full setup instructions are in the [template repo README](https://github.com/nmadrid27/esf-course-microsite#readme).
+
+### Option B: Use the Claude Code Skill
+
+If you prefer to work entirely within Claude Code, the toolkit includes a `course-microsite` skill. Tell Claude:
 
 ```
 Build a microsite for courses/my-course
 ```
 
-Claude reads your syllabus, session plans, and project briefs, compiles them into structured data, and produces a deployable React site. The site deploys to Vercel with a shareable URL that students access in any browser.
-
-See the skill file at `.claude/skills/course-microsite/SKILL.md` for the full workflow.
+Claude reads your content, compiles it into structured data, scaffolds the React project, and produces a deployable site. See `.claude/skills/course-microsite/SKILL.md` for the full workflow.
 
 ---
 
