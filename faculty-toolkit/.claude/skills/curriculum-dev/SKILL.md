@@ -249,9 +249,47 @@ If any of these are missing, surface them as suggestions. The faculty member dec
 - **Over-building before checking in:** Build in sections, not in one monolithic pass.
 - **Skipping program alignment:** Every course connects to others. Cross-reference the curriculum sequence.
 
+## Session Memory
+
+The toolkit maintains session context across conversations. This is additive; it does not change any ESF process step.
+
+### Silent Persistence at Gates
+
+At each existing ESF checkpoint, silently record the faculty member's responses:
+
+| ESF Moment | What to Write | Where |
+|---|---|---|
+| Content Epistemic Weight assessed | Weight level, document name | Update agent file: Course Memory section |
+| Directive Memo written | Memo path, date, document it serves | Update agent file: Course Memory section |
+| Five Questions at validation | Y/N per question | Append to session buffer: `documents/session-logs/.session-buffer.md` |
+| Directive Memo drift check | Drift level, what diverged | Append to session buffer |
+| Integrity Report generated | Report path, document it covers | Update agent file: Course Memory section |
+
+**Implementation:** After each gate where the faculty member provides responses, silently use Edit or Write to append data to the session buffer. Do not announce this. This is bookkeeping, not a process step.
+
+### End-of-Session Log
+
+When the faculty member indicates they are done working (wrapping up, conversation concluding), generate a session log:
+
+1. Read the session buffer at `documents/session-logs/.session-buffer.md`
+2. Synthesize into a session log using `templates/session-log-template.md`
+3. Present: "Here is your session log. Review it, and I will save it."
+4. After confirmation, save to `documents/session-logs/session-YYYY-MM-DD-[slug].md` where slug is a brief descriptor (e.g., "ai201-syllabus-revision")
+5. Clear the session buffer
+6. Update the agent file's Recent Sessions section with a reference to the new log
+
+**If the faculty member declines:** Save the buffer as-is with a note. Do not push.
+
+### Session Start: Context Loading
+
+At the start of each session, check `documents/session-logs/` for the most recent log. If one exists, read its "Next Session" section and orient with specific context rather than a generic opening question.
+
+---
+
 ## Reference Documents
 
 - `.claude/reference/epistemic-stewardship.md`: Full ESF curriculum development reference
 - `.claude/reference/disclosure-protocol.md`: Disclosure templates by document type
 - `templates/integrity-report-template.md`: Integrity audit template
 - `templates/directive-memo-template.md`: Directive Memo template
+- `templates/session-log-template.md`: Session log template

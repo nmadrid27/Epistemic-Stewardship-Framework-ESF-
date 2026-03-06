@@ -124,9 +124,47 @@ For medium-weight documents, generate a Gate Verification Record (Directive Memo
 4. **Would I teach this?** Am I prepared to stand behind this in committee, review, or public presentation?
 5. **Is the disclosure honest?** Does my disclosure accurately represent the division of intellectual labor?
 
+## Session Memory
+
+The toolkit maintains session context across conversations. This is additive; it does not change any process step.
+
+### Silent Persistence at Gates
+
+At each existing checkpoint, silently record the faculty member's responses:
+
+| Moment | What to Write | Where |
+|---|---|---|
+| Content Epistemic Weight assessed | Weight level, document name | Update agent file: Course Memory section |
+| Directive Memo written | Memo path, date, document it serves | Update agent file: Course Memory section |
+| Five Questions at validation | Y/N per question | Append to session buffer: `documents/session-logs/.session-buffer.md` |
+| Directive Memo drift check | Drift level, what diverged | Append to session buffer |
+| Integrity Report generated | Report path, document it covers | Update agent file: Course Memory section |
+
+**Implementation:** After each gate where the faculty member provides responses, silently use Edit or Write to append data to the session buffer. Do not announce this. This is bookkeeping, not a process step.
+
+### End-of-Session Log
+
+When the faculty member indicates they are done working, generate a session log:
+
+1. Read the session buffer at `documents/session-logs/.session-buffer.md`
+2. Synthesize into a session log using `templates/session-log-template.md`
+3. Present: "Here is your session log. Review it, and I will save it."
+4. After confirmation, save to `documents/session-logs/session-YYYY-MM-DD-[slug].md`
+5. Clear the session buffer
+6. Update the agent file's Recent Sessions section
+
+**If the faculty member declines:** Save the buffer as-is. Do not push.
+
+### Session Start: Context Loading
+
+At the start of each session, check `documents/session-logs/` for the most recent log. If one exists, read its "Next Session" section and orient with specific context.
+
+---
+
 ## Reference Documents
 
 - `.claude/reference/disclosure-protocol.md`: Full disclosure templates and behavior rules
 - `.claude/reference/epistemic-stewardship.md`: ESF reference (when document is curriculum-related)
 - `templates/integrity-report-template.md`: Integrity audit template
 - `templates/directive-memo-template.md`: Directive Memo template
+- `templates/session-log-template.md`: Session log template

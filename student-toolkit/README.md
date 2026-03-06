@@ -67,6 +67,22 @@ Onboarding takes about 5 minutes. It asks for your name, degree program, and cur
 
 ---
 
+## Session Memory
+
+The toolkit tracks your process across sessions so you do not lose context between work sessions.
+
+**During each session:** The toolkit silently records your Five Questions responses, Records of Resistance, and Position Statement drift checks as they happen during the normal ESF process. No extra steps required.
+
+**At the end of each session:** When you finish working, the toolkit generates a brief session log summarizing what happened: decisions made, questions answered, where you left off, and how your prompting evolved. You review and confirm it before it saves.
+
+**At the start of each session:** The toolkit reads your last session log and orients you: "Last session you were working on X in Phase 4. You noted you wanted to verify the source in Section 2. Want to pick up there?"
+
+**Across projects:** When you complete a project, the toolkit snapshots your growth metrics: Five Questions pass rate, Records of Resistance count, prompt evolution patterns. Over four courses, this builds a visible record of your development as an AI collaborator.
+
+Your session logs live in `projects/[course]/logs/` and are yours to review anytime.
+
+---
+
 ## Each New Course
 
 When you start a new course in the program, re-run onboarding:
@@ -112,6 +128,7 @@ your-portfolio-repo/
 │       ├── briefs/                 ← Drop your instructor's project brief here
 │       ├── position-statements/    ← Write this before any AI engagement
 │       ├── records-of-resistance/  ← Your deliberate choices about AI output
+│       ├── logs/                   ← Session logs (auto-generated)
 │       └── work/                   ← Your project output
 └── WORKFLOW.md                     ← ESF Level 2 process diagram
 ```

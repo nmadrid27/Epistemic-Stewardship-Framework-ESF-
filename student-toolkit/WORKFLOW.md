@@ -102,6 +102,111 @@ Keep a running note of what you re-introduce to AI at each session start. At the
 
 ---
 
+## Starting Mid-Project: The Brownfield Pathway
+
+You may encounter this framework after you have already started working on a project with AI. Maybe you used ChatGPT to brainstorm and draft before your instructor introduced the Position Statement process. Maybe you are halfway through a project and realize you never wrote down what you actually think before AI started shaping the direction.
+
+The brownfield pathway lets you adopt ESF practices without starting over. It is not a shortcut. It is an honest reckoning with where you are.
+
+### When to Use This
+
+- You have already started a project with AI assistance but without a Position Statement
+- Your instructor introduces ESF mid-quarter and you have work in progress
+- You realize partway through that you cannot distinguish your ideas from AI's suggestions
+
+### Decision: Brownfield or Greenfield?
+
+```mermaid
+flowchart TD
+    classDef humanOnly fill:#dbeafe,stroke:#3b82f6,color:#1e3a5f,font-weight:bold
+    classDef gate fill:#fef3c7,stroke:#d97706,color:#78350f
+    classDef brownfield fill:#fff7ed,stroke:#ea580c,color:#7c2d12
+
+    START(["Project in progress"])
+    Q1{"Do you have a\nPosition Statement\nfor this project?"}:::gate
+
+    GREEN["Yes: Continue with\nstandard workflow"]:::humanOnly
+    BROWN["No: Write a Retrospective\nPosition Statement now"]:::brownfield
+
+    Q2{"How far along\nis the project?"}:::gate
+    RETRO["Write Retrospective\nPosition Statement"]:::humanOnly
+    AUDIT["Run Brownfield\nAudit Checklist"]:::humanOnly
+    REJOIN["Rejoin standard workflow\nat Make or Reflect phase"]:::humanOnly
+
+    START --> Q1
+    Q1 -->|"yes"| GREEN
+    Q1 -->|"no"| Q2
+    Q2 -->|"early or midway"| RETRO
+    Q2 -->|"nearly finished"| AUDIT
+    RETRO --> AUDIT
+    AUDIT --> REJOIN
+```
+
+### The Retrospective Position Statement
+
+A standard Position Statement captures your thinking before AI enters. A Retrospective Position Statement forces you to separate your thinking from AI's after the fact. This is harder, not easier. You have to be honest about what was yours and what you absorbed from AI without questioning it.
+
+Close your AI tools. Open a blank document. Answer these questions without looking at your project:
+
+1. **What is my position?** What am I actually trying to say, argue, or create in this project? Not what AI helped me draft. What do *I* think?
+2. **What matters most?** If I had to cut this project to its core, what would survive? Was that always my priority, or did AI steer me toward something else?
+3. **What is non-negotiable?** What must stay, regardless of what AI suggested or what my peers think? What am I willing to fight for in a crit?
+
+Save it to `projects/[course]/position-statements/` like any other Position Statement. Note in the file that it is retrospective.
+
+Now re-read your project with your Position Statement next to it. Where do they match? Where did you drift? The drift is where your learning is.
+
+### Brownfield Audit Checklist
+
+Go through your existing work section by section.
+
+**Layer in immediately:**
+- [ ] Write the Retrospective Position Statement (above)
+- [ ] Run the Five Questions against each completed section of your project
+- [ ] Start a Record of Resistance for decisions you make from this point forward
+- [ ] For remaining work, use the standard Explore → Make process with your Position Statement as anchor
+
+**Layer in on next iteration:**
+- [ ] Rewrite sections where you cannot answer "Is this mine?" with confidence
+- [ ] Align your project's direction to your Retrospective Position Statement
+- [ ] Add a disclosure statement to your submission
+
+**Accept for this submission:**
+- [ ] Sections that pass the Five Questions can stand, even if you wrote them without a Position Statement
+- [ ] You do not need to redo work that genuinely reflects your intent
+
+### Worked Example: Brownfield Adoption
+
+Marcus is three weeks into his AI 180 Project 2. He used ChatGPT extensively to brainstorm his concept and draft his project proposal. His instructor just introduced the Position Statement requirement. Marcus does not have one, and he is not sure which ideas in his proposal are his and which came from the AI conversation.
+
+**Step 1: Retrospective Position Statement.** He closes ChatGPT, opens a blank document, and writes from memory:
+
+> **My position:** I want this project to explore how confirmation bias affects the way designers select reference images. We default to what looks familiar, and AI image tools amplify that by giving us more of what we already like.
+>
+> **What matters most:** The experience of catching yourself in the bias. I want whoever interacts with this project to feel the moment where they realize they are just asking for the same thing over and over.
+>
+> **Non-negotiable:** The project has to be interactive, not a poster or essay. The viewer has to participate in the bias to understand it.
+
+**Step 2: Brownfield Audit.** He compares his Position Statement to his existing proposal:
+
+- Five Questions on his concept description: Passes. The core idea is clearly his; he had it before he opened ChatGPT.
+- Five Questions on his "methodology" section: Fails Question 2. The methodology reads like a generic design process. AI wrote most of it and Marcus accepted it because it sounded professional. He cannot defend the specific steps.
+- Five Questions on his reference list: Partially passes. Three of five references are ones he found himself. Two were AI suggestions he did not verify.
+
+**Step 3: Targeted revision.** He rewrites his methodology to describe what he will actually do, in his own words. He verifies the two AI-suggested references and keeps one (it exists and is relevant) and removes one (it does not say what the AI claimed). He starts a Record of Resistance log for all future AI interactions.
+
+**Step 4: Forward commitment.** For the remaining project work, Marcus uses his Retrospective Position Statement as his anchor. When AI suggests directions, he checks them against his three answers. He now has the same foundation a greenfield student would have, just arrived at from a different direction.
+
+**Total time added:** about 45 minutes. He did not restart his project. He identified what was genuinely his, fixed what was not, and moved forward with clarity.
+
+### Forward Commitment
+
+The Retrospective Position Statement is your anchor for the rest of this project. Use it the same way you would use a standard Position Statement: check AI output against it, record your resistance, apply the Five Questions.
+
+For your next project, write the Position Statement first. The brownfield pathway exists so you can get into the process. The standard workflow is where you stay.
+
+---
+
 ## The Five Questions
 
 *These are the questions every creative professional answers during review: Can you defend the work? Is it yours? Did you verify? Can you explain it? Is your documentation honest? Practicing them here builds the reflex you will rely on in professional critiques and client presentations.*

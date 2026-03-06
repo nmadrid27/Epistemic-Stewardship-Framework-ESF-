@@ -48,6 +48,7 @@ mkdir -p .claude/skills/document-production
 mkdir -p .claude/skills/course-microsite
 mkdir -p .claude/reference
 mkdir -p templates
+mkdir -p documents/session-logs
 
 # Download agents
 echo "  Fetching agents..."
@@ -75,6 +76,7 @@ echo "  Fetching templates..."
 curl -sSL "$TOOLKIT_BASE/templates/directive-memo-template.md"        -o templates/directive-memo-template.md
 curl -sSL "$TOOLKIT_BASE/templates/integrity-report-template.md"      -o templates/integrity-report-template.md
 curl -sSL "$TOOLKIT_BASE/templates/course-ai-policy-template.md"      -o templates/course-ai-policy-template.md
+curl -sSL "$TOOLKIT_BASE/templates/session-log-template.md"          -o templates/session-log-template.md
 
 # Download workflow diagram (skip if already exists)
 if [ ! -f "WORKFLOW.md" ]; then

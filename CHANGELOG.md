@@ -2,6 +2,22 @@
 
 All notable changes to the Epistemic Stewardship Framework are documented here.
 
+## [3.4] - 2026-03-06
+
+### Added
+- Brownfield Pathway in faculty toolkit WORKFLOW.md: on-ramp for mid-project ESF adoption with Retrospective Directive Memo, audit checklist, and worked example (Dr. Reyes, Digital Illustration syllabus)
+- Brownfield Pathway in student toolkit WORKFLOW.md: parallel pathway with Retrospective Position Statement, audit checklist, and worked example (Marcus, AI 180 Project 2)
+- Brownfield reference in ESF Quick Start Guide (faculty development)
+- Greenfield vs. brownfield decision flowchart (Mermaid) in both toolkits
+- **Session Memory layer** for both toolkits: silent gate persistence, end-of-session synthesis, session-start context loading
+- Student toolkit: Growth Record in agent file, evo log auto-generation from gate data, prompt evolution tracking, cross-project growth snapshots
+- Faculty toolkit: Course Memory in agent file, Recent Sessions tracking, session logs for curriculum-dev and document-production skills
+- Session log templates for both toolkits
+- Updated install scripts to create logs directories and download templates
+- Updated READMEs with Session Memory documentation
+
+---
+
 ## [3.3] - 2026-03-05
 
 ### Added

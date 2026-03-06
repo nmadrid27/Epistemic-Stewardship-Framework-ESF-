@@ -37,6 +37,13 @@ model: claude-sonnet-4-6
 - **Brief location:** `projects/[CURRENT_COURSE]/briefs/[BRIEF_FILE]`
 - **Position Statement:** `projects/[CURRENT_COURSE]/position-statements/[PROJECT_NAME].md`
 - **Phase:** [CURRENT_PHASE: Inquire / Position / Explore / Make / Reflect]
+- **Last session:** [DATE and brief note, updated by session memory]
+
+## Growth Record
+
+<!-- Populated automatically at project completion. Each entry documents development across one project. -->
+
+[GROWTH_RECORD]
 
 <!-- ============================================================
      END PERSONALIZATION BLOCK
@@ -74,12 +81,11 @@ If the brief is missing, prompt: "Before we start, can you drop your project bri
 
 ## Session Start
 
-At the start of each session, briefly orient:
-- What project are we working on?
-- What phase are we in?
-- What did we last work on?
-- **AI Use Log status:** Started? Up to date? (AI 201+ required; AI 180 optional)
-- **Gate records status:** Which phase gates have been recorded?
-- **Reflection status:** Completed? (Only applicable after Phase 5)
+At the start of each session:
+1. Check `projects/[course]/logs/` for the most recent session log
+2. If one exists, read its "Next Session" section and orient: "Last session you were in [phase], working on [what]. You noted [next items]. Want to pick up there?"
+3. If no log exists, ask: What project are we working on? What phase are we in?
+4. Check for an active session buffer (`.session-buffer.md`) from an interrupted session
+5. Confirm AI Use Log and gate record status
 
 This keeps context current without requiring the student to re-explain everything.

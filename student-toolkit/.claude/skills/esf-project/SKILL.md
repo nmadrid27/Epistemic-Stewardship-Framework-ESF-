@@ -147,8 +147,6 @@ Present the cleaned version and ask: "Here is your Position Statement with reada
 
 **Verification rule:** When you produce factual claims, cite sources, or present data, prompt the student to verify before incorporating: "I made some factual claims there. Before you use any of that, check the ones that matter to your project. Your AI Use Log has a Verification table for tracking what you checked and what you found."
 
-**Verification rule:** When you produce factual claims, cite sources, or present data, prompt the student to verify before incorporating: "I made some factual claims there. Before you use any of that, check the ones that matter to your project. Your AI Use Log has a Verification table for tracking what you checked and what you found."
-
 **Critical behavioral rule:** After any substantive AI output in this phase, ask:
 
 > "Which of these connect to your original position? Which are you adopting, and which are ideas you want to sit with?"
@@ -238,6 +236,72 @@ The disclosure should specify:
 **Surface, don't smooth.** When you notice the student drifting from their position, name it rather than quietly accommodating the drift. Protecting their ownership sometimes means creating productive friction.
 
 **Process is the product.** The Position Statement, Records of Resistance, and reflection documentation are as important as the final work output. Treat them as first-class deliverables, not administrative add-ons.
+
+---
+
+## Session Memory: Silent Persistence and End-of-Session Synthesis
+
+The toolkit maintains two layers of session memory. Neither interrupts the ESF process.
+
+### Layer 1: Silent Gate Persistence
+
+At each existing ESF checkpoint, the skill silently writes the student's responses to a session buffer. This requires NO new student-facing steps. The data comes from gates that already exist in the process.
+
+**What to persist and when:**
+
+| ESF Moment | What to Write | Where |
+|---|---|---|
+| Position Statement gate clears (Phase 2 to 3) | PS path, date, project name, confirmation status | Update agent file: Current Project section |
+| Five Questions at section end (Phase 4) | Y/N per question, which section | Append to session buffer: `projects/[course]/logs/.session-buffer.md` |
+| Record of Resistance documented (Phase 4) | Increment RoR count, brief one-line summary | Append to session buffer |
+| Position Statement drift check (phase gates) | Drift level: none/minor/significant, what shifted | Append to session buffer |
+| Phase transition | New phase, what was completed | Update agent file: Current Project phase field |
+
+**Session buffer format:** The file `projects/[course]/logs/.session-buffer.md` is a temporary working file. Append entries as they occur during the session. The dot-prefix keeps it hidden from casual browsing. It gets consumed by the end-of-session synthesis and cleared.
+
+**Implementation:** After each gate interaction where the student provides responses (Five Questions Y/N, drift assessment, RoR documentation), silently use the Edit or Write tool to append the data point to the session buffer. Do not announce this to the student. Do not ask permission. This is bookkeeping, not a process step.
+
+### Layer 2: End-of-Session Synthesis
+
+When the student indicates they are done working for the session (says "I'm done," "that's it for today," "let's stop here," wrapping up, or the conversation is clearly concluding), generate an evo log entry.
+
+**Process:**
+
+1. Read the session buffer at `projects/[course]/logs/.session-buffer.md`
+2. Synthesize it into a session log entry using the template at `templates/session-log-template.md`
+3. Present it to the student:
+
+> "Here is your session log for today. Review it, edit anything that is off, and I will save it."
+
+4. After the student confirms (or edits), save to `projects/[course]/logs/session-YYYY-MM-DD.md`
+5. Clear the session buffer (delete or empty `.session-buffer.md`)
+6. Update the agent file's Current Project section with the current phase and last activity date
+
+**If the student declines or skips:** Save the session buffer as-is to the log file with a note: "Student did not review this session log." Do not push. The log still captures the gate data even without the reflective moment.
+
+**Prompt evolution tracking:** During synthesis, review the conversation for how the student's prompting changed across the session. Note patterns: Did they move from broad to specific? Did they start directing more precisely? Did they learn to constrain AI output? Include this in the "Prompt Evolution" section of the log. This is observational, not evaluative.
+
+### Project Completion: Growth Snapshot
+
+When a project reaches Phase 5 (Reflect) and the student completes their final reflection, generate a growth snapshot and append it to the agent file.
+
+**Growth snapshot content:**
+- Project name and course
+- Total sessions logged
+- Five Questions pass rate across all sessions (percentage of Y responses)
+- Total Records of Resistance
+- Position Statement drift pattern (did drift increase or decrease across sessions?)
+- Prompt evolution summary (one sentence: how did their prompting mature?)
+
+**Where to store:** Append to the agent file (`esf-student.md`) under the "Growth Record" section. Each completed project adds one entry. Over four courses (AI 101 through 301), this builds a visible development arc.
+
+### Session Start: Context Loading
+
+At the start of each session, check for the most recent session log in `projects/[course]/logs/`. If one exists, read its "Next Session" section and use it to orient:
+
+> "Last session you were in [phase], working on [what]. You noted you wanted to [next session items]. Want to pick up there?"
+
+This replaces the generic "what are you working on?" opening with specific context from the student's own notes. It also models the multi-session re-establishment practice described in WORKFLOW.md.
 
 ---
 

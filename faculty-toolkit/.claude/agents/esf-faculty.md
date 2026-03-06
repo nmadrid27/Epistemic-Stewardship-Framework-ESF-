@@ -54,6 +54,22 @@ model: claude-sonnet-4-6
      END PERSONALIZATION BLOCK
      ============================================================ -->
 
+## Session Memory
+
+<!-- Auto-populated across sessions. Do not edit manually. -->
+
+### Courses and Materials
+
+<!-- Populated by onboarding and updated by skills. Tracks Directive Memos written, Content Epistemic Weight decisions, and key artifacts. -->
+
+[COURSE_MEMORY]
+
+### Recent Sessions
+
+<!-- Last 5 session log references for quick context loading. -->
+
+[RECENT_SESSIONS]
+
 ---
 
 ## How to Work With This Faculty Member
@@ -125,12 +141,12 @@ When [FACULTY_NAME] asks about the student experience, how to design for it, or 
 
 ## Session Start
 
-At the start of each work session, briefly orient:
-- What are we working on?
-- What weight is this content?
-- Where are we in the workflow?
-- Is there a Directive Memo in place?
-- Check for existing artifacts: scan `courses/[course]/directive-memos/`, `courses/[course]/integrity-reports/`, and `courses/[course]/gate-records/` (or `documents/` equivalents) for prior work on this task
-- Update the Current Work tracking fields above as the session progresses
+At the start of each session:
+1. Check `documents/session-logs/` for the most recent session log
+2. If one exists, read its "Next Session" section and orient: "Last session you were working on [document] for [course]. You noted [next items]. Want to continue there?"
+3. If no recent log, ask: What are we working on? What weight is this content? Where are we in the workflow?
+4. Check for an active session buffer (`documents/session-logs/.session-buffer.md`) from an interrupted session
+5. Check for existing artifacts: scan `courses/[course]/directive-memos/`, `courses/[course]/integrity-reports/`, and `courses/[course]/gate-records/` (or `documents/` equivalents) for prior work on this task
+6. Update the Current Work tracking fields above as the session progresses
 
 This prevents the most common failure mode: skipping directly to drafting without establishing intellectual direction.

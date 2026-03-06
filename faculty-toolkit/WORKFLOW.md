@@ -149,6 +149,117 @@ flowchart TD
 
 ---
 
+## Starting Mid-Project: The Brownfield Pathway
+
+Not every project begins with ESF. You may encounter this framework after you have already started drafting a syllabus, writing an assignment, or producing course materials with AI assistance. The brownfield pathway lets you adopt ESF practices without discarding work in progress.
+
+Brownfield adoption is not lesser. It is how most practitioners encounter a new framework. The goal is honest assessment of where you are, not performative compliance with a process you did not have when you started.
+
+### When to Use This
+
+- You have already produced content with AI but without a Directive Memo
+- You want to apply ESF going forward but your current deliverable is partially complete
+- You are revising existing materials and want to layer in ESF practices
+
+### Decision: Brownfield or Greenfield?
+
+```mermaid
+flowchart TD
+    classDef humanOnly fill:#dbeafe,stroke:#3b82f6,color:#1e3a5f,font-weight:bold
+    classDef gate fill:#fef3c7,stroke:#d97706,color:#78350f
+    classDef brownfield fill:#fff7ed,stroke:#ea580c,color:#7c2d12
+
+    START(["New AI-assisted task"])
+    Q1{"Have you already\nstarted producing\nthis content?"}:::gate
+
+    GREEN["Greenfield\nStart with standard workflow\nScope → Direct → Build"]:::humanOnly
+    BROWN["Brownfield\nWrite Retrospective Memo\nAudit what exists\nRejoin at Validate"]:::brownfield
+
+    Q2{"Is the content\nsubstantially complete?"}:::gate
+    RETRO["Write Retrospective\nDirective Memo"]:::humanOnly
+    AUDIT["Run Brownfield\nAudit Checklist"]:::humanOnly
+    REJOIN["Rejoin standard workflow\nat Validate phase"]:::humanOnly
+
+    START --> Q1
+    Q1 -->|"no"| GREEN
+    Q1 -->|"yes"| Q2
+    Q2 -->|"partially complete"| RETRO
+    Q2 -->|"nearly finished"| AUDIT
+    RETRO --> AUDIT
+    AUDIT --> REJOIN
+```
+
+### The Retrospective Directive Memo
+
+A standard Directive Memo establishes intent before production. A Retrospective Directive Memo excavates intent from work you have already done. This is harder, not easier. You must distinguish between decisions you made deliberately and decisions that emerged from AI's framing.
+
+Write a Retrospective Directive Memo that answers:
+
+1. **Thesis (excavated):** What is this content actually arguing or teaching? Not what you planned. What did you build?
+2. **Emphasis (confirmed):** What ended up mattering most? Was that your intent, or did it drift there?
+3. **De-emphasis (identified):** What did you set aside? Was that a deliberate choice, or did AI's suggestions quietly redirect you?
+4. **Voice check:** Does this sound like you, or does it sound like AI-generated academic prose you accepted because it was serviceable?
+5. **Non-negotiables (declared):** What must stay exactly as it is? What are you willing to revise now that you are looking at it with fresh eyes?
+
+The Ownership Test still applies: Can you defend every choice? If you find sections where the honest answer is "I accepted what AI gave me because it sounded fine," that is the section that needs revision.
+
+### Brownfield Audit Checklist
+
+For each section of your in-progress work, assess what you can layer in now.
+
+**Layer in immediately:**
+- [ ] Assess Content Epistemic Weight for the overall deliverable
+- [ ] Write the Retrospective Directive Memo (above)
+- [ ] Run the Five Questions against each completed section
+- [ ] Add a disclosure statement to the deliverable
+- [ ] For remaining sections, use the standard Build phase (memo-guided drafting)
+
+**Layer in on next revision:**
+- [ ] Rewrite sections where the Five Questions revealed weak ownership
+- [ ] Align voice and framing to your Retrospective Directive Memo
+- [ ] Generate an Integrity Report if the content is high-weight
+
+**Accept for this iteration:**
+- [ ] Sections completed before ESF adoption that pass the Five Questions can stand as-is
+- [ ] You do not need to re-draft content that genuinely reflects your intent, even if it was produced without a prospective memo
+
+### Worked Example: Brownfield Adoption
+
+Dr. Reyes has been building her Digital Illustration syllabus for three weeks using AI assistance. She has a complete weekly schedule, five assignment briefs, and a grading rubric. She encounters ESF at a faculty workshop and wants to adopt it without starting over.
+
+**Step 1: Retrospective Directive Memo.** She reviews her syllabus and writes:
+
+> **Thesis:** This course teaches illustration students to use AI generation tools as part of a professional digital workflow, not as a replacement for drawing skill.
+>
+> **Emphasis:** Editorial judgment. Students must be able to explain why they kept, revised, or rejected AI output in every assignment.
+>
+> **De-emphasis:** Technical AI knowledge. Students do not need to understand model architectures. They need to direct models effectively.
+>
+> **Voice check:** The assignment briefs sound like me. The weekly schedule descriptions sound generic. I accepted AI's phrasing for most of those without revision.
+>
+> **Non-negotiables:** The portfolio requirement stays. The "draw first, generate second" rule in every project stays.
+
+**Step 2: Brownfield Audit.** She runs through the checklist:
+
+- Content Epistemic Weight: **Medium** (syllabus for active course, not accreditation)
+- Five Questions on assignment briefs: All five pass. She wrote clear creative constraints and can defend every requirement.
+- Five Questions on weekly schedule: Questions 1 and 2 flag problems. She cannot defend the Session 9 description because she does not remember writing it. She accepted AI's version.
+- Disclosure: Not yet present. She drafts one.
+
+**Step 3: Targeted revision.** She rewrites the weekly schedule descriptions she cannot defend (Sessions 9, 12, and 15). She leaves the assignment briefs untouched because they pass the Five Questions. She adds a disclosure statement.
+
+**Step 4: Forward commitment.** For the remaining three assignment briefs she has not yet written, she uses the standard ESF workflow: her Retrospective Directive Memo now serves as the prospective memo for new content.
+
+**Total time added:** approximately 90 minutes. She did not rebuild her syllabus. She identified the 15% that needed attention and addressed it.
+
+### Forward Commitment
+
+Once you complete the brownfield audit, use the standard workflow for all new content on this deliverable and future deliverables. The Retrospective Directive Memo becomes your anchor for revisions. When you next update this content, you have a memo to check against.
+
+The brownfield pathway is an on-ramp, not a permanent alternative. It gets you into the framework. The standard workflow keeps you there.
+
+---
+
 ## The Five Questions
 
 Applied at every human gate in both levels.

@@ -57,6 +57,7 @@ mkdir -p .claude/skills/esf-onboarding
 mkdir -p .claude/skills/esf-project
 mkdir -p .claude/reference
 mkdir -p prompts
+mkdir -p templates
 
 # Download agents
 echo "  Fetching agents..."
@@ -72,6 +73,10 @@ echo "  Fetching prompts..."
 curl -sSL "$TOOLKIT_BASE/prompts/student-companion.md"  -o prompts/student-companion.md
 curl -sSL "$TOOLKIT_BASE/prompts/project-workflow.md"   -o prompts/project-workflow.md
 curl -sSL "$TOOLKIT_BASE/prompts/README.md"             -o prompts/README.md
+
+# Download templates
+echo "  Fetching templates..."
+curl -sSL "$TOOLKIT_BASE/templates/session-log-template.md" -o templates/session-log-template.md
 
 # Download reference files
 echo "  Fetching reference files..."
@@ -90,6 +95,7 @@ if [ "$SAMPLE" = true ]; then
   mkdir -p projects/ai-201/position-statements
   mkdir -p projects/ai-201/records-of-resistance
   mkdir -p projects/ai-201/work
+  mkdir -p projects/ai-201/logs
   curl -sSL "$TOOLKIT_BASE/sample/agents/esf-student.md" \
     -o .claude/agents/esf-student.md
   curl -sSL "$TOOLKIT_BASE/sample/projects/ai-201/briefs/p2-responsive-system.md" \
