@@ -85,7 +85,8 @@ your-faculty-repo/
 │   ├── skills/
 │   │   ├── esf-onboarding/              ← Setup wizard (/esf-onboarding)
 │   │   ├── curriculum-dev/              ← Course design workflow
-│   │   └── document-production/         ← Institutional document workflow
+│   │   ├── document-production/         ← Institutional document workflow
+│   │   └── course-microsite/            ← Student-facing course site builder (optional)
 │   └── reference/                       ← ESF guides and protocols
 │       ├── esf-faculty-guide.md
 │       ├── esf-student-guide.md         ← Understand your students' experience
@@ -125,6 +126,24 @@ The student toolkit enforces the Level 2 process structurally, not just rhetoric
 **What this means for brief design:** Briefs that require students to form a position before producing anything work well with the gate structure. Briefs that jump straight to production without creating space for inquiry create friction at the gate. The brief review during your onboarding addresses this directly.
 
 Assignment design guidance is in Section G of `reference/esf-faculty-guide.md`.
+
+---
+
+## Course Microsites (Optional)
+
+The toolkit includes a `course-microsite` skill that builds interactive student-facing course sites from your content. Students get a navigable website with course overview, week-by-week content, project detail pages, templates, and policies.
+
+**Additional prerequisites:** Node.js (v18+), pnpm, and Vercel CLI. These are only needed if you use this feature.
+
+To build a microsite, tell Claude:
+
+```
+Build a microsite for courses/my-course
+```
+
+Claude reads your syllabus, session plans, and project briefs, compiles them into structured data, and produces a deployable React site. The site deploys to Vercel with a shareable URL that students access in any browser.
+
+See the skill file at `.claude/skills/course-microsite/SKILL.md` for the full workflow.
 
 ---
 

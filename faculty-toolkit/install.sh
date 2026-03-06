@@ -45,6 +45,7 @@ mkdir -p .claude/agents
 mkdir -p .claude/skills/esf-onboarding
 mkdir -p .claude/skills/curriculum-dev
 mkdir -p .claude/skills/document-production
+mkdir -p .claude/skills/course-microsite
 mkdir -p .claude/reference
 mkdir -p templates
 
@@ -59,6 +60,8 @@ echo "  Fetching curriculum-dev skill..."
 curl -sSL "$TOOLKIT_BASE/.claude/skills/curriculum-dev/SKILL.md"     -o .claude/skills/curriculum-dev/SKILL.md
 echo "  Fetching document-production skill..."
 curl -sSL "$TOOLKIT_BASE/.claude/skills/document-production/SKILL.md" -o .claude/skills/document-production/SKILL.md
+echo "  Fetching course-microsite skill..."
+curl -sSL "$TOOLKIT_BASE/.claude/skills/course-microsite/SKILL.md"     -o .claude/skills/course-microsite/SKILL.md
 
 # Download reference files
 echo "  Fetching reference files..."
