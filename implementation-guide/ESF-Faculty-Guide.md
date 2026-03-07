@@ -192,7 +192,7 @@ Each example shows all five phases of the Level 1 workflow.
 
 ### Example 1: AI 180; Designing a Project Brief (Medium Weight)
 
-**Context:** A faculty member is developing the project brief for P2 in AI 180 (Unleashing Creativity), a course focused on using AI as a creative partner. P2 asks students to explore how AI changes their creative process: the brief must frame the inquiry without prescribing the outcome.
+**Context:** A faculty member is developing the project brief for P2 in AI 180 (Unleashing Creativity), a course focused on cognitive biases, divergent thinking, and metacognition, where AI is introduced progressively as a thinking partner. P2 asks students to explore how AI changes their creative process: the brief must frame the inquiry without prescribing the outcome.
 
 **Phase 1: Scope.** The faculty member classifies this as **medium weight**: it is a project prompt within an existing course, not a new course proposal. The brief shapes student inquiry but does not define the course's intellectual architecture. Standard workflow with abbreviated Directive Memo.
 

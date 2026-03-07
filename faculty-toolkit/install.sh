@@ -77,6 +77,7 @@ curl -sSL "$TOOLKIT_BASE/templates/directive-memo-template.md"        -o templat
 curl -sSL "$TOOLKIT_BASE/templates/integrity-report-template.md"      -o templates/integrity-report-template.md
 curl -sSL "$TOOLKIT_BASE/templates/course-ai-policy-template.md"      -o templates/course-ai-policy-template.md
 curl -sSL "$TOOLKIT_BASE/templates/session-log-template.md"          -o templates/session-log-template.md
+curl -sSL "$TOOLKIT_BASE/templates/evolution-log-template.md"       -o templates/evolution-log-template.md
 
 # Download workflow diagram (skip if already exists)
 if [ ! -f "WORKFLOW.md" ]; then

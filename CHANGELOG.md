@@ -13,6 +13,7 @@ All notable changes to the Epistemic Stewardship Framework are documented here.
 - Student toolkit: Growth Record in agent file, evo log auto-generation from gate data, prompt evolution tracking, cross-project growth snapshots
 - Faculty toolkit: Course Memory in agent file, Recent Sessions tracking, session logs for curriculum-dev and document-production skills
 - Session log templates for both toolkits
+- Evolution log templates for both toolkits (Framework Evolution Protocol, individual practitioner level)
 - Updated install scripts to create logs directories and download templates
 - Updated READMEs with Session Memory documentation
 

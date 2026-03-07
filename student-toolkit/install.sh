@@ -76,7 +76,8 @@ curl -sSL "$TOOLKIT_BASE/prompts/README.md"             -o prompts/README.md
 
 # Download templates
 echo "  Fetching templates..."
-curl -sSL "$TOOLKIT_BASE/templates/session-log-template.md" -o templates/session-log-template.md
+curl -sSL "$TOOLKIT_BASE/templates/session-log-template.md"    -o templates/session-log-template.md
+curl -sSL "$TOOLKIT_BASE/templates/evolution-log-template.md" -o templates/evolution-log-template.md
 
 # Download reference files
 echo "  Fetching reference files..."

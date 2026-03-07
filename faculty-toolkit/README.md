@@ -102,7 +102,8 @@ your-faculty-repo/
 │   ├── directive-memo-template.md
 │   ├── integrity-report-template.md
 │   ├── course-ai-policy-template.md
-│   └── session-log-template.md
+│   ├── session-log-template.md
+│   └── evolution-log-template.md
 └── WORKFLOW.md                          ← Full ESF architecture diagram (both levels)
 ```
 

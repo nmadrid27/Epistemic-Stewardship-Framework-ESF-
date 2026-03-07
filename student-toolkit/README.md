@@ -123,6 +123,11 @@ your-portfolio-repo/
 │   │   ├── esf-onboarding/         ← Setup wizard (/esf-onboarding)
 │   │   └── esf-project/            ← Level 2 workflow skill (/esf-project)
 │   └── reference/                  ← ESF guides and protocols
+├── templates/
+│   ├── ai-use-log-template.md      ← AI Use Log format
+│   ├── student-reflection-template.md
+│   ├── session-log-template.md     ← Auto-generated session logs
+│   └── evolution-log-template.md   ← Track how your ESF practices evolve
 ├── projects/
 │   └── [your-course]/
 │       ├── briefs/                 ← Drop your instructor's project brief here
