@@ -1,3 +1,7 @@
+---
+entities: [ESF]
+---
+
 # End-to-End Walkthrough: Faculty Toolkit
 
 This walkthrough follows one faculty member through one task, start to finish. Every artifact she creates is shown. Every gate she crosses is documented.

@@ -1,3 +1,7 @@
+---
+entities: [ESF, AI-180, Records-of-Resistance]
+---
+
 # End-to-End Walkthrough: Student Toolkit
 
 This walkthrough follows one student through one project, start to finish. Every artifact she creates is shown. Every gate she crosses is documented.

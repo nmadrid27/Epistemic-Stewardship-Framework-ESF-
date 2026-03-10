@@ -76,8 +76,12 @@ curl -sSL "$TOOLKIT_BASE/prompts/README.md"             -o prompts/README.md
 
 # Download templates
 echo "  Fetching templates..."
-curl -sSL "$TOOLKIT_BASE/templates/session-log-template.md"    -o templates/session-log-template.md
-curl -sSL "$TOOLKIT_BASE/templates/evolution-log-template.md" -o templates/evolution-log-template.md
+curl -sSL "$TOOLKIT_BASE/templates/position-statement-template.md"    -o templates/position-statement-template.md
+curl -sSL "$TOOLKIT_BASE/templates/ai-use-log-template.md"           -o templates/ai-use-log-template.md
+curl -sSL "$TOOLKIT_BASE/templates/record-of-resistance-template.md" -o templates/record-of-resistance-template.md
+curl -sSL "$TOOLKIT_BASE/templates/session-log-template.md"          -o templates/session-log-template.md
+curl -sSL "$TOOLKIT_BASE/templates/student-reflection-template.md"   -o templates/student-reflection-template.md
+curl -sSL "$TOOLKIT_BASE/templates/evolution-log-template.md"        -o templates/evolution-log-template.md
 
 # Download reference files
 echo "  Fetching reference files..."
