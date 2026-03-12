@@ -159,46 +159,52 @@ mkdir -p projects/[course-code]/work/[project-name]
 
 ---
 
-### Step 8: Explain the Workspace
+### Step 8: Explain the ESF Process and What to Do Now
 
-Walk the student through the structure:
+**Lead with the process, not the folder structure.** The student's immediate question after onboarding is "what do I do now?" Answer it before they have to ask.
 
-> "Your workspace is set up. Here's where things live:
->
-> **`projects/[course]/briefs/`**, When your professor gives you a project brief (on Canvas, in class, wherever), drop it in here as a text or markdown file. Your ESF toolkit reads from this folder.
->
-> **`projects/[course]/position-statements/`**, This is the most important folder. Before AI can help with any project, your Position Statement must be here. I'll enforce this gate every time you open a project session.
->
-> **`projects/[course]/records-of-resistance/`**, As you work, document moments where you made a deliberate choice about AI output. Your course requires [X per project / none / student-defined].
->
-> **`projects/[course]/work/`**, Your actual project output lives here."
+Present the full five-phase workflow first, then explain which phases happen offline:
 
-Then explain the Phase 1 and 2 rule explicitly:
+> "Your workspace is set up. Before you do anything else, here's how the ESF process works. There are five phases:
+>
+> **Phase 1: Inquire** (offline, no AI)
+> Read your project brief. Think about what it is asking. Write down what you already know, what your instincts are, what you're uncertain about. This is just you and your thinking.
+>
+> **Phase 2: Position** (offline, no AI)
+> Write a Position Statement: your stance on the project, what matters most to you, and what you will not compromise on. Save it to `projects/[course]/position-statements/[project-name].md`. It does not need to be polished. Bullet points, fragments, rough outlines: all fine. What matters is that it captures your direction before AI can shape it.
+>
+> **Phase 3: Explore** (open Claude Code)
+> This is where I come in. My first step is a readability pass on your Position Statement: I clean up grammar and sentence structure without changing your ideas. You confirm it still says what you meant. Then I challenge your position: surface alternatives, ask questions, push on blind spots. I do not set direction. You do.
+>
+> **Phase 4: Make** (with AI assistance)
+> We work on the deliverable together. You log what AI contributes. Every time you reject or revise something I suggest, that becomes a Record of Resistance.
+>
+> **Phase 5: Reflect**
+> Before you submit, we run the Five Questions: Can I defend this? Is this mine? Did I verify? Would I teach this? Is my disclosure honest?
+>
+> **The key rule: Phases 1 and 2 happen with Claude Code closed.** Close this tool and work on your own. When your Position Statement is written and saved, come back and tell me what you're working on. If you open Claude Code without a Position Statement, I will ask you to go write one. That is not a bug; it is the point."
 
-> "One thing to understand before you start your first project: Phase 1 and Phase 2 of the ESF process happen offline, without this tool. That means closing Claude Code and working on your own.
->
-> Phase 1 is inquiry: read the brief, write down what you already know, what you're uncertain about, what your initial instincts are. No AI.
->
-> Phase 2 is your Position Statement: write your own understanding of the project and your initial direction before AI has said anything about it. Save it to `projects/[course]/position-statements/[project-name].md`.
->
-> Your Position Statement does not need to be polished. Rough outlines, bullet points, fragments: all fine. What matters is that it captures your direction, not that it reads well. When you come back and paste it, my first step will be a readability pass: I clean up grammar and sentence structure without changing your ideas. You review the cleaned version and confirm it still says what you meant. Then we start exploring.
->
-> Only then open Claude Code for project work. If you open it before you have a Position Statement, it will ask you to close it and write one first. That is not a bug; it is the point.
->
-> When you're ready to start a project session, just open Claude Code and say what you're working on."
+After explaining the process, briefly point to the folder structure as reference:
+
+> "Your folders:
+> - `projects/[course]/briefs/`: Drop your instructor's project brief here (from Canvas, email, wherever).
+> - `projects/[course]/position-statements/`: Your Position Statement goes here. This is the gate.
+> - `projects/[course]/records-of-resistance/`: Document your decisions about AI output here. Your course requires [X per project / none / student-defined].
+> - `projects/[course]/work/`: Your project output."
 
 ---
 
 ### Step 9: Confirm and Close
 
-Confirm the setup with the student:
+Close with a concrete next action, not a summary:
 
-> "You're set up. A few things to know:
+> "Setup complete. Here's your next step:
 >
-> - Your ESF Student Companion is now configured for [PREFERRED_NAME] in [TERM].
-> - For your first project: Phase 1 and 2 are yours alone. Do them offline before opening Claude Code for project work.
-> - If you need to add a new course or project, just run /esf-onboarding again and say 'update.'
-> - If anything looks wrong in your setup, you can also ask your instructor to help you re-run onboarding.
+> **Close Claude Code now.** Work through Phase 1 (inquiry) and Phase 2 (Position Statement) on your own. When your Position Statement is saved to `projects/[course]/position-statements/[project-name].md`, come back and tell me what you're working on.
+>
+> A few other things:
+> - If you need to add a new course or project later, run `/esf-onboarding` again and say 'update.'
+> - If anything looks wrong in your setup, ask your instructor to help you re-run onboarding.
 >
 > Good luck with [current project name / your courses]."
 

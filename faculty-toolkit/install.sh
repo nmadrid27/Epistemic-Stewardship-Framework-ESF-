@@ -31,11 +31,27 @@ fi
 if [ ! -d ".git" ]; then
   echo -e "${YELLOW}Warning: This directory is not a git repository.${NC}"
   echo "The toolkit works best inside a git repo."
-  read -r -p "Install anyway? (y/N): " confirm
-  if [[ ! "$confirm" =~ ^[Yy]$ ]]; then
-    echo "Installation cancelled. Initialize a git repo first, then re-run."
-    exit 0
-  fi
+  echo ""
+  echo "Options:"
+  echo "  1) Run the setup script (creates a repo for you)"
+  echo "  2) Install here anyway (no git)"
+  echo "  3) Cancel"
+  read -r -p "Choose [1/2/3]: " GIT_CHOICE
+  case "$GIT_CHOICE" in
+    1)
+      SETUP_URL="https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/setup-repo.sh"
+      echo "Launching setup script..."
+      curl -sSL "$SETUP_URL" | bash
+      exit $?
+      ;;
+    2)
+      echo "Continuing without git..."
+      ;;
+    *)
+      echo "Installation cancelled."
+      exit 0
+      ;;
+  esac
 fi
 
 echo "Installing..."

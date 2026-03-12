@@ -29,9 +29,21 @@ Your instructor will confirm whether a Claude subscription is required for your 
 
 ## Setup (One Time)
 
-### Step 1: Create your portfolio repo
+### Option A: New to Git? Use the Setup Script
 
-Create a new GitHub repository. Name it something you'll carry for four courses (for example, `applied-ai-portfolio` or `firstname-lastname-ai-portfolio`).
+If you have never used git or GitHub, run this single command. It creates a repository, initializes git, optionally pushes to GitHub, and installs the toolkit for you:
+
+```bash
+curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/setup-repo.sh | bash
+```
+
+The script asks for a repo name and your name, handles everything else, then drops you into a ready-to-use portfolio repo. Skip to **Step 3: Run onboarding** below.
+
+### Option B: Already Comfortable with Git
+
+#### Step 1: Create your portfolio repo
+
+Create a new GitHub repository. Name it something you will carry for four courses (for example, `applied-ai-portfolio` or `firstname-lastname-ai-portfolio`).
 
 Make it **private** to keep your in-progress work protected. You can make it public later if you want to share your portfolio.
 
@@ -41,7 +53,7 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 cd YOUR-REPO-NAME
 ```
 
-### Step 2: Install the ESF Student Toolkit
+#### Step 2: Install the ESF Student Toolkit
 
 Run this from inside your portfolio repo:
 

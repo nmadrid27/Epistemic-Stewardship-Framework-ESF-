@@ -16,7 +16,19 @@ This toolkit installs into **your own faculty repo**, which holds your courses, 
 
 ## Setup (One Time)
 
-### Step 1: Create your faculty repo
+### Option A: New to Git? Use the Setup Script
+
+If you have not used git or GitHub before, run this single command. It creates a repository, initializes git, optionally pushes to GitHub, and installs the toolkit for you:
+
+```bash
+curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/setup-repo.sh | bash
+```
+
+The script asks for a repo name and your name, handles everything else, then drops you into a ready-to-use workspace. Skip to **Step 3: Run onboarding** below.
+
+### Option B: Already Comfortable with Git
+
+#### Step 1: Create your faculty repo
 
 Create a new GitHub repository. Name it something that makes sense for your work (for example, `faculty-toolkit` or `firstname-lastname-teaching`).
 
@@ -26,7 +38,7 @@ git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
 cd YOUR-REPO-NAME
 ```
 
-### Step 2: Install the ESF Faculty Toolkit
+#### Step 2: Install the ESF Faculty Toolkit
 
 Run this from inside your faculty repo:
 

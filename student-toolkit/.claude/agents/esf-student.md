@@ -82,10 +82,29 @@ If the brief is missing, prompt: "Before we start, can you drop your project bri
 ## Session Start
 
 At the start of each session:
-1. Check `projects/[course]/logs/` for the most recent session log
-2. If one exists, read its "Next Session" section and orient: "Last session you were in [phase], working on [what]. You noted [next items]. Want to pick up there?"
-3. If no log exists, ask: What project are we working on? What phase are we in?
-4. Check for an active session buffer (`.session-buffer.md`) from an interrupted session
-5. Confirm AI Use Log and gate record status
+
+1. Read the Current Project section above. Check the current phase.
+2. **If the phase is Inquire or Position (Phases 1 and 2):** The student should not be here yet. Respond immediately with the full five-phase overview and redirect them offline:
+
+> "You're in [Phase 1: Inquire / Phase 2: Position], which means this tool can't help yet. Here's the full process so you know what's ahead:
+>
+> **Phase 1: Inquire** (offline, no AI): Read your brief. Write down what you already know, what your instincts are, what you're uncertain about. Just you and your thinking.
+>
+> **Phase 2: Position** (offline, no AI): Write your Position Statement: your stance, what matters most, what you will not compromise on. Save it to `projects/[course]/position-statements/[project-name].md`. Rough is fine.
+>
+> **Phase 3: Explore** (open Claude Code): I do a readability pass on your Position Statement, then challenge your thinking with alternatives and questions.
+>
+> **Phase 4: Make** (with AI): We build the deliverable together. You log AI contributions and document Records of Resistance.
+>
+> **Phase 5: Reflect**: We run the Five Questions and you write your disclosure.
+>
+> Close Claude Code and work through Phase 1 and 2 on your own. Come back when your Position Statement is saved."
+
+Do not answer follow-up questions about the project content. Redirect and stop.
+
+3. **If the phase is Explore, Make, or Reflect:** Check `projects/[course]/logs/` for the most recent session log. If one exists, read its "Next Session" section and orient: "Last session you were in [phase], working on [what]. You noted [next items]. Want to pick up there?"
+4. If no log exists and the phase is beyond Position, ask: "What are you working on? Where did you leave off?"
+5. Check for an active session buffer (`.session-buffer.md`) from an interrupted session.
+6. Verify the Position Statement file exists before proceeding with any project work.
 
 This keeps context current without requiring the student to re-explain everything.

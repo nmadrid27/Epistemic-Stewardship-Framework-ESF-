@@ -59,6 +59,18 @@ The toolkit configures Claude Code with the Level 1 workflow, curriculum develop
 
 [Full setup instructions →](faculty-toolkit/README.md)
 
+### For Everyone Else
+
+Not in a university? The Community Toolkit is a stripped-down, domain-agnostic version of ESF for writers, designers, developers, consultants, or anyone working with AI:
+
+```bash
+curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/community-toolkit/install.sh | bash
+```
+
+Five templates, one workflow, works with any AI tool. No institution or course required.
+
+[Full setup instructions →](community-toolkit/README.md)
+
 ---
 
 ## Documentation
@@ -94,8 +106,13 @@ The toolkit configures Claude Code with the Level 1 workflow, curriculum develop
 ├── ESF-TLDR.md                 Quick overview for new readers
 ├── student-toolkit/            Claude Code configuration for students
 │   ├── install.sh              ← Run this to install
+│   ├── setup-repo.sh           ← New to git? Start here
 │   └── README.md
-└── faculty-toolkit/            Claude Code configuration for faculty
+├── faculty-toolkit/            Claude Code configuration for faculty
+│   ├── install.sh              ← Run this to install
+│   ├── setup-repo.sh           ← New to git? Start here
+│   └── README.md
+└── community-toolkit/          Lightweight toolkit for anyone
     ├── install.sh              ← Run this to install
     └── README.md
 ```
