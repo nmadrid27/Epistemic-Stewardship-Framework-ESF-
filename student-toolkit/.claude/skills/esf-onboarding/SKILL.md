@@ -151,6 +151,7 @@ mkdir -p projects/[course-code]/records-of-resistance
 mkdir -p projects/[course-code]/ai-use-logs
 mkdir -p projects/[course-code]/gate-records
 mkdir -p projects/[course-code]/reflections
+mkdir -p projects/[course-code]/logs
 mkdir -p projects/[course-code]/work
 ```
 

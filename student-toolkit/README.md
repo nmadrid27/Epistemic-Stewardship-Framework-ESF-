@@ -145,6 +145,9 @@ your-portfolio-repo/
 │       ├── briefs/                 ← Drop your instructor's project brief here
 │       ├── position-statements/    ← Write this before any AI engagement
 │       ├── records-of-resistance/  ← Your deliberate choices about AI output
+│       ├── ai-use-logs/            ← What AI contributed to each project
+│       ├── gate-records/           ← Five Questions checkpoint records
+│       ├── reflections/            ← End-of-project reflections
 │       ├── logs/                   ← Session logs (auto-generated)
 │       └── work/                   ← Your project output
 └── WORKFLOW.md                     ← ESF Level 2 process diagram

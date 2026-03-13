@@ -123,6 +123,7 @@ if [ "$SAMPLE" = true ]; then
   mkdir -p projects/ai-201/ai-use-logs
   mkdir -p projects/ai-201/gate-records
   mkdir -p projects/ai-201/reflections
+  mkdir -p projects/ai-201/logs
   mkdir -p projects/ai-201/work
   curl -fsSL "$TOOLKIT_BASE/sample/agents/esf-student.md" \
     -o .claude/agents/esf-student.md
