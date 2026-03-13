@@ -27,7 +27,7 @@ Maya already did this in Week 1. Here is what it looked like.
 ```bash
 git clone https://github.com/mayachen/ai-portfolio.git
 cd ai-portfolio
-curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash
 ```
 
 **Then in Claude Code:**

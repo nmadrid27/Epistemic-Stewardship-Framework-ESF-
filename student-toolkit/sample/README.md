@@ -21,7 +21,7 @@ cp -r path/to/sample/projects/ai-201 projects/
 Or install with the sample flag:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash -s -- --sample
+curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash -s -- --sample
 ```
 
 Then open Claude Code and start working:

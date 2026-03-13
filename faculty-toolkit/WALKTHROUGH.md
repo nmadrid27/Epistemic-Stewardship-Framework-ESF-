@@ -25,7 +25,7 @@ She chose this task because project briefs are medium-weight content: they shape
 ```bash
 # Dr. Kim already has a faculty repo from last quarter
 cd ~/faculty-teaching
-curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/install.sh | bash
 ```
 
 **Then in Claude Code:**

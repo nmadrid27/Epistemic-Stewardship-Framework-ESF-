@@ -21,7 +21,7 @@ This toolkit installs into **your own faculty repo**, which holds your courses, 
 If you have not used git or GitHub before, run this single command. It creates a repository, initializes git, optionally pushes to GitHub, and installs the toolkit for you:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/setup-repo.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/setup-repo.sh | bash
 ```
 
 The script asks for a repo name and your name, handles everything else, then drops you into a ready-to-use workspace. Skip to **Step 3: Run onboarding** below.
@@ -43,7 +43,7 @@ cd YOUR-REPO-NAME
 Run this from inside your faculty repo:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/install.sh | bash
 ```
 
 The installer drops the `.claude/` configuration files and templates into your repo. It takes about 30 seconds.
@@ -207,7 +207,7 @@ Claude reads your content, compiles it into structured data, scaffolds the React
 When a new version of the toolkit is released, re-run the installer from inside your faculty repo:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/install.sh | bash
 ```
 
 Your courses, materials, and personalized agent file are not affected.

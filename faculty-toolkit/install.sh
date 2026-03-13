@@ -3,7 +3,7 @@
 # Drops the .claude/ configuration and templates into your current directory.
 #
 # Usage (run from inside your faculty repo):
-#   curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/install.sh | bash
 
 set -e
 
@@ -41,7 +41,7 @@ if [ ! -d ".git" ]; then
     1)
       SETUP_URL="https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/setup-repo.sh"
       echo "Launching setup script..."
-      curl -sSL "$SETUP_URL" | bash
+      curl -fsSL "$SETUP_URL" | bash
       exit $?
       ;;
     2)
@@ -66,38 +66,43 @@ mkdir -p .claude/reference
 mkdir -p templates
 mkdir -p documents/session-logs
 
-# Download agents
+# Download agents (preserve personalized agent on re-install)
 echo "  Fetching agents..."
-curl -sSL "$TOOLKIT_BASE/.claude/agents/esf-faculty.md"     -o .claude/agents/esf-faculty.md
+if [ -f ".claude/agents/esf-faculty.md" ] && grep -q "FACULTY_NAME\|^- \*\*Name:\*\*" .claude/agents/esf-faculty.md 2>/dev/null && ! grep -q "\[FACULTY_NAME\]" .claude/agents/esf-faculty.md 2>/dev/null; then
+  echo -e "  ${YELLOW}Personalized agent file found; skipping to preserve your profile.${NC}"
+  echo "  To force update: delete .claude/agents/esf-faculty.md and re-run."
+else
+  curl -fsSL "$TOOLKIT_BASE/.claude/agents/esf-faculty.md"     -o .claude/agents/esf-faculty.md
+fi
 
 # Download skills
 echo "  Fetching onboarding skill..."
-curl -sSL "$TOOLKIT_BASE/.claude/skills/esf-onboarding/SKILL.md"     -o .claude/skills/esf-onboarding/SKILL.md
+curl -fsSL "$TOOLKIT_BASE/.claude/skills/esf-onboarding/SKILL.md"     -o .claude/skills/esf-onboarding/SKILL.md
 echo "  Fetching curriculum-dev skill..."
-curl -sSL "$TOOLKIT_BASE/.claude/skills/curriculum-dev/SKILL.md"     -o .claude/skills/curriculum-dev/SKILL.md
+curl -fsSL "$TOOLKIT_BASE/.claude/skills/curriculum-dev/SKILL.md"     -o .claude/skills/curriculum-dev/SKILL.md
 echo "  Fetching document-production skill..."
-curl -sSL "$TOOLKIT_BASE/.claude/skills/document-production/SKILL.md" -o .claude/skills/document-production/SKILL.md
+curl -fsSL "$TOOLKIT_BASE/.claude/skills/document-production/SKILL.md" -o .claude/skills/document-production/SKILL.md
 echo "  Fetching course-microsite skill..."
-curl -sSL "$TOOLKIT_BASE/.claude/skills/course-microsite/SKILL.md"     -o .claude/skills/course-microsite/SKILL.md
+curl -fsSL "$TOOLKIT_BASE/.claude/skills/course-microsite/SKILL.md"     -o .claude/skills/course-microsite/SKILL.md
 
 # Download reference files
 echo "  Fetching reference files..."
-curl -sSL "$TOOLKIT_BASE/.claude/reference/esf-faculty-guide.md"      -o .claude/reference/esf-faculty-guide.md
-curl -sSL "$TOOLKIT_BASE/.claude/reference/esf-student-guide.md"      -o .claude/reference/esf-student-guide.md
-curl -sSL "$TOOLKIT_BASE/.claude/reference/disclosure-protocol.md"    -o .claude/reference/disclosure-protocol.md
-curl -sSL "$TOOLKIT_BASE/.claude/reference/epistemic-stewardship.md"  -o .claude/reference/epistemic-stewardship.md
+curl -fsSL "$TOOLKIT_BASE/.claude/reference/esf-faculty-guide.md"      -o .claude/reference/esf-faculty-guide.md
+curl -fsSL "$TOOLKIT_BASE/.claude/reference/esf-student-guide.md"      -o .claude/reference/esf-student-guide.md
+curl -fsSL "$TOOLKIT_BASE/.claude/reference/disclosure-protocol.md"    -o .claude/reference/disclosure-protocol.md
+curl -fsSL "$TOOLKIT_BASE/.claude/reference/epistemic-stewardship.md"  -o .claude/reference/epistemic-stewardship.md
 
 # Download templates
 echo "  Fetching templates..."
-curl -sSL "$TOOLKIT_BASE/templates/directive-memo-template.md"        -o templates/directive-memo-template.md
-curl -sSL "$TOOLKIT_BASE/templates/integrity-report-template.md"      -o templates/integrity-report-template.md
-curl -sSL "$TOOLKIT_BASE/templates/course-ai-policy-template.md"      -o templates/course-ai-policy-template.md
-curl -sSL "$TOOLKIT_BASE/templates/session-log-template.md"          -o templates/session-log-template.md
-curl -sSL "$TOOLKIT_BASE/templates/evolution-log-template.md"       -o templates/evolution-log-template.md
+curl -fsSL "$TOOLKIT_BASE/templates/directive-memo-template.md"        -o templates/directive-memo-template.md
+curl -fsSL "$TOOLKIT_BASE/templates/integrity-report-template.md"      -o templates/integrity-report-template.md
+curl -fsSL "$TOOLKIT_BASE/templates/course-ai-policy-template.md"      -o templates/course-ai-policy-template.md
+curl -fsSL "$TOOLKIT_BASE/templates/session-log-template.md"          -o templates/session-log-template.md
+curl -fsSL "$TOOLKIT_BASE/templates/evolution-log-template.md"       -o templates/evolution-log-template.md
 
 # Download workflow diagram (skip if already exists)
 if [ ! -f "WORKFLOW.md" ]; then
-  curl -sSL "$TOOLKIT_BASE/WORKFLOW.md" -o WORKFLOW.md
+  curl -fsSL "$TOOLKIT_BASE/WORKFLOW.md" -o WORKFLOW.md
 fi
 
 echo ""

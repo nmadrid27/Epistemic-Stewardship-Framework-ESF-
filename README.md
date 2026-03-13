@@ -39,7 +39,7 @@ Both levels use the same Five Questions at every human gate: *Can I defend this?
 Install the ESF Student Toolkit into your own portfolio repo:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash
 ```
 
 The toolkit configures Claude Code with the Level 2 workflow and enforces the Position Statement gate before AI engagement.
@@ -52,7 +52,7 @@ You carry the repo across your entire program; projects and process artifacts ac
 Install the ESF Faculty Toolkit into your own faculty repo:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/install.sh | bash
 ```
 
 The toolkit configures Claude Code with the Level 1 workflow, curriculum development, and document production skills. It includes a review procedure that evaluates your project briefs for ESF alignment.
@@ -64,7 +64,7 @@ The toolkit configures Claude Code with the Level 1 workflow, curriculum develop
 Not in a university? The Community Toolkit is a stripped-down, domain-agnostic version of ESF for writers, designers, developers, consultants, or anyone working with AI:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/nmadrid27/esf-community-toolkit/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nmadrid27/esf-community-toolkit/main/install.sh | bash
 ```
 
 Five templates, one workflow, works with any AI tool. No institution or course required.

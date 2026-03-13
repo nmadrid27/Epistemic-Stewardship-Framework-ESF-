@@ -34,7 +34,7 @@ Your instructor will confirm whether a Claude subscription is required for your 
 If you have never used git or GitHub, run this single command. It creates a repository, initializes git, optionally pushes to GitHub, and installs the toolkit for you:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/setup-repo.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/setup-repo.sh | bash
 ```
 
 The script asks for a repo name and your name, handles everything else, then drops you into a ready-to-use portfolio repo. Skip to **Step 3: Run onboarding** below.
@@ -58,7 +58,7 @@ cd YOUR-REPO-NAME
 Run this from inside your portfolio repo:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash
 ```
 
 The installer drops the `.claude/` configuration files into your repo. It takes about 30 seconds.
@@ -159,7 +159,7 @@ After AI 301, your `projects/` folder spans all four courses: a documented recor
 When a new version of the toolkit is released, re-run the installer from inside your portfolio repo:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash
 ```
 
 Your projects and personalized agent file are not affected.
@@ -171,7 +171,7 @@ Your projects and personalized agent file are not affected.
 To try the toolkit before setting up your own profile, install with sample data:
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash -s -- --sample
+curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash -s -- --sample
 ```
 
 This installs a pre-filled AI-201 student profile (Alex Rivera, Responsive System project, Explore phase) with a project brief, position statement, and one Record of Resistance already in place.

@@ -3,10 +3,10 @@
 # Drops the .claude/ configuration into your current directory.
 #
 # Usage (run from inside your portfolio repo):
-#   curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash
 #
 # Add --sample to install pre-filled AI-201 test data (Alex Rivera):
-#   curl -sSL ... | bash -s -- --sample
+#   curl -fsSL ... | bash -s -- --sample
 
 set -e
 
@@ -52,7 +52,7 @@ if [ ! -d ".git" ]; then
     1)
       SETUP_URL="https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/setup-repo.sh"
       echo "Launching setup script..."
-      curl -sSL "$SETUP_URL" | bash
+      curl -fsSL "$SETUP_URL" | bash
       exit $?
       ;;
     2)
@@ -75,38 +75,43 @@ mkdir -p .claude/reference
 mkdir -p prompts
 mkdir -p templates
 
-# Download agents
+# Download agents (preserve personalized agent on re-install)
 echo "  Fetching agents..."
-curl -sSL "$TOOLKIT_BASE/.claude/agents/esf-student.md" -o .claude/agents/esf-student.md
+if [ -f ".claude/agents/esf-student.md" ] && grep -q "STUDENT_NAME\|^- \*\*Name:\*\*" .claude/agents/esf-student.md 2>/dev/null && ! grep -q "\[STUDENT_NAME\]" .claude/agents/esf-student.md 2>/dev/null; then
+  echo -e "  ${YELLOW}Personalized agent file found; skipping to preserve your profile.${NC}"
+  echo "  To force update: delete .claude/agents/esf-student.md and re-run."
+else
+  curl -fsSL "$TOOLKIT_BASE/.claude/agents/esf-student.md" -o .claude/agents/esf-student.md
+fi
 
 # Download skills
 echo "  Fetching skills..."
-curl -sSL "$TOOLKIT_BASE/.claude/skills/esf-onboarding/SKILL.md" -o .claude/skills/esf-onboarding/SKILL.md
-curl -sSL "$TOOLKIT_BASE/.claude/skills/esf-project/SKILL.md"    -o .claude/skills/esf-project/SKILL.md
+curl -fsSL "$TOOLKIT_BASE/.claude/skills/esf-onboarding/SKILL.md" -o .claude/skills/esf-onboarding/SKILL.md
+curl -fsSL "$TOOLKIT_BASE/.claude/skills/esf-project/SKILL.md"    -o .claude/skills/esf-project/SKILL.md
 
 # Download prompts (for non-Claude Code users)
 echo "  Fetching prompts..."
-curl -sSL "$TOOLKIT_BASE/prompts/student-companion.md"  -o prompts/student-companion.md
-curl -sSL "$TOOLKIT_BASE/prompts/project-workflow.md"   -o prompts/project-workflow.md
-curl -sSL "$TOOLKIT_BASE/prompts/README.md"             -o prompts/README.md
+curl -fsSL "$TOOLKIT_BASE/prompts/student-companion.md"  -o prompts/student-companion.md
+curl -fsSL "$TOOLKIT_BASE/prompts/project-workflow.md"   -o prompts/project-workflow.md
+curl -fsSL "$TOOLKIT_BASE/prompts/README.md"             -o prompts/README.md
 
 # Download templates
 echo "  Fetching templates..."
-curl -sSL "$TOOLKIT_BASE/templates/position-statement-template.md"    -o templates/position-statement-template.md
-curl -sSL "$TOOLKIT_BASE/templates/ai-use-log-template.md"           -o templates/ai-use-log-template.md
-curl -sSL "$TOOLKIT_BASE/templates/record-of-resistance-template.md" -o templates/record-of-resistance-template.md
-curl -sSL "$TOOLKIT_BASE/templates/session-log-template.md"          -o templates/session-log-template.md
-curl -sSL "$TOOLKIT_BASE/templates/student-reflection-template.md"   -o templates/student-reflection-template.md
-curl -sSL "$TOOLKIT_BASE/templates/evolution-log-template.md"        -o templates/evolution-log-template.md
+curl -fsSL "$TOOLKIT_BASE/templates/position-statement-template.md"    -o templates/position-statement-template.md
+curl -fsSL "$TOOLKIT_BASE/templates/ai-use-log-template.md"           -o templates/ai-use-log-template.md
+curl -fsSL "$TOOLKIT_BASE/templates/record-of-resistance-template.md" -o templates/record-of-resistance-template.md
+curl -fsSL "$TOOLKIT_BASE/templates/session-log-template.md"          -o templates/session-log-template.md
+curl -fsSL "$TOOLKIT_BASE/templates/student-reflection-template.md"   -o templates/student-reflection-template.md
+curl -fsSL "$TOOLKIT_BASE/templates/evolution-log-template.md"        -o templates/evolution-log-template.md
 
 # Download reference files
 echo "  Fetching reference files..."
-curl -sSL "$TOOLKIT_BASE/.claude/reference/esf-student-guide.md"   -o .claude/reference/esf-student-guide.md
-curl -sSL "$TOOLKIT_BASE/.claude/reference/disclosure-protocol.md" -o .claude/reference/disclosure-protocol.md
+curl -fsSL "$TOOLKIT_BASE/.claude/reference/esf-student-guide.md"   -o .claude/reference/esf-student-guide.md
+curl -fsSL "$TOOLKIT_BASE/.claude/reference/disclosure-protocol.md" -o .claude/reference/disclosure-protocol.md
 
 # Download workflow diagram (skip if file already exists; student may have customized it)
 if [ ! -f "WORKFLOW.md" ]; then
-  curl -sSL "$TOOLKIT_BASE/WORKFLOW.md" -o WORKFLOW.md
+  curl -fsSL "$TOOLKIT_BASE/WORKFLOW.md" -o WORKFLOW.md
 fi
 
 # Install sample data if --sample flag was passed
@@ -115,15 +120,17 @@ if [ "$SAMPLE" = true ]; then
   mkdir -p projects/ai-201/briefs
   mkdir -p projects/ai-201/position-statements
   mkdir -p projects/ai-201/records-of-resistance
+  mkdir -p projects/ai-201/ai-use-logs
+  mkdir -p projects/ai-201/gate-records
+  mkdir -p projects/ai-201/reflections
   mkdir -p projects/ai-201/work
-  mkdir -p projects/ai-201/logs
-  curl -sSL "$TOOLKIT_BASE/sample/agents/esf-student.md" \
+  curl -fsSL "$TOOLKIT_BASE/sample/agents/esf-student.md" \
     -o .claude/agents/esf-student.md
-  curl -sSL "$TOOLKIT_BASE/sample/projects/ai-201/briefs/p2-responsive-system.md" \
+  curl -fsSL "$TOOLKIT_BASE/sample/projects/ai-201/briefs/p2-responsive-system.md" \
     -o projects/ai-201/briefs/p2-responsive-system.md
-  curl -sSL "$TOOLKIT_BASE/sample/projects/ai-201/position-statements/responsive-system.md" \
+  curl -fsSL "$TOOLKIT_BASE/sample/projects/ai-201/position-statements/responsive-system.md" \
     -o projects/ai-201/position-statements/responsive-system.md
-  curl -sSL "$TOOLKIT_BASE/sample/projects/ai-201/records-of-resistance/ror-01.md" \
+  curl -fsSL "$TOOLKIT_BASE/sample/projects/ai-201/records-of-resistance/ror-01.md" \
     -o projects/ai-201/records-of-resistance/ror-01.md
 fi
 

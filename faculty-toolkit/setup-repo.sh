@@ -3,7 +3,7 @@
 # Creates a git repository for faculty who are new to GitHub.
 #
 # Usage:
-#   curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/setup-repo.sh | bash
+#   curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/setup-repo.sh | bash
 #
 # What it does:
 #   1. Creates a working directory
@@ -65,7 +65,7 @@ echo -e "${CYAN}Creating repository...${NC}"
 # Create directory and initialize git
 mkdir -p "$REPO_NAME"
 cd "$REPO_NAME"
-git init -q
+git init -q -b main
 
 # Create .gitignore
 cat > .gitignore << 'GITIGNORE'
@@ -111,7 +111,7 @@ After running the ESF Faculty Toolkit installer, the repository will contain:
 If the toolkit is not yet installed, run:
 
 \`\`\`bash
-curl -sSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/install.sh | bash
 \`\`\`
 README
 
@@ -157,7 +157,7 @@ echo -e "${CYAN}Installing ESF Faculty Toolkit...${NC}"
 echo ""
 
 INSTALLER_URL="https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/faculty-toolkit/install.sh"
-curl -sSL "$INSTALLER_URL" | bash
+curl -fsSL "$INSTALLER_URL" | bash
 
 echo ""
 echo -e "${GREEN}All done.${NC} Your faculty workspace is ready at: $(pwd)"
