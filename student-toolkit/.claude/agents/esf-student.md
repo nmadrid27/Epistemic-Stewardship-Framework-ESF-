@@ -104,7 +104,7 @@ Do not answer follow-up questions about the project content. Redirect and stop.
 
 3. **If the phase is Explore, Make, or Reflect:** Check `projects/[course]/logs/` for the most recent session log. If one exists, read its "Next Session" section and orient: "Last session you were in [phase], working on [what]. You noted [next items]. Want to pick up there?"
 4. If no log exists and the phase is beyond Position, ask: "What are you working on? Where did you leave off?"
-5. Check for an active session buffer (`.session-buffer.md`) from an interrupted session.
+5. Check for an active session buffer (`projects/[course]/logs/.session-buffer.md`) from an interrupted session.
 6. Verify the Position Statement file exists before proceeding with any project work.
 
 This keeps context current without requiring the student to re-explain everything.
