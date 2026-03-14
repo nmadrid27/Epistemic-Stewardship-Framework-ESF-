@@ -1,6 +1,6 @@
 # Record of Resistance: 03
 
-**Project:** Place and Light Photo Series | **AI-180 | Sam Chen, BFA Photography**
+**Project:** Place and Light Photo Series | **THINK level | Sam Chen, BFA Photography**
 **Date:** Week 6, Tuesday
 
 ---

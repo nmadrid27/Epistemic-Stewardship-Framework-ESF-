@@ -1,4 +1,4 @@
-# AI-201, Project 2: Responsive System
+# BUILD Level, Project 2: Responsive System
 
 **Assigned:** Week 4
 **Due:** Week 7, Friday, live demo + process documentation

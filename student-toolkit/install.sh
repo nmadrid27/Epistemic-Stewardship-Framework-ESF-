@@ -5,7 +5,7 @@
 # Usage (run from inside your portfolio repo):
 #   curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash
 #
-# Add --sample to install pre-filled AI-201 test data (Alex Rivera):
+# Add --sample to install pre-filled BUILD-level test data (Alex Rivera):
 #   curl -fsSL ... | bash -s -- --sample
 
 set -e
@@ -116,23 +116,23 @@ fi
 
 # Install sample data if --sample flag was passed
 if [ "$SAMPLE" = true ]; then
-  echo "  Installing AI-201 sample data (Alex Rivera)..."
-  mkdir -p projects/ai-201/briefs
-  mkdir -p projects/ai-201/position-statements
-  mkdir -p projects/ai-201/records-of-resistance
-  mkdir -p projects/ai-201/ai-use-logs
-  mkdir -p projects/ai-201/gate-records
-  mkdir -p projects/ai-201/reflections
-  mkdir -p projects/ai-201/logs
-  mkdir -p projects/ai-201/work
+  echo "  Installing BUILD-level sample data (Alex Rivera)..."
+  mkdir -p projects/build-course/briefs
+  mkdir -p projects/build-course/position-statements
+  mkdir -p projects/build-course/records-of-resistance
+  mkdir -p projects/build-course/ai-use-logs
+  mkdir -p projects/build-course/gate-records
+  mkdir -p projects/build-course/reflections
+  mkdir -p projects/build-course/logs
+  mkdir -p projects/build-course/work
   curl -fsSL "$TOOLKIT_BASE/sample/agents/esf-student.md" \
     -o .claude/agents/esf-student.md
-  curl -fsSL "$TOOLKIT_BASE/sample/projects/ai-201/briefs/p2-responsive-system.md" \
-    -o projects/ai-201/briefs/p2-responsive-system.md
-  curl -fsSL "$TOOLKIT_BASE/sample/projects/ai-201/position-statements/responsive-system.md" \
-    -o projects/ai-201/position-statements/responsive-system.md
-  curl -fsSL "$TOOLKIT_BASE/sample/projects/ai-201/records-of-resistance/ror-01.md" \
-    -o projects/ai-201/records-of-resistance/ror-01.md
+  curl -fsSL "$TOOLKIT_BASE/sample/projects/build-course/briefs/p2-responsive-system.md" \
+    -o projects/build-course/briefs/p2-responsive-system.md
+  curl -fsSL "$TOOLKIT_BASE/sample/projects/build-course/position-statements/responsive-system.md" \
+    -o projects/build-course/position-statements/responsive-system.md
+  curl -fsSL "$TOOLKIT_BASE/sample/projects/build-course/records-of-resistance/ror-01.md" \
+    -o projects/build-course/records-of-resistance/ror-01.md
 fi
 
 echo ""

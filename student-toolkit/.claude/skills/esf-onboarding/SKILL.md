@@ -42,24 +42,23 @@ Explain:
 > "Now tell me about the courses you're taking that will use this toolkit. For each course, I need the course code and name, your instructor's name, and whether it's part of the AI degree sequence."
 
 For each course, collect:
-- Course code (e.g., AI-180)
-- Course name (e.g., "Creative AI: Thinking")
+- Course code or name
 - Instructor name
-- Course level classification:
-  - AI 101: Discovering AI
-  - AI 180: Thinking with AI
-  - AI 201: Building with AI
-  - AI 301: Designing AI Systems
+- Pipeline level classification:
+  - DISCOVER: Discovering AI (first in sequence)
+  - THINK: Thinking with AI (second in sequence)
+  - BUILD: Building with AI (third in sequence)
+  - DESIGN: Designing AI Systems (fourth in sequence)
   - OTHER: any other course using ESF
 
 **For each course, determine the ESF requirements based on classification:**
 
 | Level | Records of Resistance | Position Statement Timing |
 |-------|----------------------|--------------------------|
-| AI 101 | Not required | Project start, lightly scaffolded |
-| AI 180 | 1 for P2, 3 for P3 | Project start, required before P2 and P3 |
-| AI 201 | 3 per project | Project start, required before all projects |
-| AI 301 | Student-defined | Student-defined |
+| DISCOVER | Not required | Project start, lightly scaffolded |
+| THINK | See course syllabus | Project start, required at instructor's discretion |
+| BUILD | See course syllabus | Project start, required before all projects |
+| DESIGN | Student-defined | Student-defined |
 | OTHER | Ask the student what their instructor requires | Ask the student |
 
 If the course level is OTHER or unclear, ask: "Does your instructor have specific requirements for when you can start using AI on a project, or for documenting your AI use?" Capture whatever they tell you.
@@ -100,8 +99,8 @@ Now use the Edit tool to update `esf-student.md`: replace all `[PLACEHOLDER]` va
 
 **Course list format:**
 ```
-- AI-180: Creative AI: Thinking with Professor Martinez
-  ESF level: AI_180
+- THINK: [Course Title] with [Instructor Name]
+  ESF level: THINK
   Records of Resistance required: yes, 1 for P2, 3 for P3
   Position Statement timing: project start (required before P2 and P3)
 ```
@@ -114,27 +113,27 @@ For each course with specific ESF requirements, update the `[COURSE_ADDENDUM]`, 
 
 Replace each comment block with the appropriate course-specific text based on the course level classification above.
 
-**For AI 180, `[COURSE_ADDENDUM]` becomes:**
+**For THINK level, `[COURSE_ADDENDUM]` becomes:**
 ```
-**AI 180: Position Statement note:**
+**THINK level: Position Statement note:**
 Your Position Statement should also note where you plan to use AI in this project:
 which tasks you'll delegate, and which you'll keep human-only. This becomes the
 basis for your Records of Resistance documentation.
 ```
 
-**For AI 201, `[COURSE_ADDENDUM]` becomes:**
+**For BUILD level, `[COURSE_ADDENDUM]` becomes:**
 ```
-**AI 201: Design Intent note:**
+**BUILD level: Design Intent note:**
 Your Position Statement should include a Design Intent section: your position on
 the creative/technical problem you're solving, the AI tools you plan to use and why,
 and what success looks like on your own terms before you've seen AI output.
 ```
 
 **For `[COURSE_LEVEL_ADDENDUM]`**, set the calibration note based on the highest-level course enrolled:
-- AI 101: lighter scaffolding, more encouraging tone
-- AI 180: standard scaffolding, full gate enforcement
-- AI 201: reduced scaffolding, increased challenge and independence
-- AI 301: student-directed; prompt them to define their own gates
+- DISCOVER: lighter scaffolding, more encouraging tone
+- THINK: standard scaffolding, full gate enforcement
+- BUILD: reduced scaffolding, increased challenge and independence
+- DESIGN: student-directed; prompt them to define their own gates
 
 If the student is enrolled in multiple courses at different levels, use the highest level as the default calibration and note that lighter scaffolding is available for the lower-level course.
 

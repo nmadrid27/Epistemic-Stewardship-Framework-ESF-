@@ -1,5 +1,5 @@
 # Record of Resistance: 01
-**Project:** Responsive System | **AI-201 | Alex Rivera**
+**Project:** Responsive System | **BUILD level | Alex Rivera**
 **Date:** Week 5, Tuesday
 
 ---

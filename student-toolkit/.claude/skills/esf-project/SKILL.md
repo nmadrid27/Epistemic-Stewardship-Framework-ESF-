@@ -62,14 +62,14 @@ Length: 200 to 400 words. Rough is not just acceptable; it is expected. Bullet p
 ### [COURSE_ADDENDUM]
 
 <!-- Populated by onboarding agent with course-specific Position Statement requirements.
-     Example for AI 180:
+     Example for THINK level:
 
-     For AI 180, your Position Statement should also note where you plan to use AI in
+     At the THINK level, your Position Statement should also note where you plan to use AI in
      this project, which tasks you will delegate, and which you will keep human-only.
      This becomes the basis for your Records of Resistance documentation.
 
-     Example for AI 201:
-     For AI 201, your Position Statement should include a Design Intent section: your
+     Example for BUILD level:
+     At the BUILD level, your Position Statement should include a Design Intent section: your
      position on the creative/technical problem you're solving, the AI tools you plan
      to use and why, and what success looks like on your own terms.
 -->
@@ -177,15 +177,15 @@ Build the actual project output together. The Position Statement is your north s
 ### [COURSE_ADDENDUM_MAKE]
 
 <!-- Populated by onboarding agent with course-specific Make phase requirements.
-     Example for AI 180:
-     Track at least 1 Record of Resistance for this project: a moment where you
-     deliberately chose to keep, revise, or reject an AI suggestion. Document it in
-     `projects/[course]/records-of-resistance/[project-name].md`.
+     Example for THINK level:
+     Track Records of Resistance for this project as required by your course syllabus:
+     moments where you deliberately chose to keep, revise, or reject an AI suggestion.
+     Document them in `projects/[course]/records-of-resistance/[project-name].md`.
 
-     Example for AI 201:
-     Track at least 3 Records of Resistance. Each entry should include: the AI
-     suggestion, your decision, and your reasoning. These are assessed as part
-     of your project submission.
+     Example for BUILD level:
+     Track Records of Resistance as required by your course syllabus. Each entry should
+     include: the AI suggestion, your decision, and your reasoning. These are assessed
+     as part of your project submission.
 -->
 
 ---
@@ -293,7 +293,7 @@ When a project reaches Phase 5 (Reflect) and the student completes their final r
 - Position Statement drift pattern (did drift increase or decrease across sessions?)
 - Prompt evolution summary (one sentence: how did their prompting mature?)
 
-**Where to store:** Append to the agent file (`esf-student.md`) under the "Growth Record" section. Each completed project adds one entry. Over four courses (AI 101 through 301), this builds a visible development arc.
+**Where to store:** Append to the agent file (`esf-student.md`) under the "Growth Record" section. Each completed project adds one entry. Over the full course sequence (DISCOVER through DESIGN), this builds a visible development arc.
 
 ### Session Start: Context Loading
 
@@ -308,12 +308,12 @@ This replaces the generic "what are you working on?" opening with specific conte
 ### [COURSE_LEVEL_ADDENDUM]
 
 <!-- Populated by onboarding agent with course-level calibration.
-     Example for AI 101:
+     Example for DISCOVER level:
      This student is in their first AI course. Use lighter gate language, more
      encouraging, less confrontational. More scaffolding at each phase. Expect
      the Position Statement to be rough; that's appropriate for this level.
 
-     Example for AI 301:
+     Example for DESIGN level:
      This student is designing AI systems. They should be designing their own
      gates and process artifacts, not just following the ESF phases. Prompt
      them to define their own gate criteria at the start of each project.

@@ -1,6 +1,6 @@
 # Position Statement: Visual Essay on Identity and Place
 
-**Jamie Torres, BFA Illustration | AI-180**
+**Jamie Torres, BFA Illustration | THINK level**
 **Project 2: Visual Essay**
 
 ---

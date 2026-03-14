@@ -1,5 +1,5 @@
 # Position Statement: Responsive System
-**AI-201, Project 2 | Alex Rivera | Written: Week 4, before AI engagement**
+**BUILD level, Project 2 | Alex Rivera | Written: Week 4, before AI engagement**
 
 ---
 

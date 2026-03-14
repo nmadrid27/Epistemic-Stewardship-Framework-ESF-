@@ -80,15 +80,15 @@ Compile all extracted content into `course-data.json`. The schema matches the Ty
 ```json
 {
   "metadata": {
-    "courseCode": "AI 201",
-    "courseTitle": "Creative Computing with AI",
+    "courseCode": "COURSE-201",
+    "courseTitle": "Your Course Title",
     "quarter": "Spring",
     "year": 2026,
     "instructor": "Faculty Name",
     "courseDescription": "2 to 3 sentence overview",
     "totalWeeks": 10,
     "hasESF": true,
-    "program": "Applied AI Program"
+    "program": "Your Program Name"
   },
   "learningOutcomes": [{ "id": 1, "outcome": "..." }],
   "courseStructure": {

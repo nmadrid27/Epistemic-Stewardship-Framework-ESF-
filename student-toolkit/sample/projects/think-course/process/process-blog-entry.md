@@ -1,6 +1,6 @@
 # Process Blog: Week 5 Working Session
 
-**Jamie Torres, BFA Illustration | AI-180, Project 2: Visual Essay**
+**Jamie Torres, BFA Illustration | THINK level, Project 2: Visual Essay**
 **Date:** Week 5, Thursday
 
 ---

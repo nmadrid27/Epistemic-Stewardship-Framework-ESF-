@@ -284,7 +284,7 @@ For technical and creative computing projects, the Level 2 process has two compl
 
 **Orchestrator** describes the technical coordination relationship: the student decides what each AI capability does, how components communicate, and what the whole system means. AI is the engineering team. The student decides the architecture.
 
-Students in AI 201 use both. Students in AI 301 formalize the orchestrator role as the core of agentic design. Naming both postures in AI 180 and AI 201 prepares students for that transition.
+Students in the BUILD course use both. Students in the DESIGN course formalize the orchestrator role as the core of agentic design. Naming both postures in the THINK and BUILD courses prepares students for that transition.
 
 ## Working Across Sessions
 

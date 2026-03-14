@@ -1,6 +1,6 @@
 # Record of Resistance: 02
 
-**Project:** Typographic History Poster Series | **AI-180 | Priya Kapoor, BFA Graphic Design**
+**Project:** Typographic History Poster Series | **THINK level | Priya Kapoor, BFA Graphic Design**
 **Date:** Week 5, Monday
 
 ---

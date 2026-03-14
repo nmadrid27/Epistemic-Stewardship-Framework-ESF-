@@ -1,6 +1,6 @@
 # Record of Resistance: 01
 
-**Project:** Visual Essay on Identity and Place | **AI-180 | Jamie Torres, BFA Illustration**
+**Project:** Visual Essay on Identity and Place | **THINK level | Jamie Torres, BFA Illustration**
 **Date:** Week 4, Thursday
 
 ---

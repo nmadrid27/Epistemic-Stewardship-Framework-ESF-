@@ -1,6 +1,6 @@
 # Record of Resistance: 02
 
-**Project:** Responsive System | **AI-201 | Alex Rivera, BFA Motion Media Design**
+**Project:** Responsive System | **BUILD level | Alex Rivera, BFA Motion Media Design**
 **Date:** Week 6, Wednesday
 
 ---

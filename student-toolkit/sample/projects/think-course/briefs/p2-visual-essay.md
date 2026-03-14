@@ -1,4 +1,4 @@
-# AI-180, Project 2: Visual Essay
+# THINK Level, Project 2: Visual Essay
 
 **Assigned:** Week 3
 **Due:** Week 6, Friday, final panels + process documentation

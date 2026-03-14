@@ -97,8 +97,7 @@ your-faculty-repo/
 │   ├── skills/
 │   │   ├── esf-onboarding/              ← Setup wizard (/esf-onboarding)
 │   │   ├── curriculum-dev/              ← Course design workflow
-│   │   ├── document-production/         ← Institutional document workflow
-│   │   └── course-microsite/            ← Student-facing course site builder (optional)
+│   │   └── document-production/         ← Institutional document workflow
 │   └── reference/                       ← ESF guides and protocols
 │       ├── esf-faculty-guide.md
 │       ├── esf-student-guide.md         ← Understand your students' experience
@@ -156,49 +155,6 @@ The student toolkit enforces the Level 2 process structurally, not just rhetoric
 **What this means for brief design:** Briefs that require students to form a position before producing anything work well with the gate structure. Briefs that jump straight to production without creating space for inquiry create friction at the gate. The brief review during your onboarding addresses this directly.
 
 Assignment design guidance is in Section G of `reference/esf-faculty-guide.md`.
-
----
-
-## Course Microsites (Optional)
-
-Build an interactive student-facing course website from your syllabus, session plans, and project briefs. Students get a navigable site with course overview, week-by-week content, project detail pages, ESF templates, and policies, accessible from any browser.
-
-**Additional prerequisites:** Node.js (v18+) and pnpm. Vercel CLI if you want one-command deployment.
-
-### Option A: Use the GitHub Template (Recommended)
-
-The fastest path. Click **"Use this template"** on the [ESF Course Microsite](https://github.com/nmadrid27/esf-course-microsite) repo to create your own copy.
-
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-SITE.git
-cd YOUR-SITE
-pnpm install
-```
-
-Edit `src/data/course-data.json` with your course content (the file ships with placeholder data showing the expected structure), or use the included compiler to generate it from your vault:
-
-```bash
-node scripts/compile.mjs /path/to/your/course/folder
-```
-
-Preview locally with `pnpm dev:vite`, then deploy:
-
-```bash
-pnpm run build
-vercel deploy --prod
-```
-
-Full setup instructions are in the [template repo README](https://github.com/nmadrid27/esf-course-microsite#readme).
-
-### Option B: Use the Claude Code Skill
-
-If you prefer to work entirely within Claude Code, the toolkit includes a `course-microsite` skill. Tell Claude:
-
-```
-Build a microsite for courses/my-course
-```
-
-Claude reads your content, compiles it into structured data, scaffolds the React project, and produces a deployable site. See `.claude/skills/course-microsite/SKILL.md` for the full workflow.
 
 ---
 

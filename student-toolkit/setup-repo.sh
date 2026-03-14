@@ -93,7 +93,7 @@ GITIGNORE
 cat > README.md << README
 # ${STUDENT_NAME:-My} AI Portfolio
 
-This repository holds my coursework, position statements, records of resistance, and project artifacts across the Applied AI program.
+This repository holds my coursework, position statements, records of resistance, and project artifacts across the program.
 
 Managed with the [Epistemic Stewardship Framework (ESF)](https://github.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-).
 

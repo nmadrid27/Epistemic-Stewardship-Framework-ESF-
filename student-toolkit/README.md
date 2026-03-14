@@ -2,7 +2,7 @@
 
 The Epistemic Stewardship Framework (ESF) Student Toolkit supports your AI-assisted coursework, helping you develop and maintain your own ideas while working alongside AI.
 
-The ESF process works with any AI tool. This toolkit installs into **your own portfolio repo**, which you carry across the entire Applied AI program (AI 101 → AI 180 → AI 201 → AI 301). Your projects, position statements, and records of resistance accumulate there. The toolkit is the configuration layer; the work is yours.
+The ESF process works with any AI tool. This toolkit installs into **your own portfolio repo**, which you carry across the full program sequence (DISCOVER → THINK → BUILD → DESIGN). Your projects, position statements, and records of resistance accumulate there. The toolkit is the configuration layer; the work is yours.
 
 ---
 
@@ -153,7 +153,7 @@ your-portfolio-repo/
 └── WORKFLOW.md                     ← ESF Level 2 process diagram
 ```
 
-After AI 301, your `projects/` folder spans all four courses: a documented record of your development across the program.
+After completing the full sequence, your `projects/` folder spans all courses: a documented record of your development across the program.
 
 ---
 
@@ -177,7 +177,7 @@ To try the toolkit before setting up your own profile, install with sample data:
 curl -fsSL https://raw.githubusercontent.com/nmadrid27/Epistemic-Stewardship-Framework-ESF-/main/student-toolkit/install.sh | bash -s -- --sample
 ```
 
-This installs a pre-filled AI-201 student profile (Alex Rivera, Responsive System project, Explore phase) with a project brief, position statement, and one Record of Resistance already in place.
+This installs a sample student profile (Alex Rivera, Responsive System project, Explore phase) at the BUILD level, with a project brief, position statement, and one Record of Resistance already in place.
 
 Open Claude Code and say: "I want to keep working on my responsive system." The toolkit will load immediately without onboarding.
 

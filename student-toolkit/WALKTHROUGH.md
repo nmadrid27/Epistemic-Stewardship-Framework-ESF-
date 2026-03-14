@@ -1,5 +1,5 @@
 ---
-entities: [ESF, AI-180, Records-of-Resistance]
+entities: [ESF, Records-of-Resistance]
 ---
 
 # End-to-End Walkthrough: Student Toolkit
@@ -12,7 +12,7 @@ By the end you will see what the ESF Level 2 process looks like in practice, not
 
 ## Meet Maya
 
-Maya Chen is a second-year graphic design student in AI 180 (Unleashing Creativity). She finished Project 1 (Process Journal) without AI. Now she is starting Project 2, the Defixation Portfolio: her first project where AI is required. She installed the student toolkit at the start of the quarter.
+Maya Chen is a second-year graphic design student in her program's THINK-level course (the second in the sequence). She finished Project 1 (Process Journal) without AI. Now she is starting Project 2, the Defixation Portfolio: her first project where AI is required. She installed the student toolkit at the start of the quarter.
 
 Her brief asks for 5 substantially different responses to a creative problem using 4 defixation techniques, plus one AI-assisted session. She must write a Position Statement before the AI session and submit an AI Use Log with at least 1 Record of Resistance.
 
@@ -41,7 +41,7 @@ Onboarding asked three things:
 
 1. **Name:** Maya Chen
 2. **Degree program:** Graphic Design, BFA
-3. **Current course:** AI 180, Unleashing Creativity
+3. **Current course:** THINK-level course (second in the sequence)
 
 It created her folder structure and personalized her agent file. Took about 5 minutes.
 
@@ -54,7 +54,7 @@ ai-portfolio/
 │   ├── skills/
 │   └── reference/
 ├── projects/
-│   └── ai-180/
+│   └── think-course/
 │       ├── briefs/
 │       ├── position-statements/
 │       ├── records-of-resistance/
@@ -70,7 +70,7 @@ ai-portfolio/
 At the start of Week 4, Maya saves the Project 2 brief her instructor provided:
 
 ```
-projects/ai-180/briefs/project-02-defixation-portfolio.md
+projects/think-course/briefs/project-02-defixation-portfolio.md
 ```
 
 She chose a real brief from her Typography II class: "Design a wayfinding system for a local independent bookstore." Specific enough to constrain, open enough for multiple directions.
@@ -100,7 +100,7 @@ Maya reads the brief carefully and writes inquiry notes in her own words. No AI 
 Maya opens her Position Statement file:
 
 ```
-projects/ai-180/position-statements/p2-position-statement.md
+projects/think-course/position-statements/p2-position-statement.md
 ```
 
 **What she writes** (rough, not polished; this is the point):
@@ -119,7 +119,7 @@ If Maya opens Claude Code and says "Help me brainstorm responses for my wayfindi
 
 > I can't help with this project yet.
 >
-> You need a Position Statement first. This is not a rule; it is the mechanism that keeps your work yours. Write your position, what matters most, and what you will not compromise on. Save it to `projects/ai-180/position-statements/`. Once it exists, come back and we will begin.
+> You need a Position Statement first. This is not a rule; it is the mechanism that keeps your work yours. Write your position, what matters most, and what you will not compromise on. Save it to `projects/think-course/position-statements/`. Once it exists, come back and we will begin.
 
 The gate holds. AI does not engage until she has documented her own thinking.
 
@@ -264,7 +264,7 @@ ai-portfolio/
 ├── .claude/
 │   └── [toolkit configuration]
 ├── projects/
-│   └── ai-180/
+│   └── think-course/
 │       ├── briefs/
 │       │   └── project-02-defixation-portfolio.md
 │       ├── position-statements/
@@ -285,7 +285,7 @@ ai-portfolio/
 
 Every artifact has a clear provenance. The Position Statement documents what Maya thought before AI. The Record of Resistance documents what she rejected and why. The AI Use Log documents every significant interaction. The disclosure is specific and honest.
 
-When Maya starts AI 201 next quarter, her `projects/ai-180/` folder carries forward. Her Position Statements and Records of Resistance accumulate across the program. By AI 301, she has a documented record of how her relationship with AI tools developed over four courses.
+When Maya moves to the next course in the sequence, her project folder carries forward. Her Position Statements and Records of Resistance accumulate across the program. By the final course, she has a documented record of how her relationship with AI tools developed across the full sequence.
 
 ---
 
@@ -302,4 +302,4 @@ When Maya starts AI 201 next quarter, her `projects/ai-180/` folder carries forw
 ---
 
 *Epistemic Stewardship Framework, Student Toolkit Walkthrough*
-*Based on AI 180 Project 2: Defixation Portfolio*
+*Based on a THINK-level project: Defixation Portfolio*

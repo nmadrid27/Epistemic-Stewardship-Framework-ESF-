@@ -177,7 +177,7 @@ Go through your existing work section by section.
 
 ### Worked Example: Brownfield Adoption
 
-Marcus is three weeks into his AI 180 Project 2. He used ChatGPT extensively to brainstorm his concept and draft his project proposal. His instructor just introduced the Position Statement requirement. Marcus does not have one, and he is not sure which ideas in his proposal are his and which came from the AI conversation.
+Marcus is three weeks into a second course project. He used ChatGPT extensively to brainstorm his concept and draft his project proposal. His instructor just introduced the Position Statement requirement. Marcus does not have one, and he is not sure which ideas in his proposal are his and which came from the AI conversation.
 
 **Step 1: Retrospective Position Statement.** He closes ChatGPT, opens a blank document, and writes from memory:
 
@@ -234,9 +234,9 @@ If any answer is **no**, you have three options:
 
 Your process deepens across the AI curriculum.
 
-| Course | Level | What Changes |
+| Stage | Level | What Changes |
 |--------|-------|-------------|
-| AI 101 | Discovery | Instructor scaffolds gates. Learn the Inquire + Position sequence. |
-| AI 180 | Guided Use | Full process within structured parameters. Position Statement required. |
-| AI 201 | Independent Use | You run the process yourself. Peer-reviewed gates. |
-| AI 301 | Critical Partnership | You design your own gates. Mentor others through the process. |
+| DISCOVER | Discovery | Instructor scaffolds gates. Learn the Inquire + Position sequence. |
+| THINK | Guided Use | Full process within structured parameters. Position Statement required. |
+| BUILD | Independent Use | You run the process yourself. Peer-reviewed gates. |
+| DESIGN | Critical Partnership | You design your own gates. Mentor others through the process. |

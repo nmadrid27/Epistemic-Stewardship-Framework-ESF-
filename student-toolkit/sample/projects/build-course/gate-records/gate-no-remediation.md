@@ -1,6 +1,6 @@
 # Gate Record: Explore to Make
 
-**Project:** Responsive System | **AI-201 | Alex Rivera, BFA Motion Media Design**
+**Project:** Responsive System | **BUILD level | Alex Rivera, BFA Motion Media Design**
 **Date:** Week 5, Friday
 
 ---
